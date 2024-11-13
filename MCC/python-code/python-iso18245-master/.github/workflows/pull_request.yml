@@ -1,0 +1,33 @@
+name: Pull Request
+
+on:
+  pull_request:
+
+env:
+  POETRY_VERSION: "1.4.2"
+
+jobs:
+  build:
+    name: Build "Python ${{ matrix.target }}"
+    timeout-minutes: 5
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        target: ["3.8", "3.9", "3.10", "3.11"]
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          python-version: ${{ matrix.target }}
+      - uses: abatilo/actions-poetry@v2.1.4
+        with:
+          poetry-version: ${{ env.POETRY_VERSION }}
+      - uses: actions/cache@v3.0.2
+        with:
+          path: ~/.cache/pypoetry/virtualenvs
+          key: poetry-${{ matrix.target }}-${{ hashFiles('poetry.lock') }}
+      - run: poetry install
+        shell: bash
+      - run: poetry run mypy iso18245/

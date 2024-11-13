@@ -1,0 +1,933 @@
+MCC,MCC_TITLE,MCC_DESCRIPTION,INCLUDED_IN_MCC,SIMILAR_MERCHANTS
+0742,Veterinary Services,"Merchants classified with this MCC are licensed practitioners of veterinary medicine, dentistry, or surgery. This MCC includes medical practitioners of pets (e.g., dogs, cats), livestock (e.g., cattle, horses, sheep, hogs, goats, poultry), and large or exotic animals.","Animal Doctors, Hospitals Clinics – Pet Hospitals – Pet Pet Clinics Services – Veterinary","5995 – Pet Shops, Pet Foods and Supplies Store"
+0763,Agricultural Co-operatives,"Merchants classified with this MCC provide farm management services or engage in farming operations. Also included in this MCC are associations and cooperatives that provide assistance and services to farmers in farm management. These services include, but are not limited to financial assistance, management or complete maintenance of crops, soil preparation, planting and cultivating, aerial dusting and spraying, disease and insect control, weed control, and harvesting crops.",Farm Management Services Orchards Vineyards,"0780 – Landscaping and Horticultural Services 4225 – Public Warehousing and Storage – Farm Products, Refrigerated Goods, Household Goods, and Storage"
+0780,Landscaping and Horticultural Services,"Merchants classified with this MCC provide landscape planning and design services. This MCC also includes Merchants that offer a variety of lawn and garden services (e.g., planting, fertilizing, mowing, mulching, seeding, spraying, sod laying).",Gardening Services Horticulture Services Services – Gardening Services – Horticulture Services – Landscaping,"5193 – Florist Supplies, Nursery Stock and Flowers 5261 – Nurseries and Lawn and Garden Supply Stores"
+1520,General Contractors – Residential and Commercial,"Merchants classified with this MCC are general contractors primarily engaged in construction of residential and/or commercial buildings. This MCC includes contractors that perform new construction as well as remodeling, repair, additions, or alterations.","Building Contractors – Residential, Commercial Construction Companies Contractors – General Contractors – Residential, Commercial","1711 – Heating, Plumbing, and Air Conditioning Contractors 1731 – Electrical Contractors 1740 – Masonry, Stonework, Tile Setting, Plastering and Insulation Contractors 1750 – Carpentry Contractors ........ 1761 – Roofing, Siding, and Sheet Metal Work Contractors 1771 –Concrete Work Contractors 1799 – Special Trade Contractors (Not Elsewhere Classified)"
+1711,"Heating, Plumbing, and Air Conditioning Contractors","Merchants classified with this MCC are contractors that provide heating, plumbing and air conditioning services. This MCC includes contractors that perform air system balancing and testing, drainage system installation, furnace repair, irrigation system installation, refrigeration and freezer work, sewer hookups and connections, solar heating, sprinkler system installation and water pump installation and servicing.","Air Conditioning Contractors Contractors – Air Conditioning Contractors – Heating
+Contractors – Plumbing Heating Contractors Plumbing Contractors",1520 – General Contractors – Residential and Commercial 5074 – Plumbing and Heating Equipment and Supplies 1799 – Special Trade Contractors (Not Elsewhere Classified)
+1731,Electrical Contractors,"Merchants classified with this MCC are contractors that provide electrical work such as fire alarm installation, sound equipment installation, telecommunications equipment installation, cable/internet installation, and telephone and telephone equipment installation.",Contractors – Electrical,1520 – General Contractors – Residential and Commercial 1799 – Special Trade Contractors (Not Elsewhere Classified)
+1740,"Masonry, Stonework, Tile Setting, Plastering and Insulation Contractors","Merchants classified with this MCC are contractors that perform masonry work, stone setting and other stone work, tile setting, plain and ornamental plastering, and insulation. This MCC also includes contractors that perform bricklaying, ceramic and marble work, mosaic work, acoustical improvements, and drywall construction.",Contractors – Insulation Contractors – Masonry Contractors – Plastering Contractors – Stonework Contractors – Tile Setting Insulation Contractors Plastering Contractors Stonework Contractors Tile Setting Contractors,1520 – General Contractors – Residential and Commercial 1799 – Special Trade Contractors (Not Elsewhere Classified)
+1750,Carpentry Contractors,"Merchants classified with this MCC are contractors that perform carpentry work. This MCC includes contractors that do cabinet work at the construction site, framing, trim and finish work and window and door installation.",Contractors – Carpentry,1520 – General Contractors – Residential and Commercial 1799 – Special Trade Contractors (Not Elsewhere Classified)
+1761,"Roofing, Siding, and Sheet Metal Work Contractors","Merchants classified with this MCC are contractors that install roofing and/or siding and do sheet metal work. This MCC includes contractors that perform architectural sheet metal work, ceilings and skylight installation, duct and gutter installation, and roof spraying, painting or coating.",Contractors – Roofing Contractors – Sheet Metal Work Contractors – Siding Sheet Metal Work Contractors Siding Contractors,1520 – General Contractors – Residential and Commercial 1799 – Special Trade Contractors (Not Elsewhere Classified)
+1771,Concrete Work Contractors,"Merchants classified with this MCC are contractors that perform concrete, cement or asphalt work. This MCC includes contractors that construct private driveways and walks of all materials. Also included in this category are contractors that pour concrete for foundations and perform grouting work and concrete patio and sidewalk construction.",Asphalt Contractors Cement Contractors Contractors – Concrete Work,1520 – General Contractors – Residential and Commercial 1799 – Special Trade Contractors (Not Elsewhere Classified)
+1799,Special Trade Contractors (Not Elsewhere Classified),"Merchants classified with this MCC are special trade contractors that perform construction work not covered with a more specific MCC. This MCC includes contractors that perform jobs such as awning installation, bathtub refinishing, fence construction, fire escape installation, house moving, home window replacement, garage door installation, ornamental metal work, swimming pool construction, glasswork, well drilling, wallpaper services, and waterproofing.","Contractors – Decorating Contractors – Demolition Services Contractors – Glasswork Contractors – Painting, Home and Building Contractors – Paper Hanging Contractors – Special Trade Contractors Contractors – Welding Contractors – Well Drilling Decorating Contractors Decorators – Interior Demolition Services Garage Door Installation Glasswork Contractors Interior Decorators Window Replacement Miscellaneous Special Contractors Painting Contractors – Home, Building Paper Hanging Contractors Services – Demolition Wallpaper Hangers Welding Contractors Well Drilling Contractors",1520 – General Contractors – Residential and Commercial
+2741,Miscellaneous Publishing and Printing,"Merchants classified with this MCC engage in business-to-business or wholesale printing, publishing and/or bookbinding activity. This includes Merchants that print or publish maps and atlases, business newsletters, directories, sheet music, paper patterns, technical manuals and papers, telephone directories and yearbooks.","Bookbinding Services Printing Services Publishing Services Services – Bookbinding Services – Publishing, Printing","5192 – Books, Periodicals and Newspapers 5942 – Book Stores 7338 – Quick Copy, Reproduction, and Blueprinting Services"
+2791,"Typesetting, Plate Making and Related Services","Merchants classified with this MCC perform business- to-business or wholesale typesetting for the printing trade and those that make plates for printing purposes. These Merchants are involved in advertisement typesetting, phototypesetting, computer-controlled typesetting, and color separations. This MCC also includes Merchants that make positives and negatives from which offset lithographic plates are made. These establishments do not print from the plates they make but prepare them only for use by other Merchants. This MCC also includes Merchants that provide engraving or embossing services for printing purposes, such as engraving on wood, rubber, copper, or steel, or photoengraving.",Plate Making Services Services – Plate Making Services – Typesetting,"2741 – Miscellaneous Publishing and Printing 7338 – Quick Copy, Reproduction, and Blueprinting Services"
+2842,"Specialty Cleaning, Polishing and Sanitation Preparations","Merchants classified with this MCC engage in the business-to-business or wholesale manufacture of polishes for wood, metal, and other materials as well as cleaning solutions, industrial and household disinfectants, and other sanitation preparations. Also included in this MCC are Merchants that sell non- personal deodorants, waxes and dressings for fabricated leather and other materials, wax removers, dry cleaning fluid and chemicals, rust and stain removers, wallpaper cleaners, and window cleaning solutions.","Cleaning Preparations Materials – Cleaning, Polishing, Sanitation Polishing Preparations Sanitation Preparations
+Airlines and Air Carriers
+MCC
+Merchant Name
+Required Name in Authorization Request/Clearing Record",5085 – Industrial Supplies (Not Elsewhere Classified) 5169 – Chemicals and Allied Products (Not Elsewhere Classified)
+3000,UNITED AIRLINES,,,
+3001,AMERICAN AIRLINES,,,
+3002,PAN AMERICAN,,,
+3003,EUROFLY AIRLINES,,,
+3004,DRAGON AIRLINES,,,
+3005,BRITISH AIRWAYS,,,
+3006,JAPAN AIRLINES,,,
+3007,AIR FRANCE,,,
+3008,LUFTHANSA,,,
+3009,AIR CANADA,,,
+3010,KLM (ROYAL DUTCH AIRLINES),,,
+3011,AEROFLOT,,,
+3012,QANTAS,,,
+3013,ITA AIRWAYS (FORMERLY ALITALIA),,,
+3014,SAUDI ARABIAN AIRLINES,,,
+3015,SWISS INTERNATIONAL AIRLINES,,,
+3016,SAS,,,
+3017,SOUTH AFRICAN AIRWAYS,,,
+3018,VARIG (BRAZIL),,,
+3019,EASTERN AIRLINES,,,
+3020,AIR-INDIA,,,
+3021,AIR ALGERIE,,,
+3022,PHILIPPINE AIRLINES,,,
+3023,MEXICANA,,,
+3024,PAKISTAN INTERNATIONAL,,,
+3025,AIR NEW ZEALAND,,,
+3026,EMIRATES AIRLINES,,,
+3027,UTA/INTERAIR,,,
+3028,AIR MALTA,,,
+3029,SN BRUSSELS AIRLINES,,,
+3030,AEROLINEAS ARGENTINAS,,,
+3031,OLYMPIC AIRWAYS,,,
+3032,EL AL,,,
+3033,ANSETT AIRLINES,,,
+3034,ETIHAD AIRWAYS,,,
+3035,TAP (PORTUGAL),,,
+3036,VASP (BRAZIL),,,
+3037,EGYPTAIR,,,
+3038,KUWAIT AIRWAYS,,,
+3039,AVIANCA,,,
+3040,GULF AIR (BAHRAIN),,,
+3041,BALKAN-BULGARIAN AIRLINES,,,
+3042,FINNAIR,,,
+3043,AER LINGUS,,,
+3044,AIR LANKA,,,
+3045,NIGERIA AIRWAYS,,,
+3046,CRUZEIRO DO SUL (BRAZIL),,,
+3047,TURKISH AIRLINES,,,
+3048,ROYAL AIR MAROC,,,
+3049,TUNIS AIR,,,
+3050,ICELANDAIR,,,
+3051,AUSTRIAN AIRLINES,,,
+3052,LAN AIRLINES,,,
+3053,AVIACO (SPAIN),,,
+3054,LADECO (CHILE),,,
+3055,LAB (BOLIVIA),,,
+3056,JET AIRWAYS,,,
+3057,VIRGIN AMERICA,,,
+3058,DELTA,,,
+3059,DBA AIRLINES,,,
+3060,NORTHWEST,,,
+3061,CONTINENTAL,,,
+3062,HAPAG-LLOYD EXPRESS AIRLINES,,,
+3063,US AIRWAYS,,,
+3064,ADRIA AIRWAYS,,,
+3065,AIRINTER,,,
+3066,SOUTHWEST,,,
+3067,VANGUARD AIRLINES,,,
+3068,AIR ASTANA,,,
+3069,SUN COUNTRY AIRLINES,,,
+3070,FLYDUBAI,,,
+3071,AIR BRITISH COLUMBIA,,,
+3072,CEBU PACIFIC AIRLINES,,,
+3075,SINGAPORE AIRLINES,,,
+3076,AEROMEXICO,,,
+3077,THAI AIRWAYS,,,
+3078,CHINA AIRLINES,,,
+3079,JETSTAR AIRWAYS,,,
+3080,SWOOP INC,,,
+3081,XIAMEN AIRLINES,,,
+3082,KOREAN AIRLINES,,,
+3083,AIR AFRIQUE,,,
+3084,EVA AIRWAYS,,,
+3085,MIDWEST EXPRESS AIRLINES,,,
+3086,CARNIVAL AIRLINES,,,
+3087,METRO AIRLINES,,,
+3088,CROATIA AIRLINES,,,
+3089,TRANSAERO,,,
+3090,UNI AIRWAYS CORPORATION,,,
+3094,ZAMBIA AIRWAYS,,,
+3096,AIR ZIMBABWE,,,
+3097,SPANAIR,,,
+3098,ASIANA AIRLINES,,,
+3099,CATHAY PACIFIC,,,
+3100,MALAYSIAN AIRLINE SYSTEM,,,
+3102,IBERIA,,,
+3103,GARUDA (INDONESIA),,,
+3106,BRAATHENS S.A.F.E. (NORWAY),,,
+3110,WINGS AIRWAYS,,,
+3111,BRITISH MIDLAND,,,
+3112,WINDWARD ISLAND,,,
+3115,TOWER AIR,,,
+3117,VIASA,,,
+3118,VALLEY AIRLINES,,,
+3125,TAN,,,
+3126,TALAIR,,,
+3127,TACA INTERNATIONAL,,,
+3129,SURINAM AIRWAYS,,,
+3130,SUNWORLD INTERNATIONAL,,,
+3131,VLM AIRLINES,,,
+3132,FRONTIER AIRLINES,,,
+3133,SUNBELT AIRLINES,,,
+3135,SUDAN AIRWAYS,,,
+3136,QATAR AIRWAYS,,,
+3137,SINGLETON,,,
+3138,SIMMONS AIRLINES,,,
+3143,SCENIC AIRLINES,,,
+3144,VIRGIN ATLANTIC,,,
+3145,SAN JUAN AIRLINES,,,
+3146,LUXAIR,,,
+3148,AIR LITTORAL SA,,,
+3151,AIR ZAIRE,,,
+3154,PRINCEVILLE,,,
+3156,GO FLY LTD,,,
+3159,PBA,,,
+3161,ALL NIPPON AIRWAYS,,,
+3164,NORONTAIR,,,
+3165,NEW YORK HELICOPTER,,,
+3167,AEROCONTINENTE,,,
+3168,HAINAN AIRLINES,,,
+3170,MOUNT COOK,,,
+3171,CANADIAN AIRLINES INTERNATIONAL,,,
+3172,NATIONAIR,,,
+3174,JETBLUE AIRWAYS,,,
+3175,MIDDLE EAST AIR,,,
+3176,METROFLIGHT AIRLINES,,,
+3177,AIRTRAN AIRWAYS,,,
+3178,MESA AIR,,,
+3180,WESTJET AIRLINES,,,
+3181,MALEV,,,
+3182,LOT (POLAND),,,
+3183,OMAN AVIATION SERVICES,,,
+3184,LIAT,,,
+3185,LAV (VENEZUELA),,,
+3186,LAP (PARAGUAY),,,
+3187,LACSA (COSTA RICA),,,
+3188,VIRGIN EXPRESS,,,
+3190,JUGOSLAV AIR,,,
+3191,ISLAND AIRLINES,,,
+3193,INDIAN AIRLINES,,,
+3196,HAWAIIAN AIR,,,
+3197,HAVASU AIRLINES,,,
+3200,GUYANA AIRWAYS,,,
+3203,GOLDEN PACIFIC AIR,,,
+3204,FREEDOM AIR,,,
+3206,CHINA EASTERN AIRLINES,,,
+3211,NORWEGIAN AIR SHUTTLE,,,
+3212,DOMINICANA,,,
+3213,BRAATHENS REGIONAL AIRLINES,,,
+3215,DAN AIR SERVICES,,,
+3216,CUMBERLAND AIRLINES,,,
+3217,CSA,,,
+3218,CROWN AIR,,,
+3219,COPA,,,
+3220,COMPANIA FAUCETT,,,
+3221,TRANSPORTES AEROS MILITARES ECUATORIANOS,,,
+3222,COMMAND AIRWAYS,,,
+3223,COMAIR,,,
+3226,SKYWAYS AIR,,,
+3228,CAYMAN AIRWAYS,,,
+3229,SAETA – SOCIAEDAD ECUATORIANOS DE TRANSPORTES AEREOS,,,
+3231,SAHSA – SERVICIO AEREO DE HONDURAS,,,
+3233,CAPITOL AIR,,,
+3234,CARIBBEAN AIRLINES,,,
+3235,BROCKWAY AIR,,,
+3236,AIR ARABIA AIRLINE,,,
+3238,BEMIDJI AIRLINES,,,
+3239,BAR HARBOR AIRLINES,,,
+3240,BAHAMASAIR,,,
+3241,AVIATECA (GUATEMALA),,,
+3242,AVENSA,,,
+3243,AUSTRIAN AIR SERVICE,,,
+3245,EASYJET AIRLINES,,,
+3246,RYANAIR,,,
+3247,GOL AIRLINES,,,
+3248,TAM AIRLINES,,,
+3251,ALOHA AIRLINES,,,
+3252,ALM,,,
+3254,US AIR SHUTTLE,,,
+3256,ALASKA AIRLINES,,,
+3259,AMERICAN TRANS AIR,,,
+3260,SPIRIT AIRLINES,,,
+3261,AIR CHINA,,,
+3262,"RENO AIR, INC.",,,
+3263,AERO SERVICO CARABOBO,,,
+3266,AIR SEYCHELLES,,,
+3267,AIR PANAMA,,,
+3280,AIR JAMAICA,,,
+3282,AIR DJIBOUTI,,,
+3284,AERO VIRGIN ISLANDS,,,
+3285,AEROPERU,,,
+3286,AEROLINEAS NICARAGUENSIS,,,
+3287,AERO COACH AVIATION,,,
+3292,CYPRUS AIRWAYS,,,
+3293,ECUATORIANA,,,
+3294,ETHIOPIAN AIRLINES,,,
+3295,KENYA AIRWAYS,,,
+3296,AIR BERLIN,,,
+3297,TAROM ROMANIAN AIR TRANSPORT,,,
+3298,AIR MAURITIUS,,,
+3299,WIDEROE’S FLYVESELSKAP,,,
+3300,AZUL AIR,,,
+3301,WIZZ AIR,,,
+3302,FLYBE LTD,,,
+3303,TIGERAIR,,,
+3308,CHINA SOUTHERN AIRLINES,,,
+3351,AFFILIATED AUTO RENTAL,,,
+3352,AMERICAN INTL RENT-A-CAR,,,
+3353,BROOKS RENT-A-CAR,,,
+3354,ACTION AUTO RENTAL,,,
+3355,SIXT CAR RENTAL,,,
+3357,HERTZ,,,
+3359,PAYLESS CAR RENTAL,,,
+3360,SNAPPY CAR RENTAL,,,
+3361,AIRWAYS RENT-A-CAR,,,
+3362,ALTRA AUTO RENTAL,,,
+3364,AGENCY RENT-A-CAR,,,
+3366,BUDGET RENT-A-CAR,,,
+3368,HOLIDAY RENT-A-CAR,,,
+3370,RENT-A-WRECK,,,
+3374,ACCENT RENT-A-CAR,,,
+3376,AJAX RENT-A-CAR,,,
+3380,TRIANGLE RENT-A-CAR,,,
+3381,EUROP CAR,,,
+3385,TROPICAL RENT-A-CAR,,,
+3386,SHOWCASE RENTAL CARS,,,
+3387,ALAMO RENT-A-CAR,,,
+3388,MERCHANTS RENT-A-CAR,,,
+3389,AVIS RENT-A-CAR,,,
+3390,DOLLAR RENT-A-CAR,,,
+3391,EUROPE BY CAR,,,
+3393,NATIONAL CAR RENTAL,,,
+3394,KEMWELL GROUP RENT-A-CAR,,,
+3395,THRIFTY CAR RENTAL,,,
+3396,TILDEN RENT-A-CAR,,,
+3398,ECONO-CAR RENT-A-CAR,,,
+3400,AUTO HOST CAR RENTALS,,,
+3405,ENTERPRISE RENT-A-CAR,,,
+3409,GENERAL RENT-A-CAR,,,
+3412,A-1 RENT-A-CAR,,,
+3414,GODFREY NATL RENT-A-CAR,,,
+3420,ANSA INTL RENT-A-CAR,,,
+3421,ALLSTATE RENT-A-CAR,,,
+3423,AVCAR RENT-A-CAR,,,
+3425,AUTOMATE RENT-A-CAR,,,
+3427,AVON RENT-A-CAR,,,
+3428,CAREY RENT-A-CAR,,,
+3429,INSURANCE RENT-A-CAR,,,
+3430,MAJOR RENT-A-CAR,,,
+3431,REPLACEMENT RENT-A-CAR,,,
+3432,RESERVE RENT-A-CAR,,,
+3433,UGLY DUCKLING RENT-A-CAR,,,
+3434,USA RENT-A-CAR,,,
+3435,VALUE RENT-A-CAR,,,
+3436,AUTOHANSA RENT-A-CAR,,,
+3437,CITE RENT-A-CAR,,,
+3438,INTERENT RENT-A-CAR,,,
+3439,MILLEVILLE RENT-A-CAR,,,
+3441,ADVANTAGE RENT-A-CAR,,,
+3501,HOLIDAY INNS,,,
+3502,BEST WESTERN HOTELS,,,
+3503,SHERATON,,,
+3504,HILTON HOTELS,,,
+3505,FORTE HOTELS,,,
+3506,GOLDEN TULIP HOTELS,,,
+3507,FRIENDSHIP INNS,,,
+3508,QUALITY INNS,,,
+3509,MARRIOTT,,,
+3510,DAYS INNS,,,
+3511,ARABELLA HOTELS,,,
+3512,INTER-CONTINENTAL HOTELS,,,
+3513,WESTIN,,,
+3514,AMERISUITES,,,
+3515,RODEWAY INNS,,,
+3516,LA QUINTA INN AND SUITES,,,
+3517,AMERICANA HOTELS,,,
+3518,SOL HOTELS,,,
+3519,PULLMAN INTERNATIONAL HOTELS,,,
+3520,MERIDIEN HOTELS,,,
+3521,ROYAL LAHAINA RESORTS,,,
+3522,TOKYO HOTEL,,,
+3523,PENINSULA HOTEL,,,
+3524,WELCOMGROUP HOTELS,,,
+3525,DUNFEY HOTELS,,,
+3526,PRINCE HOTELS,,,
+3527,DOWNTOWNER-PASSPORT HOTEL,,,
+3528,RED LION INNS,,,
+3529,CP HOTELS,,,
+3530,RENAISSANCE HOTELS,,,
+3531,KAUAI COCONUT BEACH RESORT,,,
+3532,ROYAL KONA RESORT,,,
+3533,HOTEL IBIS,,,
+3534,SOUTHERN PACIFIC HOTELS,,,
+3535,HILTON INTERNATIONALS,,,
+3536,AMFAC HOTELS,,,
+3537,ANA HOTEL,,,
+3538,CONCORDE HOTELS,,,
+3539,SUMMERFIELD SUITES HOTELS,,,
+3540,IBEROTEL HOTELS,,,
+3541,HOTEL OKURA,,,
+3542,ROYAL HOTELS,,,
+3543,FOUR SEASONS HOTELS,,,
+3544,CIGA HOTELS,,,
+3545,SHANGRI-LA INTERNATIONAL,,,
+3546,HOTEL SIERRA,,,
+3548,HOTELES MELIA,,,
+3549,AUBERGE DES GOVERNEURS,,,
+3550,REGAL 8 INNS,,,
+3551,MIRAGE HOTEL AND CASINO,,,
+3552,COAST HOTELS,,,
+3553,PARK INNS INTERNATIONAL,,,
+3554,PINEHURST RESORT,,,
+3555,TREASURE ISLAND HOTEL AND CASINO,,,
+3556,BARTON CREEK RESORT,,,
+3557,MANHATTAN EAST SUITE HOTELS,,,
+3558,JOLLY HOTELS,,,
+3559,CANDLEWOOD SUITES,,,
+3560,ALADDIN RESORT AND CASINO,,,
+3561,GOLDEN NUGGET,,,
+3562,COMFORT INNS,,,
+3563,JOURNEY’S END MOTELS,,,
+3564,SAM’S TOWN HOTEL AND CASINO,,,
+3565,RELAX INNS,,,
+3566,GARDEN PLACE HOTEL,,,
+3567,SOHO GRAND HOTEL,,,
+3568,LADBROKE HOTELS,,,
+3569,TRIBECA GRAND HOTEL,,,
+3570,FORUM HOTELS,,,
+3571,GRAND WAILEA RESORT,,,
+3572,MIYAKO HOTELS,,,
+3573,SANDMAN HOTELS,,,
+3574,VENTURE INNS,,,
+3575,VAGABOND HOTELS,,,
+3576,LA QUINTA RESORT,,,
+3577,MANDARIN ORIENTAL HOTEL,,,
+3578,FRANKENMUTH BAVARIAN,,,
+3579,HOTEL MERCURE,,,
+3580,HOTEL DEL CORONADO,,,
+3581,DELTA HOTEL,,,
+3582,CALIFORNIA HOTEL AND CASINO,,,
+3583,RADISSON BLU,,,
+3584,PRINCESS HOTELS INTERNATIONAL,,,
+3585,HUNGAR HOTELS,,,
+3586,SOKOS HOTELS,,,
+3587,DORAL HOTELS,,,
+3588,HELMSLEY HOTELS,,,
+3589,DORAL GOLF RESORT,,,
+3590,FAIRMONT HOTELS,,,
+3591,SONESTA HOTELS,,,
+3592,OMNI HOTELS,,,
+3593,CUNARD HOTELS,,,
+3594,ARIZONA BILTMORE,,,
+3595,HOSPITALITY INNS,,,
+3596,WYNN LAS VEGAS,,,
+3597,RIVERSIDE RESORT HOTEL AND CASINO,,,
+3598,REGENT INTERNATIONAL HOTELS,,,
+3599,PANNONIA HOTELS,,,
+3600,SADDLEBROOK RESORT TAMPA,,,
+3601,TRADEWINDS RESORTS,,,
+3602,HUDSON HOTEL,,,
+3603,NOAH’S HOTELS,,,
+3604,HILTON GARDEN INN,,,
+3607,FONTAINEBLEAU RESORTS,,,
+3608,GAYLORD OPRYLAND,,,
+3609,GAYLORD PALMS,,,
+3612,MOEVENPICK HOTELS,,,
+3613,MICROTEL INNS & SUITES,,,
+3614,AMERICINN,,,
+3615,TRAVELODGE,,,
+3617,AMERICA’S BEST VALUE INN,,,
+3618,GREAT WOLF,,,
+3619,ALOFT,,,
+3620,BINION’S HORSESHOE CLUB,,,
+3621,EXTENDED STAY,,,
+3622,MERLIN HOTELS,,,
+3623,DORINT HOTELS,,,
+3624,LADY LUCK HOTEL AND CASINO,,,
+3625,HOTEL UNIVERSALE,,,
+3626,STUDIO PLUS,,,
+3627,EXTENDED STAY AMERICA,,,
+3628,EXCALIBUR HOTEL AND CASINO,,,
+3629,DAN HOTELS,,,
+3630,TOKYU HOTELS,,,
+3631,SLEEP INN,,,
+3632,THE PHOENICIAN,,,
+3633,RANK HOTELS,,,
+3634,SWISSOTEL,,,
+3635,RESO HOTELS,,,
+3636,SAROVA HOTELS,,,
+3637,RAMADA INNS,,,
+3638,HOWARD JOHNSON,,,
+3639,MOUNT CHARLOTTE THISTLE,,,
+3640,HYATT HOTELS,,,
+3641,SOFITEL HOTELS,,,
+3642,NOVOTEL HOTELS,,,
+3643,STEIGENBERGER HOTELS,,,
+3644,ECONO LODGES,,,
+3645,QUEENS MOAT HOUSES,,,
+3646,SWALLOW HOTELS,,,
+3647,HUSA HOTELS,,,
+3648,DE VERE HOTELS,,,
+3649,RADISSON HOTELS,,,
+3650,RED ROOF INNS,,,
+3651,IMPERIAL LONDON HOTEL,,,
+3652,EMBASSY HOTELS,,,
+3653,PENTA HOTELS,,,
+3654,LOEWS HOTELS,,,
+3655,SCANDIC HOTELS,,,
+3656,SARA HOTELS,,,
+3657,OBEROI HOTELS,,,
+3658,NEW OTANI HOTELS,,,
+3659,TAJ HOTELS INTERNATIONAL,,,
+3660,KNIGHTS INNS,,,
+3661,METROPOLE HOTELS,,,
+3662,CIRCUS CIRCUS HOTEL AND CASINO,,,
+3663,HOTELES EL PRESIDENTE,,,
+3664,FLAG INN,,,
+3665,HAMPTON INNS,,,
+3666,STAKIS HOTELS,,,
+3667,LUXOR HOTEL AND CASINO,,,
+3668,MARITIM HOTELS,,,
+3669,ELDORADO HOTEL AND CASINO,,,
+3670,ARCADE HOTELS,,,
+3671,ARCTIA HOTELS,,,
+3672,CAMPANILE HOTELS,,,
+3673,IBUSZ HOTELS,,,
+3674,RANTASIPI HOTELS,,,
+3675,INTERHOTEL CEDOK,,,
+3676,MONTE CARLO HOTEL AND CASINO,,,
+3677,CLIMAT DE FRANCE HOTELS,,,
+3678,CUMULUS HOTELS,,,
+3679,SILVER LEGACY HOTEL AND CASINO,,,
+3680,HOTEIS OTHAN,,,
+3681,ADAMS MARK HOTELS,,,
+3682,SAHARA HOTEL AND CASINO,,,
+3683,BRADBURY SUITES,,,
+3684,BUDGET HOST INNS,,,
+3685,BUDGETEL INNS,,,
+3686,SUSSE CHALET,,,
+3687,CLARION HOTELS,,,
+3688,COMPRI HOTELS,,,
+3689,CONSORT HOTELS,,,
+3690,COURTYARD BY MARRIOTT,,,
+3691,DILLON INNS,,,
+3692,DOUBLETREE HOTELS,,,
+3693,DRURY INNS,,,
+3694,ECONOMY INNS OF AMERICA,,,
+3695,EMBASSY SUITES,,,
+3696,EXEL INNS,,,
+3697,FAIRFIELD HOTELS,,,
+3698,HARLEY HOTELS,,,
+3699,MIDWAY MOTOR LODGE,,,
+3700,MOTEL 6,,,
+3701,LA MANSION DEL RIO,,,
+3702,THE REGISTRY HOTELS,,,
+3703,RESIDENCE INNS,,,
+3704,ROYCE HOTELS,,,
+3705,SANDMAN INNS,,,
+3706,SHILO INNS,,,
+3707,SHONEY’S INNS,,,
+3708,VIRGIN RIVER HOTEL AND CASINO,,,
+3709,SUPER 8 MOTELS,,,
+3710,THE RITZ-CARLTON,,,
+3711,FLAG INNS (AUSTRALIA),,,
+3712,BUFFALO BILL’S HOTEL AND CASINO,,,
+3713,QUALITY PACIFIC HOTEL,,,
+3714,FOUR SEASONS HOTEL (AUSTRALIA),,,
+3715,FAIRFIELD INN,,,
+3716,CARLTON HOTELS,,,
+3717,CITY LODGE HOTELS,,,
+3718,KAROS HOTELS,,,
+3719,PROTEA HOTELS,,,
+3720,SOUTHERN SUN HOTELS,,,
+3721,HILTON CONRAD,,,
+3722,WYNDHAM,,,
+3723,RICA HOTELS,,,
+3724,INTER NOR HOTELS,,,
+3725,SEA PINES RESORT,,,
+3726,RIO SUITES,,,
+3727,BROADMOOR HOTEL,,,
+3728,BALLY’S HOTEL AND CASINO,,,
+3729,JOHN ASCUAGA’S NUGGET,,,
+3730,MGM GRAND HOTEL,,,
+3731,HARRAH’S HOTELS AND CASINOS,,,
+3732,OPRYLAND HOTEL,,,
+3734,HARVEY/BRISTOL HOTELS,,,
+3735,MASTERS ECONOMY INNS,,,
+3736,COLORADO BELLE/EDGEWATER RESORT,,,
+3737,RIVIERA HOTEL AND CASINO,,,
+3738,TROPICANA RESORT & CASINO,,,
+3739,WOODSIDE HOTELS & RESORTS,,,
+3740,TOWNEPLACE SUITES,,,
+3741,MILLENNIUM HOTELS,,,
+3742,CLUB MED,,,
+3743,BILTMORE HOTEL & SUITES,,,
+3744,CAREFREE RESORTS,,,
+3745,ST. REGIS HOTEL,,,
+3746,THE ELIOT HOTEL,,,
+3747,CLUBCORP/CLUBRESORTS,,,
+3748,WELLESLEY INNS,,,
+3749,THE BEVERLY HILLS HOTEL,,,
+3750,CROWNE PLAZA HOTELS,,,
+3751,HOMEWOOD SUITES,,,
+3752,PEABODY HOTELS,,,
+3753,GREENBRIAR RESORTS,,,
+3754,AMELIA ISLAND PLANTATION,,,
+3755,THE HOMESTEAD,,,
+3756,TOYOKO INN,,,
+3757,CANYON RANCH,,,
+3758,KAHALA MANDARIN ORIENTAL HOTEL,,,
+3759,THE ORCHID AT MAUNA LANI,,,
+3760,HALEKULANI HOTEL/WAIKIKI PARC,,,
+3761,PRIMADONNA HOTEL AND CASINO,,,
+3762,WHISKEY PETE’S HOTEL AND CASINO,,,
+3763,CHATEAU ELAN WINERY AND RESORT,,,
+3764,BEAU RIVAGE HOTEL AND CASINO,,,
+3765,BELLAGIO,,,
+3766,FREMONT HOTEL AND CASINO,,,
+3767,MAIN STREET STATION HOTEL AND CASINO,,,
+3768,SILVER STAR HOTEL AND CASINO,,,
+3769,STRATOSPHERE HOTEL AND CASINO,,,
+3770,SPRINGHILL SUITES,,,
+3771,CAESAR’S HOTEL AND CASINO,,,
+3772,NEMACOLIN WOODLANDS,,,
+3773,THE VENETIAN RESORT HOTEL CASINO,,,
+3774,NEW YORK-NEW YORK HOTEL AND CASINO,,,
+3775,SANDS RESORT,,,
+3776,NEVELE GRAND RESORT AND COUNTRY CLUB,,,
+3777,MANDALAY BAY RESORT,,,
+3778,FOUR POINTS HOTELS,,,
+3779,W HOTELS,,,
+3780,DISNEY RESORTS,,,
+3781,PATRICIA GRAND RESORT HOTELS,,,
+3782,ROSEN HOTELS AND RESORTS,,,
+3783,TOWN AND COUNTRY RESORT & CONVENTION CENTER,,,
+3784,FIRST HOSPITALITY HOTELS,,,
+3785,OUTRIGGER HOTELS AND RESORTS,,,
+3786,OHANA HOTELS OF HAWAII,,,
+3787,CARIBE ROYALE RESORTS,,,
+3788,ALA MOANA HOTEL,,,
+3789,SMUGGLER’S NOTCH RESORT,,,
+3790,RAFFLES HOTELS,,,
+3791,STAYBRIDGE SUITES,,,
+3792,CLARIDGE CASINO HOTEL,,,
+3793,FLAMINGO HOTELS,,,
+3794,GRAND CASINO HOTELS,,,
+3795,PARIS LAS VEGAS HOTEL,,,
+3796,PEPPERMILL HOTEL CASINO,,,
+3797,ATLANTIC CITY HILTON RESORTS,,,
+3798,EMBASSY VACATION RESORT,,,
+3799,HALE KOA HOTEL,,,
+3800,HOMESTEAD SUITES,,,
+3801,WILDERNESS HOTEL AND RESORT,,,
+3802,THE PALACE HOTEL,,,
+3807,ELEMENT,,,
+3808,LXR,,,
+3811,PREMIER INN,,,
+3812,HYATT PLACE,,,
+3813,HOTEL INDIGO,,,
+3814,THE ROOSEVELT HOTEL NY,,,
+3815,NICKELODEON FAMILY SUITES BY HOLIDAY INN,,,
+3816,HOME2SUITES,,,
+3818,MAINSTAY SUITES,,,
+3819,OXFORD SUITES,,,
+3820,JUMEIRAH ESSEX HOUSE,,,
+3821,CARIBE ROYALE,,,
+3822,CROSSLAND,,,
+3823,GRAND SIERRA RESORT,,,
+3824,ARIA,,,
+3825,VDARA,,,
+3826,AUTOGRAPH,,,
+3827,GALT HOUSE,,,
+3828,COSMOPOLITAN OF LAS VEGAS,,,
+3829,COUNTRY INN BY RADISSON,,,
+3830,PARK PLAZA HOTEL,,,
+3831,WALDORF,,,
+3832,CURIO HOTELS,,,
+3833,CANOPY,,,
+3834,BAYMONT INN & SUITES,,,
+3835,DOLCE HOTELS AND RESORTS,,,
+3836,HAWTHORN BY WYNDHAM,,,
+3837,HOSHINO RESORTS,,,
+3838,KIMPTON HOTELS,,,
+3839,KYORITSU HOTELS,,,
+4011,Railroads,Merchants classified with this MCC are railroads engaged in freight transport operations.,"Freight – Rail, Train Transportation Trains – Freight Transportation Transportation – Railroads, Freight","4112 – Passenger Railways 4214 – Motor Freight Carriers and Trucking – Local and Long Distance, Moving and Storage Companies, and Local Delivery Services"
+4111,"Local and Suburban Commuter Passenger Transportation, Including Ferries","Merchants classified with this MCC provide local and suburban mass passenger transportation over regular routes and on regular schedules. Included in this category is railway commuter transportation. Not included in this category are taxicabs, limousines, and bus lines.","Commuter Transportation – Ferries Commuter Transportation – Railways Ferries Transportation – Commuter, Local, Suburban Commuter Passenger Transportation Transportation – Commuter, Railways Transportation – Ferries",4112 – Passenger Railways 4121 – Taxicabs and Limousines 4131 – Bus Lines 4789 – Transportation Services (Not Elsewhere Classified)
+4112,Passenger Railways,Merchants classified with this MCC are railroads that primarily provide long distance passenger transportation. This may or may not include overnight accommodations on the train during long distance travel.,Railways – Passenger Trains – Passenger Transportation – Passenger Railways,4011 – Railroads 4789 – Transportation Services (Not Elsewhere Classified)
+4119,Ambulance Services,Merchants classified with this MCC provide emergency vehicle transportation with trained personnel. These Merchants may or may not provide emergency medical treatment enroute to a hospital or medical provider.,Air Ambulance Services Emergency Vehicle Services Services – Air Ambulance Services – Ambulance Services – Emergency Vehicles Transportation – Ambulance Services,8099 – Medical Services and Health Practitioners (Not Elsewhere Classified) 4789 – Transportation Services (Not Elsewhere Classified)
+4121,Taxicabs and Limousines,Merchants classified with this MCC provide transportation services by automobile and do not operate on a regular schedule or established route. This MCC includes ride-share Merchants.,"Cabs, Taxicabs, Limousines Limousines Services – Taxicabs, Limousines Transportation – Taxicabs, Limousines",4789 – Transportation Services (Not Elsewhere Classified) 4111 – Local and Suburban Commuter Passenger Transport
+4131,Bus Lines,Merchants classified with this MCC provide passenger bus transportation services on a regular schedule over predetermined routes. Not included are charter and tour bus operators.,Coach Lines Transportation – Bus Lines,4722 – Travel Agencies and Tour Operators 4789 – Transportation Services (Not Elsewhere Classified)
+4214,"Motor Freight Carriers and Trucking – Local and Long Distance, Moving and Storage Companies, and Local Delivery",Merchants classified with this MCC provide local or long-distance trucking services and may or may not also provide storage services.,"Delivery Services – Local Freight Carriers, Trucking and Storage Local Delivery Service Long Distance Trucking Services Motor Freight Carriers – Local, Long Distance Trucking Moving Companies Moving, Storage Companies Services – Delivery, Local Services – Freight Carriers, Trucking and Storage
+Services – Trucking, Local and Long Distance Storage, Moving Companies – Local, Long Distance Trucking – Local, Long Distance","4215 – Courier Services – Air and Ground, and Freight Forwarders. 4225 – Public Warehousing and Storage – Farm Products, Refrigerated Goods, Household Goods, and Storage"
+4215,"Courier Services – Air and Ground, and Freight Forwarders","Merchants classified with this MCC deliver individually addressed letters, parcels, and packages, but excludes the Postal Services – Government Only (MCC 9402).","Air or Ground Courier Services Freight Forwarders, Courier Services Ground or Air Courier Services Services – Courier, Air or Ground Services – Freight Forwarders, Courier Services","4214 – Motor Freight Carriers and Trucking – Local and Long Distance, Moving and Storage Companies, and Local Delivery Services 9402 – Postal Services – Government Only"
+4225,"Public Warehousing and Storage – Farm Products, Refrigerated Goods, Household Goods, and Storage","Merchants classified with this MCC provide storage and warehousing for farm products, refrigerated storage for perishable products, and storage for household goods and furniture.","Warehousing, Storage – Public Warehousing","4214 – Motor Freight Carriers and Trucking – Local and Long Distance, Moving and Storage Companies, and Local Delivery Services"
+4411,Steamship and Cruise Lines,"Merchants classified with this MCC provide passenger transportation on the open seas or inland waters for the purpose of vacation or pleasure. These Merchants typically offer food, entertainment, and cabin accommodations included in the fare and operate pre-defined and advertised routes.",Ships – Cruise Lines,"4111 – Local and Suburban Commuter Passenger Transportation, Including Ferries 4789 – Transportation Services (Not Elsewhere Classified)"
+4457,Boat Rentals and Leasing,"Merchants classified with this MCC primarily provide boat rental and leasing services for fishing boats, non- crew houseboats, sail boats, power boats, jet skis, and yachts.","Jet Skis – Rental, Leases Powerboats – Rental, Leases Rentals – Boats Rentals – Jet Skis Rentals – Yachts, Non-Crew Sailboats – Rentals, Leases Yacht Rentals – Non-Crew","4468 – Marinas, Marine Service, and Supplies 7999 – Recreation Services (Not Elsewhere Classified)"
+4468,"Marinas, Marine Service, and Supplies","Merchants classified with this MCC operate marinas and may rent boat slips and store boats. Other services may include boat cleaning, incidental boat repair, and the retail sale of marine supplies. Merchants located at a marina that sell fuel for consumer use in boats that do not have a separate Merchant agreement from the marina are included in this category.","Harbors Services – Marine, Marina Supplies – Marinas, Marine
+Service, Supplies Yacht Harbors",4457 – Boat Rentals and Leasing 7999 – Recreation Services (Not Elsewhere Classified)
+4511,Airlines and Air Carriers (Not Elsewhere Classified),Merchants classified with this MCC are airlines and air carriers that do not have their own specific MCC.,,3000-3350 – individual airline MCCs
+4582,"Airports, Flying Fields, and Airport Terminals","Merchants classified with this MCC operate and maintain airports and flying fields. This includes Merchants that provide aircraft cleaning and janitorial services, aircraft servicing and repair, aircraft storage at airports, and airport hangar rental. Merchants located within the airport terminal that sell food, newspapers, and/or gift or souvenir items must be classified with the appropriate MCC for that business.",Flying Fields Terminals – Airports,"4215 – Courier Services – Air and Ground, and Freight Forwarders 4511 – Airlines and Air Carriers (Not Elsewhere Classified) 5812 – Eating Places and Restaurants 5994 – News Dealers and Newsstands 5947 – Gift, Card, Novelty, and Souvenir Shops"
+4722,Travel Agencies and Tour Operators,"Merchants classified with this MCC provide travel information and booking services. They act as agents on behalf of travelers in booking and ticketing air, land, or sea transportation and/or accommodation. They also arrange and assemble tours for sale through a travel agent or directly to the consumer. Bus charters and tour bus operators are included in this MCC.",Charter Buses Package Tour Operators Tour Buses Tour Operators Travel Packages Travel Wholesalers,"4112 – Passenger Railways 4121 – Taxicabs and Limousines ... 4131 – Bus Lines 4411 -- Steamship and Cruise Lines 4511 – Airlines and Air Carriers (Not Elsewhere Classified) 4789 – Transportation Services (Not Elsewhere Classified) 5962 – Direct Marketing – Travel- Related Arrangement Services 7011 – Lodging – Hotels, Motels, Resorts, Central Reservation Services (Not Elsewhere Classified) 7512 – Automobile Rental Agency"
+4723,Package Tour Operators – Germany Only,Merchants classified with this MCC are package tour operators in Germany.,,
+4784,Tolls and Bridge Fees,"Merchants classified with this MCC collect fees associated with toll roads, highways, and bridges.","Bridge, Toll Fees Fees – Bridge, Toll",
+4789,Transportation Services (Not Elsewhere Classified),"Merchants classified with this MCC provide passenger transportation services that are not classified with a more specific MCC. This MCC includes Merchants that provide transportation via horse-drawn cabs and carriages, bicycle-taxis, aerial tramways, airport shuttles, and cable cars. Ferry service, bus transportation, cruise lines, passenger railways, and taxi and limousine service Merchants are not included in this category.",Airport Shuttle Transportation Miscellaneous Transport Services Services – Transportation Shuttle Transportation,"4111 – Local and Suburban Commuter Passenger Transportation, Including Ferries 4112 – Passenger Railways 4121 – Taxicabs and Limousines ... 4131 – Bus Lines 4411 – Steamship and Cruise Lines 4722 – Travel Agencies and Tour Operators"
+4812,Telecommunication Equipment and Telephone Sales,"Merchants classified with this MCC sell telecommunications equipment such as telephones, fax machines, pagers, mobile phones, and other equipment related to telecommunications.","Cellular Telephone Equipment Equipment – Telecommunications Pagers, Paging Equipment Telephone Equipment","4814 – Telecommunication Services, including Local and Long Distance Calls, Credit Card Calls, Calls Through Use of Magnetic Stripe Reading Telephones, and Fax Services 5732 – Electronics Stores"
+4814,"Telecommunication Services, including Local and Long-Distance Calls, Credit Card Calls, Calls Through Use of Magnetic-","Merchants classified with this MCC provide telecommunications services including local and long- distance telephone calls, calls placed through the use of magnetic stripe-reading telephones, and fax services. Merchants that provide periodic (e.g., monthly) billing of telephone calls should be classified with this MCC.",Cellular Telephone Service Faxing Services Local Telecommunication Service Long Distance Telecommunication Service Prepaid Calling Cards – Telecommunication Service,4812 – Telecommunication Equipment and Telephone Sales
+4816,Computer Network/Information Services,Merchants classified with this MCC provide internet access. This MCC includes all Merchants that provide computer network and information services and internet service providers.,Electronic Bulletin Board Access Information Services – via Computer Networks Internet Payment Facilitators Website Management/ Maintenance,"5967 – Direct Marketing – Inbound Teleservices Merchant 7372– Computer Programming, Data Processing, and Integrated Systems Design Services"
+4821,Telegraph Services,Merchants classified with this MCC that provide telegraph and other nonverbal message communications services such as telegrams.,"Cablegrams Services – Cablegrams Services – Telegraph
+Magnetic Stripe Reading Telephones, and Fax Services","4814 – Telecommunication Services, including Local and Long Distance Calls, Credit Card Calls, Calls Through Use of"
+4829,Money Transfer,"Merchants classified with this MCC allow customers to transfer funds via an electronic funds transfer / wire transfer / remittance to a named entity (both card- present and card-absent locations including on the premises of the Merchant and third-party agents such as casinos, truck stops, or check-cashing storefronts) or via an original credit transaction (e.g., via Visa Direct or Person to Person [P2P] payments). A Merchant that transfers, Liquid and Cryptocurrency Assets such as cryptocurrency must include all required data in the authorization request and clearing record. Bill Payments merchants (who are not eligible and not registered in the CBPS Program) should be assigned with this MCC.",Wire Transfer,"4821– Telegraph Services 6051 – Non-Financial Institutions – Foreign Currency, Liquid and Cryptocurrency Assets (for example: Cryptocurrency), Money Orders (Not Money Transfer), Account Funding (not Stored Value Load), Travelers Cheques, and Debt Repayment"
+4899,"Cable, Satellite and Other Pay Television/Radio/Streaming Services",Merchants classified with this MCC provide the connection and ongoing delivery of television/radio/streaming content on a subscription or fee basis.,Pay Radio Services Pay Television Services Cable Satellite Services Services – Cable and Other Pay Television Services Services – Pay Radio and Satellite Services,
+4900,"Utilities – Electric, Gas, Water, and Sanitary","Merchants classified with this MCC provide the ongoing generation, transmission, and/or distribution of electric or gas power or other utility services. This MCC also includes Merchants that provide water supply system services and Merchants primarily engaged in the collection and disposal of refuse.",Electric Utilities Garbage Collectors Gas Utilities Public Utilities Sanitary Utilities Services – Electric Utilities Services – Gas Utilities Services – Sanitary Utilities Services – Waste Management Services – Water Utilities Water Utilities,"4814 – Telecommunication Services, including Local and Long Distance Calls, Credit Card Calls, Calls Through Use of Magnetic Stripe Reading Telephones, and Fax Services"
+5013,Motor Vehicle Supplies and New Parts,"Merchants classified with this MCC are business-to- business or wholesale distributors of motor vehicle accessories, tools, equipment and new parts, including electric vehicle charging equipment designed for commercial use, testing equipment, service station pumps and other equipment, glass, batteries, and engines.","Automobile – Motor Vehicle Supplies, New
+Parts Parts – Motor Vehicle Supplies, New Parts Supplies – Motor Vehicle Supplies, New Parts Vehicle Supplies, New Parts","5532 – Automotive Tire Stores 5533 – Automotive Parts and
+Accessories Stores 7531 – Automotive Body Repair Shops 7538 – Automotive Service Shops (Non-Dealer)"
+5021,Office and Commercial Furniture ....,Merchants classified with this MCC are business-to- business or wholesale manufacturers and/or distributors of office and commercial furniture.,"Commercial Furniture Furniture – Office, Commercial","5047 – Medical, Dental, Ophthalmic and Hospital Equipment and Supplies 5712 – Furniture, Home Furnishings and Equipment Stores, Except Appliances"
+5039,Construction Materials (Not Elsewhere Classified ),Merchants classified with this MCC are business-to- business or wholesale distributors of construction materials and parts that are not classified with a more specific MCC.,Materials – Construction Supplies – Construction Materials,"1761 – Roofing, Siding, and Sheet Metal Work Contractors 5072 – Hardware, Equipment and Supplies 5198 – Paint, Varnishes and Supplies 5200 – Home Supply Warehouse Stores 5211 – Lumber and Building Materials Stores 5231 – Glass, Paint, and Wallpaper Stores 5251 – Hardware Stores 5713 – Floor Covering Stores 7692 – Welding Services"
+5044,"Photographic, Photocopy, Microfilm Equipment and Supplies","Merchants classified with this MCC are business-to- business or wholesale distributors of office and photographic equipment such as film, cash registers, photocopy machines, microfilm machines, vaults and safes, typewriters, fax machines, adding machines, and mailing machines.","Copy Services – Photographic, Photocopy, Microfilm Supplies Equipment – Photographic, Photocopy, Microfilm Equipment, Supplies Microfilm Supplies Photocopy Supplies Supplies – Photographic, Photocopy, Microfilm Equipment, Supplies","5021 – Office and Commercial Furniture 5045 – Computers and Computer Peripheral Equipment and Software 5943 – Stationery Stores, Office and School Supply Stores 5946 – Camera and Photographic Supply Stores 7338 – Quick Copy, Reproduction, and Blueprinting Services 7395 – Photofinishing Laboratories and Photo Developing"
+5045,Computers and Computer Peripheral Equipment and Software,"Merchants classified with this MCC are business-to- business or wholesale distributors of computer hardware, software and related equipment.","Equipment – Computers, Computer Peripheral Equipment, Software Hardware – Computer Software – Computer Supplies – Computers, Computer Peripheral Equipment, Software","5021 – Office and Commercial Furniture 5732 – Electronics Stores 5734 – Computer Software Stores 7379 – Computer Maintenance, Repair and Services (Not Elsewhere Classified)"
+5046,Commercial Equipment (Not Elsewhere Classified),Merchants classified with this MCC are business-to- business or wholesale distributors of commercial machines and equipment that are not classified with a more specific MCC.,"Appliance Wholesaler Commercial Cooking, Food Service Equipment Equipment – Commercial Food Service Equipment – Commercial Cooking Equipment Restaurant Equipment – Commercial Cooking, Food Service Equipment Supplies – Commercial Equipment","5021 – Office and Commercial Furniture 5712 – Furniture, Home Furnishings and Equipment Stores, Except Appliances 7394 – Equipment, Tool, Furniture, and Appliance Rental and Leasing"
+5047,"Medical, Dental, Ophthalmic and Hospital Equipment and Supplies","Merchants classified with this MCC are business-to- business or wholesale distributors of laboratory, surgical, dental, or orthopedic equipment, patient monitoring equipment, wheelchairs, and other medical instruments, industrial safety devices, hospital equipment and hospital furniture, such as beds.","Dental Equipment, Supplies Equipment – Medical, Dental, Ophthalmic, Orthopedic, Hospital Equipment, Supplies Hospital Equipment, Supplies Orthodontia Supplies Safety Equipment Supplies – Dental Supplies – Hospital Supplies – Medical Supplies – Orthopedic X-Ray Equipment","2842 – Specialty Cleaning, Polishing and Sanitation Preparations 5021 – Office and Commercial Furniture"
+5051,Metal Service Centers and Offices,"Merchants classified with this MCC are business-to- business or wholesale marketers of semi-finished metal products, excluding precious metals. These Merchants may sell metal piping and tubing, wire screening and bale ties, nails, ingots, aluminum bars, rails and accessories, metal or galvanized sheets, strip metal, iron rods, and wire rope or cable.",,"5094 – Precious Stones and Metals, Watches and Jewelry 5944 – Jewelry Stores, Watches, Clocks and Silverware Stores"
+5065,Electrical Parts and Equipment,"Merchants classified with this MCC are business-to- business or wholesale distributors of electrical parts and communications equipment, such as electronic coils, capacitors, electronic condensers, diodes, semiconductor devices, public address equipment, and electric signs.","Communications Equipment Equipment – Electrical Parts, Equipment Parts – Electrical, Equipment Supplies – Electrical Parts, Equipment",4812 – Telecommunications Equipment and Telephone Sales 5732 – Electronics Stores
+5072,"Hardware, Equipment and Supplies","Merchants classified with this MCC are business-to- business or wholesale distributors of general hardware and cutlery such as bolts, nuts, rivets, screws, fasteners, hand tools, locks, washers, tacks, staples, nails, hand saws, saw blades, and power hand tools.","Equipment – Hardware, Equipment, Supplies Hand Tools Supplies Hardware, Equipment, Supplies",5251 – Hardware Stores
+5074,Plumbing and Heating Equipment and Supplies,Merchants classified with this MCC are business-to- business or wholesale distributors of hydraulic plumbing and heating equipment and supplies. This MCC does not include wholesalers of commercial refrigeration equipment or supplies or appliances such as electric or gas ranges and commercial ovens.,"Equipment – Heating Equipment, Supplies Equipment – Plumbing Equipment, Supplies Equipment – Water Conditioning, Purification, Softening Heating Equipment, Supplies Supplies – Heating Equipment, Supplies Supplies – Plumbing Equipment, Supplies","5046 – Commercial Equipment (Not Elsewhere Classified) 5072 – Hardware, Equipment and Supplies 5251 – Hardware Stores 5722 – Household Appliance Stores 7299 – Miscellaneous Personal Services – Water Filtration, Purification, Softening"
+5085,Industrial Supplies (Not Elsewhere Classified),"Merchants classified with this MCC are business-to- business or wholesale distributors of industrial supplies that are not classified with a more specific MCC. Products for sale may include abrasives, bearings, boxes, cans, crates, cork, gaskets, grommets, hydraulic valves, hoses, pistons, sprockets, barrels, bottles (glass or plastic), industrial fittings, cordage, twine and rope, metals closures, printers’ ink, lapidary equipment, leather belting, mill supplies, pails, rubber goods, textile printers’ supplies, and steel drums.",Supplies – Industrial,5072 – Hardware Equipment and Supplies 5169 – Chemicals and Allied Products (Not Elsewhere Classified) 5251 – Hardware Stores
+5094,"Precious Stones and Metals, Watches and Jewelry","Merchants classified with this MCC are business-to- business or wholesale distributors of jewelry, precious stones and metals. This MCC also includes wholesalers of costume jewelry, watches and watch parts, clocks, silverware, diamonds and gemstones, precious metals, pearls, and trophies.","Gemstones, Precious Stones, Metals,
+Watches, Jewelry Jewelry – Fine Watches","5944 – Jewelry, Watches, Clocks and Silverware Stores
+7699 – Miscellaneous Repair Shops and Related Services"
+5099,Durable Goods (Not Elsewhere Classified),Merchants classified with this MCC are business-to- business or wholesale distributors of durable goods that are not classified with a more specific MCC.,"Fire Extinguishers Firearms, Ammunition Gas Lighting Fixtures Goods – Durable Gravestones Luggage (Business to Business) Monuments Musical Instruments Rough Timber Products Signs",5065 – Electrical Parts and Equipment 5941 - Sporting Goods Stores 5999 - Miscellaneous and Specialty Retail Shops
+5111,"Stationery, Office Supplies, Printing and Writing Paper",Merchants classified with this MCC are business-to- business or wholesale distributors of stationery and office supplies and printing and writing paper.,"Business Supplies – Stationery, Office, Printing, Writing Supplies Office Supplies Paper – Writing, Printing, Stationery, Office Supplies Printing Supplies Supplies – Stationery, Office Supplies, Printing, and Writing Paper","5021 – Office and Commercial Furniture 5044 – Photographic, Photocopy, Microfilm Equipment and Supplies 5943 – Stationery Stores, Office and School Supply Stores 5978 – Typewriter Stores – Sales, Rentals, and Service"
+5122,"Drugs, Drug Proprietaries, and Druggist Sundries","Merchants classified with this MCC are business-to- business or wholesale distributors of prescription drugs, proprietary drugs, druggists’ sundries, pharmaceuticals, and biological or related products.","Distributors – Drugs, Druggists’ Sundries, Pharmaceuticals Supplies – Drugs, Drug Proprietaries, Druggist Sundries,","5047 – Medical, Dental, Ophthalmic and Hospital Equipment and Supplies 5912 – Drug Stores and Pharmacies"
+5131,"Piece Goods, Notions, and Other Dry Goods","Merchants classified with this MCC are business-to- business or wholesale distributors of piece goods, dry goods, and notions/haberdashery.","Fabric Goods Hair Accessories Notions Sewing Accessories Supplies – Millinery Textiles, Textile Binding","5719 – Miscellaneous Home Furnishing Specialty Stores 5949 – Sewing, Needlework, Fabric and Piece Goods Stores"
+5137,"Men’s, Women’s, and Children’s Uniforms and Commercial Clothing","Merchants classified with this MCC are business-to- business or wholesale distributors of commercial work clothing and uniforms. This MCC includes wholesale distributors of graduation caps and gowns, athletic and recreational uniforms, and school uniforms, but not shoes.","Children’s Uniforms Commercial Clothing – Men’s, Women’s, Children’s Men’s Uniforms Professional Uniforms Uniforms – Men’s, Women’s, Children’s Women’s Uniforms","5139 – Commercial Footwear ......... 5611 – Men’s and Boys’ Clothing and Accessories Stores 5621 – Women’s Ready-To-Wear Stores 5631 – Women’s Accessory and Specialty Shops 5641 – Children’s and Infants’ Wear Stores 5651 – Family Clothing Stores 5655 – Sports and Riding Apparel Stores 5661 – Shoe Stores 5681 – Furriers and Fur Shops 5691 – Men’s and Women’s Clothing Stores 5697 – Tailors, Seamstresses, Mending, and Alterations 5699 – Miscellaneous Apparel and Accessory Shops"
+5139,Commercial Footwear,Merchants classified with this MCC are business-to- business or wholesale distributors of commercial shoes and boots including athletic footwear.,"Footwear – Commercial Shoes, Shoe Accessories – Commercial",5661 – Shoe Stores
+5169,Chemicals and Allied Products (Not Elsewhere Classified),"Merchants classified with this MCC are business-to- business or wholesale distributors of chemicals and allied products that are not classified with a more specific MCC. Products for sale are typically used for industrial purposes. Examples include industrial acids, ammonia and alcohol, heavy, aromatic and other chemicals, chlorine, compressed and liquefied gases, detergents, fuel and oil additives, resins, salts, turpentine, sealants, rust proofing chemicals, coal tar products, dry ice, dyestuffs, glue, gelatin, and explosives","Detergents Supplies – Chemicals, Allied Products","2842 – Specialty Cleaning, Polishing and Sanitation Preparations 5999 – Miscellaneous and Specialty Retail Stores"
+5172,Petroleum and Petroleum Products,"Merchants classified with this MCC are business-to- business or wholesale distributors of petroleum and petroleum products, butane gas, crude oil, fuel oil, gasoline, kerosene, lubricating oils and greases, aircraft fueling services, and naphtha.","Fuel Products, Services Services – Fueling","5169 – Chemicals and Allied Products (Not Elsewhere Classified) 5983 – Fuel Dealers – Fuel Oil, Wood, Coal, and Liquefied Petroleum"
+5192,"Books, Periodicals and Newspapers","Merchants classified with this MCC are business-to- business or wholesale distributors of books, periodicals, magazines, journals, and newspapers, including newspaper agencies.","Journals Magazines Newspapers, Newspaper Agencies Periodicals",2741 – Miscellaneous Publishing and Printing 5942 – Book Stores 5968 – Direct Marketing – Continuity/ Subscription Merchant 5994 – News Dealers and Newsstands
+5193,"Florists Supplies, Nursery Stock and Flowers","Merchants classified with this MCC are business-to- business or wholesale distributors of flowers, nursery stock and florists’ supplies, fresh and artificial flowers, and potted plants.","Gardening Supplies Nursery Stock Plants Supplies – Florist Supplies, Nursery Stock, Flowers",5261 – Nurseries and Lawn and Garden Supply Stores 5992 – Florists
+5198,"Paints, Varnishes and Supplies","Merchants classified with this MCC are business-to- business or wholesale distributors of paints, varnishes, wallpaper, and supplies, including colors and pigments, enamels, lacquers, paint brushes, paint pans, sandpaper, drop cloths, shellac, rollers, and sprayers.","Supplies – Paints, Varnishes, Supplies Varnishes, Paints, Supplies","5231 – Glass, Paint, and Wallpaper Stores"
+5199,Nondurable Goods (Not Elsewhere Classified),"Merchants classified with this MCC are business-to- business or wholesale distributors of nondurable goods that are not classified with a more specific MCC, such as food products, art goods, clothes hangers, foam rubber, ice, crude rubber, sponges, textile bags, burlap, canvas products, leather, and baskets.",Goods – Nondurable,"5131 – Piece Goods, Notions, and Other Dry Goods 5948 – Luggage and Leather Goods Stores"
+5200,Home Supply Warehouse Stores,"Merchants classified with this MCC sell of a wide range of home products such as wallpaper, paint, lumber, garden supplies, electrical equipment and supplies and home decorating items, as well as sinks, cabinets and doors.",Warehouse Stores – Home Supply,"5211 – Lumber and Building Materials Stores 5231 – Glass, Paint, and Wallpaper Stores 5251 – Hardware Stores 5713 – Floor Covering Stores"
+5211,Lumber and Building Materials Stores,"Merchants classified with this MCC sell of one or more of the following products: lumber, unfinished wood products, lighting materials, concrete, sand, gravel, general building or electrical supplies, bricks, fencing, pipe, fiberglass, or molding. This MCC includes building centers that offer their products to contractors rather than to the general public and does not include home supply store chains that are frequented by the general public.","Building Materials Construction Materials Materials – Lumber,
+Building Roofing Materials Supplies – Lumber, Building Materials","5200 – Home Supply Warehouse Stores 5231 – Glass, Paint, and Wallpaper
+Stores 5251 – Hardware Stores 5713 – Floor Covering Stores 5718 – Fireplace, Fireplace Screens and Accessories Stores"
+5231,"Glass, Paint, and Wallpaper Stores","Merchants classified with this MCC sell glass, paint and painting supplies, wallpaper and hanging supplies, and other wall covering materials.","Paint, Painting Supplies Supplies – Glass Supplies – Paint, Painting Supplies Supplies – Wallpaper, Supplies Wallpaper, Wallcovering Supplies Store",5039 – Construction Materials (Not Elsewhere Classified) 5200 – Home Supply Warehouse Stores 5251 – Hardware Stores
+5251,Hardware Stores,Merchants classified with this MCC sell a full range of hardware supplies for purchase by the general public.,"Electrical Supplies Hand Tools Lighting Fixtures, Supplies Plumbing Supplies Power Tools Supplies – Hardware Stores Tools","5200 – Home Supply Warehouse Stores 5231 – Glass, Paint, and Wallpaper Stores 5713 – Floor Covering Stores 5718 – Fireplace, Fireplace Screens and Accessories Stores"
+5261,Nurseries and Lawn and Garden Supply Stores,"Merchants classified with this MCC sell nursery stock, trees, shrubs, other plants, seeds, bulbs, mulches, soil conditioners, fertilizers, pesticides, garden tools, and other garden supplies.","Gardening Supplies Greenhouses Lawn, Garden Supply Plant Shops Supplies – Nurseries, Lawn, Garden Supply Stores",0780 – Landscaping and Horticultural Services 5992 – Florists
+5262,Marketplaces,,,
+5271,Mobile Home Dealers,"Merchants classified with this MCC sell new and used mobile homes and related parts, accessories, and equipment.","Dealers – Mobile Home, Parts, Equipment Equipment – Mobile Home Parts","5561 – Camper, Recreational and Utility Trailer Dealers 5592 – Motor Home Dealers 5599 – Miscellaneous Automotive, Aircraft, and Farm Equipment Dealers (Not Elsewhere Classified)"
+5300,Wholesale Clubs,Merchants classified with this MCC sell a full range of goods (often in bulk) and services in warehouse-style stores. These Merchants may or may not have membership requirements.,Club Stores – Wholesale Clubs Discount Goods – Wholesale Clubs Warehouse Retail – Wholesale Clubs,"5200 – Home Supply Warehouse Stores 5310 – Discount Stores 5311 – Department Stores 5331 – Variety Stores 5399 – Miscellaneous General Merchandise 5712 – Furniture, Home Furnishings and Equipment Stores, Except Appliances 5719 – Miscellaneous Home Furnishing Specialty Stores"
+5309,Duty Free Stores,"Merchants classified with this MCC sell a variety of gift and import items that are typically exempt from customs fees, such as liquor, perfume, and jewelry.",,"5921 – Package Stores – Beer, Wine, and Liquor 5944 – Jewelry Stores 5999 – Miscellaneous and Specialty Retail Stores"
+5310,Discount Stores,Merchants classified with this MCC sell a general line of merchandise and offer it at a discounted rate.,,5300 – Wholesale Clubs 5311 – Department Stores 5331 – Variety Stores 5399 – Miscellaneous General Merchandise 5931 – Used Merchandise and Secondhand Stores
+5311,Department Stores,"Merchants classified with this MCC sell a general line of apparel, home furnishings, furniture, electronics, cosmetics, housewares, and major household appliances. These stores have departments that usually have their own separate check-out counters.",,"5300 – Wholesale Clubs 5331 – Variety Stores 5399 – Miscellaneous General Merchandise
+5931 – Used Merchandise and Secondhand Stores"
+5331,Variety Stores,"Merchants classified with this MCC sell a limited selection of various products in a lower price range. Generally, these Merchants sell the same type of merchandise and operate in the same manner as a discount store, but on a much smaller scale.",,"5310 – Discount Stores 5311 – Department Stores 5399 – Miscellaneous General Merchandise 5931 – Used Merchandise and Secondhand Stores 5947 – Gift, Card, Novelty and Souvenir Shops"
+5399,Miscellaneous General Merchandise,"Merchants classified with this MCC sell a general line of merchandise. Generally, these Merchants sell the same type of merchandise and operate in the same manner as a department store, but on a much smaller scale.",General Merchandise – Miscellaneous,5300 – Wholesale Clubs 5310 – Discount Stores 5311 – Department Stores 5331 – Variety Stores 5931 – Used Merchandise and Secondhand Stores
+5411,Grocery Stores and Supermarkets,"Merchants classified with this MCC sell a complete, full line of food merchandise for home consumption. Most of the food merchandise is perishable, and perishables* must represent at least 45% of Merchant’s total monthly sales volume, measured in local currency. In addition, they also sell canned, frozen, prepackaged, and dry foods, a limited selection of housewares, cleaning and polishing products, personal hygiene products, cosmetics, greeting cards, books, magazines, household items, and dry goods. These Merchants may also operate specialized departments such as an in-store deli counter, meat counter, pharmacy, or floral department. * Perishable goods include the following: • Bakery – in store (service) • Bread and baked goods – fresh • Dairy – butter, margarine, cottage cheese, sour cream, toppings, dough products, eggs, juices/drinks (refrigerated), milk, pudding, desserts, snacks, spreads, dips, and yogurt • Deli – in store (service) • Deli – refrigerated (self service) • Frozen foods – baked goods, breakfast foods, desserts, fruits, toppings, frozen novelties, ice, ice cream, juices, drinks, meal starters, pizza, snacks, hors d’oeuvres, prepared foods, unprepared meat, poultry, seafood, vegetables • Meat, fish, poultry – fresh • Packaged meat – deli • Fresh produce • Floral","Food Stores – Grocery Stores, Supermarkets Supermarkets",5422 – Freezer and Locker Meat Provisioners 5451 – Dairy Products Stores 5499 – Miscellaneous Food Stores – Convenience Stores and Specialty Markets
+5422,Freezer and Locker Meat Provisioners,"Merchants classified with this MCC sell fresh, frozen, or cured meats, fish, shellfish, and other seafoods. This MCC also includes bulk retail sellers of meat for freezer storage and home freezer plans.","Butcher Shops Fish, Seafood Markets Frozen Meats, Seafood Meat Markets, Meat Lockers Seafood Markets",5411 – Grocery Stores and Supermarkets 5499 – Miscellaneous Food Stores – Convenience Stores and Specialty Markets
+5441,"Candy, Nut, and Confectionery Stores","Merchants classified with this MCC are retail sellers of candy, chocolate, nuts, dried fruits, popcorn and other confections.",Chocolate Shops Confectionery Shops Dried Fruit Shops Nut Shops Popcorn Stands,5451 – Dairy Product Stores 5462 – Bakeries 5499 – Miscellaneous Food Stores – Convenience Stores and Specialty Markets
+5451,Dairy Products Stores,"Merchants classified with this MCC sell packaged butter, cheese, ice cream, milk, and other dairy products.",Cheese Shops,5499 – Miscellaneous Food Stores – Convenience Stores and Specialty Markets 5814 – Fast Food Restaurants
+5462,Bakeries,Merchants classified with this MCC sell (and may make) bakery goods.,Bagel Shops Cake Shops Cookie Stores Doughnut Shops Pastry Shops Pie Shops Wedding Cakes,5499 – Miscellaneous Food Stores – Convenience Stores and Specialty Markets
+5499,Miscellaneous Food Stores – Convenience Stores and Specialty Markets,Merchants classified with this MCC sell specialty foods not classified with a more specific MCC.,"Convenience Stores Delicatessens Food Stores – Convenience Fruit Markets Gourmet Food Stores Health Food Stores Mini Markets
+Poultry Shops Produce Markets Specialty Food Markets Vegetable Markets Vitamin Stores Meal Preparation Kits","5411 – Grocery Stores and Supermarkets 5422 – Freezer and Locker Meat Provisioners 5441 – Candy, Nut, and Confectionery Stores 5451 – Dairy Products Stores 5462 – Bakeries
+5541 – Service Stations (with or without Ancillary Services 5814 – Fast Food Restaurants"
+5511,"Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing","Merchants classified with this MCC sell and/or lease new and used automobiles, trucks, pickups, and vans and may also conduct repair work and sell replacement parts and accessories.","Automobile/Truck Dealers (New/Used) Sales, Service, Repairs, Parts, Leasing Car Dealers (New/Used) Dealers – Automobile/ Truck (New/Used), Sales, Service, Repairs, Parts, Leasing Leasing – Automobile, Truck Motor Vehicle Dealers (New/Used) Repairs – Automobile/ Truck Dealers (New/ Used) Sales, Service, Repairs, Parts, Leasing Truck Dealers (New/Used)","5521 – Car and Truck Dealers (Used Only) Sales, Service, Repairs, Parts, and Leasing 5532 – Automotive Tire Stores ....... 5533 – Automotive Parts and Accessories Stores 5561 – Camper, Recreational and Utility Trailer Dealers 5571 – Motorcycle Shops and Dealers 5592 – Motor Home Dealers 5598 – Snowmobile Dealers 5599 – Miscellaneous Automotive, Aircraft, and Farm Equipment Dealers (Not Elsewhere Classified) 7538 – Automotive Service Shops (Non-Dealer)"
+5521,"Car and Truck Dealers (Used Only) Sales, Service, Repairs, Parts, and Leasing","Merchants classified with this MCC sell and/or lease only used automobiles, trucks, pickups and vans and may also conduct repair work and sell replacement parts and accessories.",Antique Automobiles Automobiles/Trucks (Used Only) Car Dealers (Used Only) Dealers – Antique Automobiles Dealers – Automobile/ Truck (Used Only),"5511 – Car and Truck Dealers (New/Used) Sales, Service, Repairs, Parts, and Leasing 5532 – Automotive Tire Stores 5533 – Automotive Parts and Accessories Stores 5561 – Camper, Recreational and Utility Trailer Dealers 5571 – Motorcycle Shops and Dealers 5592 – Motor Home Dealers 5598 – Snowmobile Dealers 5599 – Miscellaneous Automotive, Aircraft, and Farm Equipment Dealers (Not Elsewhere Classified) 7538 – Automotive Service Shops (Non-Dealer)"
+5532,Automotive Tire Stores,Merchants classified with this MCC sell automotive and truck tires and related parts and may also conduct tire installation and repair services.,"Car Tires – New Only
+Repairs – Automotive Tire Stores Services – Repairs/ Automotive Tire Stores Tire Stores","5533 – Automotive Parts and
+Accessories Stores 7534 – Tire Retreading and Repair Shops 7538 – Automotive Service Shops (Non-Dealer)"
+5533,Automotive Parts and Accessories Stores,"Merchants classified with this MCC sell automobile parts, equipment, and accessories, including electric vehicle charging equipment designed for personal use.","Accessories – Automotive Automobile – Parts, Accessories Stores Car Parts, Accessories Stores Motor Vehicle Supplies, Parts Parts, Automotive Supplies – Automotive Parts, Accessories Stores",5532 – Automotive Tires Stores 5732 – Electronics Stores
+5541,Service Stations (With or without Ancillary Services),"Merchants classified with this MCC are retail sellers of engine fuel These Merchants may or may not also have a convenience store, car wash, or automotive repair shop on the premises, but must sell fuel for consumer use. Excluded from this category code are Automated Fuel Dispensers, MCC 5542",Filling Stations – Automotive Gasoline Gas Stations (With or Without Ancillary Services) Gasoline – Service Stations Marina Service Stations Petrol – Service Stations Truck Stops – Gasoline Service,5542 – Automated Fuel Dispensers 7538 – Automotive Service Shops (Non-Dealer)
+5542,Automated Fuel Dispensers,Merchants classified with this MCC are retail sellers of engine fuel through the use of an Automated Fuel Dispenser (AFD).,Cardholder-Activated Fuel Dispensers Fuel Dispensers – Automated Gas Pumps (Automated Fuel Dispensers) Fuel – Self-Service Terminals Petrol Dispensers – Automated Petrol – Self- Service Terminals Self-Service Terminals – Fuel Self-Service Terminals – Petrol,5541 – Service Stations (With or Without Ancillary Services) 7538 – Automotive Service Shops (Non-Dealer)
+5551,Boat Dealers,"Merchants classified with this MCC sell new and used motorboats, sailboats, and other watercraft, marine supplies, and outboard motors.",Dealers – Boat Motorboat Dealers Outboard Motor Dealers Powerboat Dealers Sailboat Dealers,"4468 – Marinas, Marine Service, and Supplies"
+5552,Electric Vehicle Charging,Merchants classified with this MCC sell electricity for the purpose of fueling an automobile,,"5541 – Service Stations (With or Without Ancillary Services 5542 – Automated Fuel Dispensers 7523 – Parking Lots, Parking Meters and Garages"
+5561,"Camper, Recreational and Utility Trailer Dealers","Merchants classified with this MCC sell new and used campers, recreational and utility trailers, and related parts and accessories.","Accessories – Recreational Vehicles Camper Dealers Dealers – Recreational, Utility Trailers, Camper Dealers Parts, Recreational Vehicles RV, Camper Dealers Recreational Vehicle Dealers, Parts, Accessories Trailers – Utility Utility Trailers","5571 – Motorcycle Shops and Dealers 5592 – Motor Home Dealers 5598 – Snowmobile Dealers 5599 – Miscellaneous Automotive, Aircraft, and Farm Equipment Dealers (Not Elsewhere Classified)"
+5571,Motorcycle Shops and Dealers,"Merchants classified with this MCC sell new and used motorcycles, motor scooters, mopeds and related parts, equipment, clothing, and accessories.","Dealers – Motorcycle, Moped, Motor Scooters Moped Dealers, Parts, Accessories Motor Scooter Dealers, Parts, Accessories Supplies – Motorcycle Parts, Accessories","5599 – Miscellaneous Automotive, Aircraft, and Farm Equipment Dealers (Not Elsewhere Classified)"
+5592,Motor Homes Dealers,Merchants classified with this MCC sell new and used motor homes and related parts and accessories.,Dealers – Motor Homes,"5271 – Mobile Home Dealers 5561 – Camper, Recreational and Utility Trailer Dealers 5599 – Miscellaneous Automotive, Aircraft, and Farm Equipment Dealers (Not Elsewhere Classified)"
+5598,Snowmobile Dealers,Merchants classified with this MCC sell new and used snowmobiles and related parts and accessories.,Dealers – Snowmobiles,"5561 – Camper, Recreational and Utility Trailer Dealers 5599 – Miscellaneous Automotive, Aircraft, and Farm Equipment Dealers (Not Elsewhere Classified)"
+5599,"Miscellaneous Automotive, Aircraft, and Farm Equipment Dealers (Not Elsewhere Classified)","Merchants classified with this MCC sell new and used aircraft and/or automotive, farm, and recreational vehicles, parts, equipment and supplies not classified with a more specific MCC.","Airplane, Aircraft Dealers All-Terrain Vehicle Dealers Automotive Dealers – Miscellaneous Dealers – Airplane, Aircraft Dealers – Golf Carts Dealers – Miscellaneous Automotive Dealers Plane Dealers – Aircraft","5511 – Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing 5521 – Car and Truck Dealers (Used Only) Sales, Service, Repairs, Parts, and Leasing 5551 – Boat Dealers 5561 – Camper, Recreational and Utility Trailer Dealers 5571 – Motorcycle Shops and Dealers 5592 – Motor Home Dealers 5598 – Snowmobile Dealers"
+5611,Men’s and Boys’ Clothing and Accessories Stores,Merchants classified with this MCC sell men’s and boys’ ready-to-wear clothing and accessories.,"Accessories – Men’s, Boys’ Clothing Apparel – Men’s, Boys’ Clothing Boys’ Clothing, Accessories Clothing – Men’s, Boys’ Clothing, Accessory Stores Hat Shops – Men’s Necktie Stores Tie Shops – Men’s Clothing",5651 – Family Clothing Stores 5691 – Men’s and Women’s Clothing Stores
+5621,Women’s Ready-To-Wear Stores ..,Merchants classified with this MCC sell a general line of women’s ready-to-wear and special-event clothing.,Apparel – Women’s Ready- To-Wear Stores Bridal Shops Clothing – Women’s Ready-To-Wear Stores Coat Stores – Women’s Dress Shops Maternity Stores Outerwear Stores – Women’s,5631 – Women’s Accessory and Specialty Shops 5651 – Family Clothing Stores 5655 – Sports and Riding Apparel Stores 5681 – Furriers and Fur Shops 5691 – Men’s and Women’s Clothing Stores 5699 – Miscellaneous Apparel and Accessory Shops
+5631,Women’s Accessory and Specialty Shops,"Merchants classified with this MCC sell women’s clothing accessories, including handbags, hats, costume jewelry, scarves, belts, hair accessories, lingerie, and hosiery.","Accessories – Women’s Accessory, Specialty Shops Apparel – Women’s Accessory, Specialty Shops Clothing – Women’s Accessory, Specialty Shops Costume Jewelry Shops Handbag Stores Hat Shops – Women’s Jewelry – Costume Lingerie Stores",5621 – Women’s Ready-To-Wear Stores 5699 – Miscellaneous Apparel and Accessory Shops
+5641,Children’s and Infants’ Wear Stores,Merchants classified with this MCC sell children’s and infants’ clothing and accessories.,"Apparel – Children’s, Infants’ Wear Baby Clothing Clothing – Children’s, Infants’ Wear Stores Infants’ Clothing",5651 – Family Clothing Stores 5699 – Miscellaneous Apparel and Accessory Shops
+5651,Family Clothing Stores,"Merchants classified with this MCC sell general lines of men’s, women’s, and children’s clothing and accessories without specializing in sales for a particular gender or age group.","Apparel – Family Clothing Stores Clothing – Family Clothing Stores Jeans, Denim Clothing Stores",5611 – Men’s and Boys’ Clothing and Accessory Stores 5621 – Women’s Ready-To-Wear Stores 5631 – Women’s Accessory and Specialty Shops 5641 – Children’s and Infants’ Wear Stores 5655 – Sports and Riding Apparel Stores 5661 – Shoe Stores 5681 – Furriers and Fur Shops ....... 5691 – Men’s and Women’s Clothing Stores 5699 – Miscellaneous Apparel and Accessory Shops
+5655,Sports and Riding Apparel Stores,"Merchants classified with this MCC sell athletic, sports, and riding apparel and active wear.","Active Wear – Sports Apparel Apparel – Sports, Riding Apparel Stores Athletic Apparel Stores
+Clothing – Sports Apparel, Riding Apparel Stores Equestrian Apparel Riding Apparel – Sports Apparel",5661 – Shoe Stores 5699 – Miscellaneous Apparel and Accessory Shops 5941 – Sporting Goods Stores
+5661,Shoe Stores,"Merchants classified with this MCC sell men’s, women’s, and/or children’s footwear (including athletic footwear) and accessories.",Athletic Shoe Stores Boot Shops Footwear Stores Western Boot Shops,
+5681,Furriers and Fur Shops,"Merchants classified with this MCC sell a variety of items made of animal fur, including coats, jackets, hats, and gloves.","Apparel – Furriers, Fur Shops Clothing – Furriers, Fur Shops Coat Stores – Furriers",5621 – Women’s Ready-To-Wear Shops 5631 – Women’s Accessory and Specialty Shops 5691 – Men’s and Women’s Clothing Stores 5699 – Miscellaneous Apparel and Accessory Shops
+5691,Men’s and Women’s Clothing Stores,Merchants classified with this MCC sell men’s and women’s clothing and accessories but not infants’ and children’s clothing.,Apparel – Men’s Clothing Stores Clothing – Women’s Clothing Stores,5611 – Men’s and Boys’ Clothing and Accessories Stores 5621 – Women’s Ready-To-Wear Stores 5631 – Women’s Accessory and Specialty Shops 5641 – Children’s and Infants’ Wear Stores 5651 – Family Clothing Stores 5699 – Miscellaneous Apparel and Accessory Shops
+5697,"Tailors, Seamstresses, Mending, and Alterations","Merchants classified with this MCC create and sell custom-made clothing and perform alterations, mending, and garment repair or restoration.","Alterations Apparel – Tailors, Seamstresses, Mending, Alterations Clothing – Tailors, Seamstresses, Mending, Alterations Custom Made Clothing Dressmakers
+Hand Made Clothing Made-To-Order Clothing Mending, Alterations Repairs – Tailors, Seamstresses, Mending, Alterations Seamstresses Services – Tailors, Seamstresses, Mending, Alterations Sewing Shops – Alterations","5949 – Sewing, Needlework, Fabric and Piece Goods Stores"
+5698,Wig and Toupee Stores,"Merchants classified with this MCC sell permanently attached or temporary toupees, wigs, hair pieces, and hair extensions or provide hair weaving services.","Hair Pieces, Extensions Hair Replacement – Non-Surgical Toupee Stores",5999 – Miscellaneous and Specialty Retail Stores 7230 – Beauty and Barber Shops 8099 – Medical Services and Health Practitioners (Not Elsewhere Classified)
+5699,Miscellaneous Apparel and Accessory Shops,Merchants classified with this MCC sell specialized lines of apparel (excluding fur) and accessories that are not classified with a more specific MCC.,"Clothing – Formal Wear Clothing – Miscellaneous Apparel, Accessory Shops Swim Wear Shop T-Shirt Stores","5611 – Men’s and Boys’ Clothing and Accessories Stores 5621 – Women’s Ready-to-Wear Stores 5631 – Women’s Accessory and Specialty Shops 5641 – Children’s and Infants’ Wear Stores 5651 – Family Clothing Stores 5661 – Shoe Stores 5681 – Furriers and Fur Shops 5691 – Men’s and Women’s Clothing Stores 5697 – Tailors, Seamstresses, Mending, and Alterations"
+5712,"Furniture, Home Furnishings, and Equipment Stores, Except Appliances",Merchants classified with this MCC sell home furnishings and a wide variety of finished furniture products and accessories for the home.,"Bedding, Mattress Stores Custom Made Furniture Equipment Stores Home Furnishings, Furniture Made-to-Order Furniture Mattress Stores Outdoor Furnishings Patio, Porch Furnishings
+Stores","5713 – Floor Covering Stores 5714 – Drapery, Window Covering, and Upholstery Stores 5719 – Miscellaneous Home Furnishing Specialty Stores 5722 – Household Appliance Stores 5732 – Electronics Stores 7641 – Furniture – Reupholstery, Repair, and Refinishing"
+5713,Floor Covering Stores,"Merchants classified with this MCC are retail sellers of floor coverings such as carpet, area rugs, floor tile, linoleum, stone, wood, and brick, and may or may not also perform installation services.","Carpet, Rug Stores Linoleum Stores Rug Stores Tile Stores","5712 – Furniture, Home Furnishings and Equipment Stores, Except Appliances 5719 – Miscellaneous Home Furnishing Specialty Stores 1799 – Special Trade Contractors (Not Elsewhere Classified)"
+5714,"Drapery, Window Covering, and Upholstery Stores","Merchants classified with this MCC sell draperies, curtains, venetian blinds, window shades, and upholstery materials.",Curtain Stores Upholstery Materials Stores Window-covering Stores,"5712 – Furniture, Home Furnishings and Equipment Stores, Except Appliances 5719 – Miscellaneous Home Furnishing Specialty Stores 7641 – Furniture – Reupholstery, Repair, and Refinishing"
+5718,"Fireplace, Fireplace Screens and Accessories Stores","Merchants classified with this MCC sell pre-made fireplaces, wood stoves, and fireplace parts and accessories.","Hearth, Accessories Stores Heating – Fireplace, Accessories Stores Stoves – Fireplaces, Accessories Stores Woodburning Stoves, Accessories Stores","1740 – Masonry, Stonework, Tile Setting, Plastering and Insulation Contractors 5251 – Hardware Stores 5719 – Miscellaneous Home Furnishing Specialty Stores"
+5719,Miscellaneous Home Furnishing Specialty Stores,"Merchants classified with this MCC sell miscellaneous home furnishings such as housewares, cutlery, bedding and linen, lamps and shades, mirrors and pictures, pottery, and ceramic items.","Accessories – Home Furnishings Bed, Bath Shops Cookware Stores Cutlery – Kitchen Home Furnishing Specialty Stores – Miscellaneous Housewares Stores Kitchenware Stores Lamp, Lighting Shops Linen Shops Pottery Stores","5712 – Furniture, Home Furnishings and Equipment Stores, Except Appliances 5713 – Floor Covering Stores 5714 – Drapery, Window Covering, and Upholstery Stores 5718 – Fireplace, Fireplace Screens and Accessories Stores 5722 – Household Appliance Stores 5932 – Antique Shops – Sales, Repairs, and Restoration Services 5950 – Glassware/Crystal Stores"
+5722,Household Appliance Stores,"Merchants classified with this MCC sell household appliances such as gas or electric ranges and stoves, ovens, refrigerators, dishwashers, water heaters, washers and dryers, garbage disposals, sewing machines, self-contained air conditioning units, and vacuum cleaners, and may or may not also conduct repair work.",Sewing Machine Stores Vacuum Cleaner Stores,"5712 – Furniture, Home Furnishings and Equipment Stores, Except
+Appliances 5719 – Miscellaneous Home Furnishing Specialty Stores 7623 – Air Conditioning and Refrigeration Repair Shops 7629 – Electrical and Small Appliance Repair Shops 7699 – Miscellaneous Repair Shops and Related Services"
+5723,"Guns and Ammunition Shops (effective July 1, 2024)",Merchants classified with this MCC sell guns and/or ammunition. Merchants whose primary business involves the sale of guns and/or ammunition will use this MCC.,This MCC should only be used in those jurisdictions where it is legally required,5941 – Sporting Goods Stores 5999 – Miscellaneous and Specialty Retail Shops
+5732,Electronics Stores,"Merchants classified with this MCC sell a wide variety of electronic goods such as televisions, radios, cameras, computers, tablets, and stereo components and may also sell electronic parts and or accessories for the repair, construction or assembly of electronic equipment and/or also conduct repair work.","Camcorders (And Other Electronics) Computer Hardware (And Other Electronics) Electronic Parts Electronic Repair Shops High Fidelity Equipment Personal Computers Radios Stereos, Receivers, CD Equipment Television Stores VCR’s Video Cameras (And Other Electronics)",5722 – Household Appliance Stores 5946 – Camera and Photographic Supply Stores 7622 – Electronics Repair Shops 7629 – Electrical and Small Appliance Repair Shops 7699 – Miscellaneous Repair Shops and Related Services 7841 – DVD/Video Tape Rental Stores
+5733,"Music Stores – Musical Instruments, Pianos, and Sheet Music","Merchants classified with this MCC sell musical instruments, sheet music, keyboards, instruction books, pianos, guitars and related supplies and equipment and may also offer music instruction.",Guitar Stores Instruments – Musical Pianos,5732 – Electronics Stores 5735 – Record Stores 8299 – Schools and Educational Services (Not Elsewhere Classified)
+5734,Computer Software Stores,Merchants classified with this MCC sell computer software programs for business and personal use and may also sell or lease computer hardware or other related products. Merchants that sell applications for mobile devices should use MCC 5817.,,"5732 – Electronics Stores 7372 – Computer Programming, Data
+Processing, and Integrated Systems Design Services 7379 – Computer Maintenance, Repair and Services (Not Elsewhere Classified)"
+5735,Record Stores,"Merchants classified with this MCC sell records, compact discs (CDs), and cassettes, and may also rent video tapes.","CD, Cassette, Record Stores Compact Disc, Cassette, Record Stores Music Stores – Prerecorded Records, CDs, Cassettes Record, CD, Cassette Stores Used Record/CD Stores","7841 – DVD/Video Tape Rental Stores 5815 – Digital Goods Media – Books, Movies, Music"
+5811,Caterers,"Merchants classified with this MCC contract with consumers to prepare and deliver (typically to a specified location) food and drinks for immediate consumption and may also provide clean-up services, tables, serving equipment, decorations, and personnel for on-site serving and cleanup.",Food Preparation – Catering,5812 – Eating Places and Restaurants
+5812,Eating Places and Restaurants,"Merchants classified with this MCC prepare food and drinks for immediate consumption, typically on the Merchant’s premises. These Merchants typically provide table service and may include alcoholic beverages on the menu. This MCC includes food delivery for Merchants qualifying for this MCC.","Cafes, Restaurants Cafeterias Diners – Eating Establishments Restaurants Soda Fountains","5462 – Bakeries 5499 – Miscellaneous Food Stores – Convenience Stores and Specialty Markets 5813 – Drinking Places (Alcoholic Beverages) – Bars, Taverns, Nightclubs, Cocktail Lounges, and Discotheques 5814 – Fast Food Restaurants"
+5813,"Drinking Places (Alcoholic Beverages) – Bars, Taverns, Nightclubs, Cocktail Lounges, and Discotheques","Merchants classified with this MCC sell alcoholic beverages such as wine, beer, mixed drinks, and other liquors and beverages for consumption on the premises.","Drinking Establishments Beer Parlors Breweries, Bars Comedy Clubs Lounges Micro-breweries Pubs Saloons Tap Rooms Wine Bars",5812 – Eating Places and Restaurants
+5814,Fast Food Restaurants,"Merchants classified with this MCC sell prepared food and beverages for consumption either on the premises or packaged for carry-out. Orders are typically made and paid for at a counter, kiosk or drive-through window. This MCC includes food delivery for Merchants qualifying for this MCC.",Quick Service Restaurants Vending Machines – Food Sandwich Shops Ice Cream Shops Coffee Shops Yogurt Shops Pretzel Stands,5812 – Eating Places and Restaurants 5499 – Miscellaneous Food Stores – Convenience Stores and Specialty Markets
+5815,"Digital Goods Media – Books, Movies, Digital artwork/images, Music","Merchants classified with this MCC sell books, movies, digital artwork/images or music that is delivered in electronic format. Merchants offering online streaming of digital media content on a subscription basis should use MCC 4899",,"5192 – Books, Periodicals, Newspapers 7832 – Movie Theaters, Motion Picture Theaters 5735 – Record Stores 5818 – Digital Goods – Large Digital Goods Merchant 4899 – Cable, Satellite and Other Pay Television/Radio/Streaming Services"
+5816,Digital Goods – Games,Merchants classified with this MCC sell games (including games of skill but excluding games of chance) that are delivered in electronic format.,Fantasy Sports (in jurisdictions where they not considered gambling),"7993 – Video Amusement Game Supplies 7994 – Video Game Arcades/Establishments 7995 – Betting, including Lottery Tickets, Casino Gaming Chips, Off- Track Betting, and Wagers at Race Tracks and games of chance to win prizes of monetary value 7800 – Gambling – Government- Owned Lotteries 7801 – Gambling – Government- Licensed On-Line Casinos 7802 – Gambling – Government- Licensed Horse/Dog Racing"
+5817,Digital Goods – Applications (Excludes Games),Merchants classified with this MCC sell applications or software (excludes games) that are delivered in electronic format.,,5734 – Software – Computer: Computer Software Stores 5045 – Software – Computer: Computers and Computer Peripheral Equipment and Software 5816 – Digital Goods – Games
+5818,Digital Goods – Large Digital Goods Merchant,"All regions (excluding Europe): Merchants classified with this MCC are large-volume Merchants that sell digital goods (goods delivered via electronic format) with a minimum threshold of 25 million transactions annually. Europe region only: Merchants classified with this MCC are digital goods Merchants that are categorized as PCI DSS Level 1, as they process over 6 million Visa transactions annually.",,
+5912,Drug Stores and Pharmacies,Merchants classified with this MCC sell prescription and proprietary drugs,"Medicine – Prescription, Pharmacies Pharmacies Prescription Medication","5499 – Miscellaneous Food Stores – Convenience Stores and Specialty Markets 5122 – Drugs, Drug Proprietaries, and Druggist Sundries"
+5921,"Package Stores – Beer, Wine, and Liquor","Merchants classified with this MCC sell packaged alcoholic beverages such as beer, wine, and liquor for consumption off the premises and may also sell a limited variety of food and snack items, newspapers and magazines, and a limited selection of toiletries and over-the-counter medicines.",Alcohol – Liquor Stores,"5499 – Miscellaneous Food Stores – Convenience Stores and Specialty Markets 5813 – Drinking Places (Alcoholic Beverages) – Bars, Taverns, Nightclubs, Cocktail Lounges, and Discotheques"
+5931,Used Merchandise and Secondhand Stores,"Merchants classified with this MCC sell used merchandise or secondhand goods such as accessories, shoes and clothing, furniture, books, bicycles, musical instruments, sewing machines, electronic equipment, appliances, and other household items. Typically, the items for sale have been donated or are on consignment.",Consignment Shops Secondhand Stores Thrift Stores Vintage Clothing,"5932 – Antique Shops – Sales, Repairs, and Restoration Services 5933 – Pawn Shops"
+5932,"Antique Shops – Sales, Repairs, and Restoration Services","Merchants classified with this MCC sell antiques such as furniture, jewelry, cameras and photographic equipment, tools, artwork, books, appliances and other household items. This MCC does not include retail sellers of antique automobiles.",Services – Antique Restoration,"5521 – Car and Truck Dealers (Used Only) Sales, Service, Repairs, Parts, and Leasing 7641 – Furniture – Reupholstery, Repair, and Refinishing"
+5933,Pawn Shops,Merchants classified with this MCC lend money in exchange for personal property left with the Merchants as security.,,"5931 – Used Merchandise and
+Secondhand Stores 5932 – Antique Shops – Sales, Repairs, and Restoration Services"
+5935,Wrecking and Salvage Yards,Merchants classified with this MCC provide wrecking and salvaging services.,Junk Yards,7549 – Towing Services
+5937,Antique Reproductions,"Merchants classified with this MCC sell antique reproductions or facsimiles of clothing, furniture, rugs, paintings and artwork, mirrors, glassware, jewelry, and other household and personal items and may also provide antique photograph reproduction and restoration services.",,"5932 – Antique Shops – Sales, Repairs, and Restoration Services"
+5940,Bicycle Shops – Sales and Service,"Merchants classified with this MCC sell bicycles, bicycle parts, and accessories (including a limited variety of related sporting apparel) and may also conduct repair work.",Mountain Bikes Service – Bicycles,5941 – Sporting Goods Stores 7699 – Miscellaneous Repair Shops and Related Services 7999 – Recreation Services (Not Elsewhere Classified)
+5941,Sporting Goods Stores,"Merchants classified with this MCC sell sporting goods, sports equipment, camping supplies, and related parts and accessories, and may also rent or repair equipment.","Backpacking Equipment Bait, Tackle Stores Billiard Tables – Sales Camping Equipment Cutlery – Sporting Knives Exercise Equipment Fishing – Equipment, Bait, Tackle Golf Equipment Hiking Equipment Hunting Equipment, Supplies including Firearms and Ammunition3 In-Line Skates Shops Pool Tables – Sales Rollerblade Shops Scuba, Skin Diving Equipment
+Skateboard Shops Ski Shops Skin Diving, Scuba Equipment Surfboards, Accessories Trekking Equipment Windsurf Boards, Accessories","5099 Durable Goods (Not Elsewhere Classified) 5999 Miscellaneous and Specialty Retail Shops 5551 – Boat Dealers 5561 – Camper, Recreational and Utility Trailer Dealers 5571 – Motorcycle Shops and Dealers 5598 – Snowmobile Dealers5940 – Bicycle Shops – Sales and Service 7699 – Miscellaneous Repair Shops and Related Services 7999 – Recreation Services (Not Elsewhere Classified)"
+5942,Book Stores,"Merchants classified with this MCC sell new and/or used books, journals, magazines, textbooks, maps and atlases, audio books, and calendars.",Paperbacks – Book Stores Textbooks,"5943 – Stationery Stores, Office and School Supply Stores"
+5943,"Stationery Stores, Office and School Supply Stores","Merchants classified with this MCC are retail sellers of paper goods used in offices and schools, office and school supplies,, and small office equipment and furniture.",Office Supply Stores School Supply Store,"5732 – Electronics Stores 5734 – Computer Software Stores 5978 – Typewriter Stores – Sales, Rentals, and Service 7394 – Equipment, Tool, Furniture, and Appliance Rental and Leasing"
+5944,"Jewelry Stores, Watches, Clocks, and Silverware Stores","Merchants classified with this MCC sell fine jewelry, watches, clocks, and sterling silver and silver-plated flatware and accessories, and may also repair fine jewelry.","Clock Shop Diamond Stores Gems, Precious Metals, Jewelry Jewelry – Fine Precious Gems, Metals, Jewelry Silversmiths Silverware Stores Watch Shops","5631 – Women’s Accessory and Specialty Shops 5719 – Miscellaneous Home Furnishing Specialty Stores 5932 – Antique Shops – Sales, Repairs, and Restoration Services 5933 – Pawn Shops 5947 – Gift, Card, Novelty and Souvenir Shops 5950 – Glassware/Crystal Stores 5972 – Stamp and Coin Stores 7699 – Miscellaneous Repair Shops and Related Services"
+5945,"Hobby, Toy, and Game Shops",Merchants classified with this MCC sell toys and games and may also sell a limited selection of do-it- yourself craft or hobby kits.,"Games Stores Hobby Shops Toy Stores Toy, Game Shops",5970 – Artist’s Supply and Craft Shops
+5946,Camera and Photographic Supply Stores,"Merchants classified with this MCC sell cameras, film, video equipment, printers, and other photographic equipment and supplies, and may provide photo/video processing services.","Camcorders, Photographic Equipment Equipment – Photographic Supply Stores Photography Supply Stores Supplies – Photographic Video Cameras, Photographic Equipment",5732 – Electronics Stores 7395 – Photofinishing Laboratories and Photo Developing
+5947,"Gift, Card, Novelty and Souvenir Shops","Merchants classified with this MCC sell gifts and novelty items, greeting cards, balloons, souvenirs, holiday decorations, stationery, wrapping paper and bows, photo albums, and a limited selection of office supplies.","Memorabilia, Souvenir Shops Novelty Shops Souvenir, Memorabilia Shops","5943 – Stationery Stores, Office and School Supply Stores"
+5948,Luggage and Leather Goods Stores,"Merchants classified with this MCC are retail sellers of luggage, trunks, briefcases, leather backpacks, wallets, purses, gloves, and other leather goods, and may also sell a limited selection of leather apparel.",,5999 – Miscellaneous and Specialty Retail Stores
+5949,"Sewing, Needlework, Fabric and Piece Goods Stores","Merchants classified with this MCC are retail sellers of fabric, patterns, yarn and other needlework/sewing supplies, and may offer sewing classes or instruction.","Fabric Stores Knitting Shops Needlework Shops Supplies – Sewing, Fabric, Notions, Needlework, Piece Goods Yarn Shops",5970 – Artist’s Supply and Craft Shops 8299 – Schools and Educational Services (Not Elsewhere Classified)
+5950,Glassware/Crystal Stores,"Merchants classified with this MCC sell glassware, china and crystal tableware, and glass, china or crystal gift items.","China, Crystal Stores Crystal Stores Cut Glass, Crystal",5719 – Miscellaneous Home Furnishing Specialty Stores
+5960,Direct Marketing – Insurance Services,"Merchants classified with this MCC sell insurance via direct mail, billing statement stuffers, and magazine or television ads, all of which include either a toll-free telephone number or an address to which prospective customers may respond.","Automobile Insurance – Sales (Direct Marketing) Insurance Services – Direct Marketing Services – Insurance, Direct Marketing","6300 – Insurance Sales, Underwriting, and Premiums"
+5962,Direct Marketing – Travel-Related Arrangement Services,"Merchants classified with this MCC sell travel-related services (including discount travel clubs or newsletters) via outbound telemarketing calls, mailings, magazine or television ads, or other direct marketing methods that include either a toll-free telephone number or an address to which prospective customers may respond.",Services – Direct Marketing Travel- Related Arrangement Services Telemarketing Travel- Related Arrangement Services (Excluding Travel Agencies) Travel Clubs (Direct Marketing) Travel-Related Arrangement Services- Direct Marketing,4722 – Travel Agencies and Tour Operators 4789 – Transportation Services (Not Elsewhere Classified)
+5963,Door-To-Door Sales,Merchants classified with this MCC sell a variety of products by means of house-to-house visits.,,
+5964,Direct Marketing – Catalog Merchant,Merchants classified with this MCC sell a variety of goods via catalogs and offer no means by which customers may purchase products in a face-to-face manner.,,5965 – Direct Marketing – Combination Catalog and Retail Merchant
+5965,Direct Marketing – Combination Catalog and Retail Merchant,"Merchants classified with this MCC sell a variety of goods via catalog and one or more retail outlets. MCC 5965 is used for goods sold via catalog, while the MCC relevant to what is sold in the retail outlets is used for goods sold in the retail outlets.",,5964 – Direct Marketing – Catalog Merchant
+5966,Direct Marketing – Outbound Telemarketing Merchant,"Merchants classified with this MCC sell a variety of products using outbound telemarketing methods, where the Merchant initiates contact with prospective buyers via telephone or mailing (other than a catalog) that instructs the cardholder to contact the Merchant. This MCC excludes charitable organizations that conduct outbound telemarketing.",,
+5967,Direct Marketing – Inbound Teleservices Merchant,Merchants classified with this MCC sell information or content services (or goods sold through the service) that customers access via telephone or fax or over the internet.,"Adult Content and services including, but not limited to, website subscriptions, video streaming and audio-text Digital Adult Content Merchants",4816 – Computer Network Information Services
+5968,Direct Marketing – Continuity/Subscription Merchant,"Merchants classified with this MCC sell subscription products for delivery (such as book clubs, collectibles, magazines/newspapers cosmetics, food, clothing, “nutraceuticals”) via “direct” mail, email. apps, or salespeople. Merchants not participating in direct marketing activities that happen to offer recurring purchase transactions should use the MCC that best describes their business instead. For example, Merchants providing the ongoing delivery of television/radio/streaming content on a subscription basis must use MCC 4899 Qualified Merchants that “directly” sell subscriptions for digital goods or content may use MCC 5815, 5816, 5817, or 5818.",Magazine Subscription (Direct Mail Only) Direct Mail Merchants,"4900 – Utilities – Electric, Gas, Water, Sanitary 5621 – Women’s Ready-to-Wear Stores 5499 – Miscellaneous Food Stores – Convenience Stores and Specialty Markets 5969 – Direct Marketing – Other Direct Marketers (Not Elsewhere Classified) 5977 – Cosmetic Stores 6300 – Insurance Sales Underwriting and Premiums 7997 – Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses"
+5969,Direct Marketing – Other Direct Marketers (Not Elsewhere Classified),"Merchants classified with this MCC sell products or services through a variety of direct response methods that include an order form or an address and/or telephone number the customer may use to place an order by mail, telephone, or fax and that are not classified with a more specific MCC.",Classified Ads – Newspaper (Via Direct Marketing) Ticket Agencies – Direct Marketing,7922 – Theatrical Producers (Except Motion Pictures) and Ticket Agencies
+5970,Artist’s Supply and Craft Shops,"Merchants classified with this MCC sell art and craft materials, equipment and supplies used to create other items.","Supplies – Art, Crafts","5945 – Hobby, Toy, and Game Shops 5949 – Sewing, Needlework, Fabric and Piece Goods Stores"
+5971,Art Dealers and Galleries,"Merchants classified with this MCC sell artwork such as paintings, photographs, or sculpture.",,"5970 – Artist’s Supply and Craft Shops 7333 – Commercial Photography, Art, and Graphics"
+5972,Stamp and Coin Stores,"Merchants classified with this MCC sell postage stamps and coins, and related accessories for the purpose of stamp collecting, coin collecting or investment.","Numismatic Supplies Philatelic Supplies Stamp Collecting Supplies – Numismatic, Philatelic",7399 – Business Services (Not Elsewhere Classified) 9402 – Postal Services – Government Only
+5973,Religious Goods Stores,"Merchants classified with this MCC sell religious goods such as figurines, cards, devotion supplies, pictures, books, and decorative items.",,5942 – Book Stores
+5975,"Hearing Aids – Sales, Service, and Supply",Merchants classified with this MCC sell hearing aids and related supplies and may also conduct repair work.,"Repairs – Hearing Aids, Sales, Service, Supply, Stores Service – Hearing Aids, Supplies Supplies – Hearing Aids, Service, Supplies",7699 – Miscellaneous Repair Shops and Related Services
+5976,Orthopedic Goods – Prosthetic Devices,Merchants classified with this MCC sell a variety of prosthetic devices and orthopedic goods and accessories and may also conduct repair work.,"Orthotics, Prosthetic, Devices Prosthetic Devices",7699 – Miscellaneous Repair Shops and Related Services
+5977,Cosmetic Stores,Merchants classified with this MCC sell cosmetics.,Make-Up Stores,5999 – Miscellaneous and Specialty Retail Stores 7230 – Beauty and Barber Shops
+5978,"Typewriter Stores – Sales, Rentals, and Service","Merchants classified with this MCC sell, rent, or lease typewriters, may also sell a limited selection of office supplies and equipment, and may also conduct repair work.",,"5943 – Stationery Stores, Office and School Supply Stores 5999 – Miscellaneous and Specialty Retail Stores 7699 – Miscellaneous Repair Shops and Related Services"
+5983,"Fuel Dealers – Fuel Oil, Wood, Coal, and Liquefied Petroleum","Merchants classified with this MCC sell fuel oil, wood, coal, liquefied petroleum, aviation fuel, heating oil or gas propane for consumer use, and may also sell fuel for consumer use in automobiles.","Aviation Fuel Coal Dealers Dealers – Fuel Dealers, Fuel Oil, Wood, Coal, Liquefied Petroleum Home Heating Fuel Dealers
+Liquefied Petroleum Dealers Oil Dealers Propane Dealers Wood Dealers",5541 – Service Stations (With or Without Ancillary Services) 5542 – Automated Fuel Dispensers
+5992,Florists,"Merchants classified with this MCC sell cut flowers, flower arrangements, and potted plants, and may also sell novelty items.",Balloon Bouquets Flower Shops Plant Store,5261 – Nurseries and Lawn and Garden Supply Stores
+5993,Cigar Stores and Stands,"Merchants classified with this MCC sell tobacco, cigarettes, electronic cigarettes, cigars, pipes, and smokers’ supplies.",Pipe Shops Smoke Shops Tobacco Shops,5999 – Miscellaneous and Specialty Retail Stores
+5994,News Dealers and Newsstands,"Merchants classified with this MCC sell newspapers, magazines, journals, and other periodicals.",Dealers – Newspapers Magazines (Newsstands) Newspapers Periodicals (Newsstands),5942 – Book Stores 5999 – Miscellaneous and Specialty Retail Stores
+5995,"Pet Shops, Pet Foods and Supplies Stores","Merchants classified with this MCC sell domestic pets, pet food, and pet supplies.",Animals,5999 – Miscellaneous and Specialty Retail Stores
+5996,Swimming Pools – Sales and Service,"Merchants classified with this MCC sell home swimming pools, spas, hot tubs, whirlpool baths, and supplies, and may also provide installation and/or repair services.","Hot Tubs, Spas – Sales, Service, Supplies Services – Hot Tubs, Spas, Sales, Service, Supplies Services – Swimming Pools, Sales, Service, Supplies Supplies – Hot Tubs, Spas Supplies – Swimming Pools",1799 – Special Trade Contractors (Not Elsewhere Classified) 7699 – Miscellaneous Repair Shops and Related Services
+5997,Electric Razor Stores – Sales and Service,Merchants classified with this MCC sell electric razors and may also provide repair services.,,5999 – Miscellaneous and Specialty Retail Stores 7699 – Miscellaneous Repair Shops and Related Services
+5998,Tent and Awning Shops,Merchants classified with this MCC sell tents and awnings for home or business use and may also provide repair services.,"Awnings – Residential, Commercial",5941 – Sporting Goods Stores 5999 – Miscellaneous and Specialty Retail Stores 7699 – Miscellaneous Repair Shops and Related Services
+5999,Miscellaneous and Specialty Retail Shops,Merchants classified with this MCC sell unique or specialized products that are not classified with a more specific MCC.,"Ammunition Stores Atlas, Map Stores Beauty Supply Stores Bottled and Distilled Water Dealers Collectibles, Memorabilia Stores- Sports and Hobby Dealers – Ice Firearms, Ammunition Stores4 Fireworks Stores Frame Shops – Photograph, Poster Gravestones, Monuments – Sales, Installation Headstones, Monuments Ice Dealers Magic Shops Map, Atlas Stores Monuments, Gravestones – Sales, Installation Party Supply Stores Picture Frames, Framing Shops Specialty Retail Stores – Miscellaneous Sunglasses Stores Supplies – Beauty Supply Stores Supplies – Party Tombstones – Sales, Installation Trophy Sales","4468 – Marinas, Marine Service, and Supplies 5099 - Durable Goods (Not Elsewhere Classified) 5499 – Miscellaneous Food Stores 5719 – Miscellaneous Home Furnishing Specialty Stores 5732 – Electronics Stores 5940 – Bicycle Shops – Sales and Service 5941 – Sporting Goods Stores 5948 – Luggage and Leather Goods Stores 5993 – Cigar Stores and Stands 5995 – Pet Shops, Pet Foods and Supplies Stores 5998 – Tent and Awning Shops 7230 – Beauty and Barber Shops 7395 – Photofinishing Laboratories and Photo Developing 7699 – Miscellaneous Repair Shops and Related Services 7841 – DVD/Video Tape Rental Stores 7999 – Recreation Services (Not Elsewhere Classified)"
+6010,Financial Institutions – Manual Cash Disbursements,,,
+6011,Financial Institutions – Automated Cash Disbursements,,,
+6012,"Financial Institutions – Merchandise, Services, and Debt Repayment",,,
+6051,"Non-Financial Institutions – Foreign Currency, Liquid and Cryptocurrency Assets (for example: Cryptocurrency), Money",,,
+6211,Security Brokers/Dealers,"Merchants classified with this MCC are licensed, in all jurisdictions they sell into to buy, sell and broker securities, stocks, bonds, commodities, and mutual funds.","Bond Dealers Brokers – Securities, Mutual Funds, Stocks, Commodities, Bonds Commodity Dealers Dealers – Securities, Mutual Funds, Stocks, Commodities, Bonds Foreign Currency Purchase Licensed Foreign Exchange Trading Binary Options Investment Firms – Dealers, Brokers Mutual Funds Brokers Stockbrokers","6010 – Financial Institutions – Manual Cash Disbursements 6012 – Financial Institutions – Merchandise, Services, and Debt Repayment"
+6300,"Insurance Sales, Underwriting, and Premiums","Merchants classified with this MCC sell personal or business insurance policies such as automobile, life, health, hospital, medical, and dental insurance, homeowners’ and renters’ insurance, real estate title insurance, pet health insurance and flood, fire, or earthquake insurance.",Automobile Insurance – Sales (Non-Direct Marketing) Health Insurance – Sales Homeowners Insurance – Sales Life Insurance – Sales Medical Insurance – Sales Product Warranties,5960 – Direct Marketing – Insurance Services
+6513,Real Estate Agents and Managers,,,
+6540,Non-Financial Institutions – Stored Value Card Purchase/Load,,,
+7011,"Lodging – Hotels, Motels, Resorts, Central Reservation Services (Not Elsewhere Classified)","Merchants classified with this MCC are lodging establishments or central reservation services that do not have their own specific MCC. MCC 7011 may include, bed and breakfast establishments, resorts, cabins, cottages, hostels, short-term property rentals less than 30 days in length, and local inns.","Bed & Breakfast Establishments Central Reservation Services Hotels (Not Listed in T&E Section) Inns (Not Listed in T&E Section) Lodging Establishments (Not Listed in T&E Section) Motels (Not Listed in T&E Section) Resorts (Not Listed in T&E Section) Services – Central Reservation, Lodging",6513 – Real Estate Agents and Managers
+7012,Timeshares,"Merchants classified with this MCC sell, lease, and rent timeshares and arrange timeshare condominium exchanges.",,"7011 – Lodging – Hotels, Motels, Resorts, Central Reservation Services (Not Elsewhere Classified)"
+7032,Sporting and Recreational Camps,"Merchants classified with this MCC operate children’s camps, recreational camps, and sporting camps.","Boys’ Camps Camps – Boys’, Girls’ Camps – Sporting, Recreational Children’s Camps Girls’ Camps Recreational, Sporting Camps Nudist Camps Dude Ranches",7033 – Trailer Parks and Campgrounds 7999 – Recreation Services (Not Elsewhere Classified)
+7033,Trailer Parks and Campgrounds,"Merchants classified with this MCC provide overnight or short-term camp sites for recreational vehicles, trailers, campers, or tents.",,7032 – Sporting and Recreational Camps 7999 – Recreation Services (Not Elsewhere Classified)
+7210,"Laundry, Cleaning, and Garment Services",Merchants classified with this MCC operate steam or other types of laundries or laundry services.,"Diaper Services Garment Services Services – Laundry, Cleaning, Garment Services",7211 – Laundries – Family and Commercial 7216 – Dry Cleaners
+7211,Laundries – Family and Commercial,Merchants classified with this MCC provide coin- operated or similar self-service washers and dryers for general consumer use and may also offer laundry services.,Laundromats,"7210 – Laundry, Cleaning, and Garment Services 7216 – Dry Cleaners"
+7216,Dry Cleaners,Merchants classified with this MCC perform dry cleaning services for individuals or businesses and may offer limited alteration services.,Services – Dry Cleaning,"7210 – Laundry, Cleaning, and Garment Services 7211 – Laundries – Family and Commercial"
+7217,Carpet and Upholstery Cleaning,"Merchants classified with this MCC clean carpets, drapes, and upholstery.",Drapery Cleaning,"7641 – Furniture – Reupholstery, Repair, and Refinishing"
+7221,Photographic Studios,Merchants classified with this MCC perform still or video portrait photography for the general public.,Photographers – Wedding Portrait Studios Wedding Photographers,7395 – Photofinishing Laboratories and Photo Developing
+7230,Beauty and Barber Shops,"Merchants classified with this MCC provide personal hair care services such as hair cutting, styling, and coloring, and may also perform manicures and pedicures and sell a limited selection of hair care products.","Beauty Salons Fingernail Salons Hair Cutting Hair Salon Hair Styling Hairdressers Make-up Studios Manicurists Nail Salons Salons – Hair, Beauty Salons – Nail",7298 – Health and Beauty Spas 7299 – Miscellaneous Personal Services (Not Elsewhere Classified)
+7251,"Shoe Repair Shops, Shoeshine Parlors, and Hat Cleaning Shops",Merchants classified with this MCC repair footwear and provide shoe and hat cleaning and maintenance services.,"Hat Cleaning Shops Shoeshine Shops, Stands Repairs – Shoe Repair Shops",7299 – Miscellaneous Personal Services (Not Elsewhere Classified) 7699 – Miscellaneous Repair Shops and Related Services
+7261,Funeral Services and Crematories,"Merchants classified with this MCC are mortuaries, crematories, and funeral homes that provide burial preparation services, conduct funerals, and provide cremation services.",Mortuaries Morticians Undertakers,7299 – Miscellaneous Personal Services (Not Elsewhere Classified)
+7273,Dating Services,"Merchants classified with this MCC provide dating and escort services, including online services.","Escort Services Services – Dating, Escort Online Dating Services",7299 – Miscellaneous Personal Services (Not Elsewhere Classified)
+7276,Tax Preparation Services,"Merchants classified with this MCC provide income tax return preparation services but do not provide auditing, accounting, or bookkeeping services.",Services – Tax Preparation,"8931 – Accounting, Auditing, and Bookkeeping Services 8999 – Professional Services (Not Elsewhere Classified)"
+7277,"Counseling Services – Debt, Marriage, and Personal","Merchants classified with this MCC provide a variety of personal counseling services, such as debt and financial counseling, marriage counseling, family counseling, and alcohol and drug abuse counseling.","Alcohol, Drug Abuse Counseling Credit Counseling Debt Counseling Drug, Alcohol Abuse Counseling Family Counseling Financial Counseling Service Marriage Counseling Personal Counseling Services – Counseling – Debt, Marriage, Personal Services – Financial Counseling",7322 - Collection Agencies 8111 – Legal Services and Attorneys 8999 – Professional Services (Not Elsewhere Classified)
+7278,Buying and Shopping Services and Clubs,Merchants classified with this MCC act as an intermediary to facilitate buying and shopping for individuals or businesses on a fee basis.,"Personal Shopper Services – Buying/Shopping Services, Clubs Shopping Services",7299 – Miscellaneous Personal Services (Not Elsewhere Classified) 7399 – Business Services (Not Elsewhere Classified)
+7296,"Clothing Rental – Costumes, Uniforms, Formal Wear","Merchants classified with this MCC rent costumes, uniforms, formal wear, and other types of apparel and related accessories.","Apparel – Clothing Rental – Costumes, Formal Wear, Uniforms Costume Rental Formal Wear Rental Rentals – Clothing – Costumes, Formal Wear, Uniforms Rentals – Costume Rentals – Tuxedo, Formal Wear Rentals – Uniforms Tuxedo, Formal Wear Rentals Uniforms Rental","5137– Men’s, Women’s, and Children’s Uniforms and Commercial Clothing 7299 – Miscellaneous Personal Services (Not Elsewhere Classified)"
+7297,Massage Parlors,Merchants classified with this MCC specialize in providing therapeutic massage services and may also provide other personal services such as spa treatments and rent saunas or hot tubs for customer use.,,7298 – Health and Beauty Spas 7299 – Miscellaneous Personal Services (Not Elsewhere Classified)
+7298,Health and Beauty Spas,"Merchants classified with this MCC provide a variety of personal or therapeutic services such as facials, massages, mud baths, herbal wraps, tanning treatments, whirlpools, steam baths, and hair and makeup styling, and instructional classes.",Tanning Salons,"7011 – Lodging – Hotel, Motels, Resorts, Central Reservation Services (Not Elsewhere Classified) 7297 – Massage Parlors 7299 – Miscellaneous Personal Services (Not Elsewhere Classified)"
+7299,Miscellaneous Personal Services (Not Elsewhere Classified),Merchants classified with this MCC provide personal services that are not classified with a more specific MCC.,"Animal Boarding Services Animal Breeders Animal Grooming Services Animal Training Apartment Rental Services Boarding Services – Animal Body Piercing, Tattoo Parlors Breeders – Animals Dog Grooming Services Dog Training Horse Boarding Services
+Kennels – Animal Pet Grooming Services Services – Animal Boarding Services – Stand-Alone Tipping/Gratuities Services – Miscellaneous Other Services – Miscellaneous Personal Services – Pet Grooming Services – Water Filtration, Purification, Softening Treatments Stables – Animal Tattoo, Body Piercing Parlors Taxidermists Wedding Chapels / Planning","7230 – Beauty and Barber Shops 7251 – Shoe Repair Shops, Shoe Shine Parlors, and Hat Cleaning Shops 7261 – Funeral Services and Crematories 7273 – Dating Services 7276 – Tax Preparation Services ... 7277 – Counseling Services – Debt, Marriage, and Personal 7278 – Buying and Shopping Services and Clubs 7296 – Clothing Rental – Costumes,
+Uniforms, Formal Wear/ 7297 – Massage Parlors 7298 – Health and Beauty Spas"
+7311,Advertising Services,"Merchants classified with this MCC prepare advertising (writing copy, artwork, graphics, and other creative work) and place such advertising and/or samples in periodicals, newspapers, radio and television, on the internet, in the sky, or other advertising media for clients on a contract or fee basis.",Ad Agencies Agencies – Advertising Classified Ads – Newspaper Services – Advertising,8999 – Professional Services (Not Elsewhere Classified)
+7321,Consumer Credit Reporting Agencies,"Merchants classified with this MCC provide consumer credit reporting services such as credit investigation, credit clearinghouses, and other related services. For Merchants primarily engaged in collecting debts in default owed to others or that were originally owed to others, use MCC 7322",,7322 - Collection Agencies 7399 – Business Services (Not Elsewhere Classified)
+7322,Collection Agencies,,,
+7333,"Commercial Photography, Art, and Graphics","Merchants classified with this MCC provide commercial art or graphic design services for advertising agencies, publishers, and other businesses.",Commercial Artists Film Production Graphics – Commercial Silk Screening,7221 – Photography Studios 8999 – Professional Services (Not Elsewhere Classified)
+7338,"Quick Copy, Reproduction, and Blueprinting Services","Merchants classified with this MCC reproduce and bind text, drawings, plans, maps, or other copy, by blueprinting, photocopying, or other methods of duplication.","Photocopying Services Reproduction Services Services – Quick Copy, Reproduction","7395 – Photofinishing Laboratories and Photo Developing 5943 – Stationery Stores, Office and School Supply Stores"
+7339,Stenographic and Secretarial Support,"Merchants classified with this MCC provide a range of stenographic and secretarial services such as word processing, typing, editing, letter writing, proofreading, resume writing, and court reporting services.",Services – Word Processing Word Processing Services,7361 – Employment Agencies and Temporary Help Services 7399 – Business Services (Not Elsewhere Classified)
+7342,Exterminating and Disinfecting Services,"Merchants classified with this MCC provide pest control, extermination, fumigation, and disinfection services.",Exterminators Pest Control,"7349 – Cleaning, Maintenance, and Janitorial Services"
+7349,"Cleaning, Maintenance, and Janitorial Services",Merchants classified with this MCC provide cleaning and maintenance services.,House Cleaning Services Housekeeping Services Maintenance Services Services – Housekeeping,7342 – Exterminating and Disinfecting Services
+7361,Employment Agencies and Temporary Help Services,Merchants classified with this MCC provide employment services for those seeing employees or employment.,Temporary Employment Agencies,7399 – Business Services (Not Elsewhere Classified)
+7372,"Computer Programming, Data Processing, and Integrated Systems Design Services","Merchants classified with this MCC provide computer programming services, systems design, website design, data entry, and data processing services.",Computer Software Design Systems Design – Computer,"5734 – Computer Software Stores 7379 – Computer Maintenance, Repair and Services (Not Elsewhere Classified) 7399 – Business Services (Not Elsewhere Classified) 8999 – Professional Services (Not Elsewhere Classified)"
+7375,Information Retrieval Services,Merchants classified with this MCC are business-to- business or wholesale provisioners of online or database information retrieval services.,,"7321 – Consumer Credit Reporting Agencies21 7392 – Management, Consulting, and Public Relations Services 7399 – Business Services (Not Elsewhere Classified)"
+7379,"Computer Maintenance, Repair and Services (Not Elsewhere Classified)","Merchants classified with this MCC provide computer- related services such as computer consulting, database development, computer maintenance and repair, conversion services, and computer requirements analysis.",,"5045 – Computers and Computer Peripheral Equipment and Software 5732 – Electronics Stores 5734 – Computer Software Stores 7372 – Computer Programming, Data Processing, and Integrated Systems Design Services 7629 – Electrical and Small Appliance Repair Shops"
+7392,"Management, Consulting, and Public Relations Services","Merchants classified with this MCC perform a variety of activities for private, nonprofit, and public organizations, such as strategic and organizational planning, financial planning and budgeting, developing marketing objectives, information systems planning, development of human resource policies, and public relations services.","Consultants – Management Consultants – Marketing Consultants – Public Relations Consulting, Management Services Management Consultants Marketing Consultants Public Relations Services Services – Management, Consulting, Public Relations",7399 – Business Services (Not Elsewhere Classified) 8999 – Professional Services (Not Elsewhere Classified)
+7393,"Detective Agencies, Protective Services, and Security Services, including Armored Cars, and Guard Dogs","Merchants classified with this MCC provide security devices/systems and services such as security guard, protective, and armored car services and investigative services.","Alarm Systems, Services Armored Cars Burglar Alarm Companies – Home/Business Security Fire Alarm Companies – Home/Business Security Guard Dogs Home Security Systems Private Investigators Protective Services Security Services, Protective Services, Detective Agencies Security Systems
+Services – Armored Car Services – Detective Agencies Services – Guard Dog Services – Protective Services – Security Surveillance Systems, Services",7399 – Business Services (Not Elsewhere Classified) 8111 – Legal Services and Attorneys 8999 – Professional Services (Not Elsewhere Classified)
+7394,"Equipment, Tool, Furniture, and Appliance Rental and Leasing","Merchants classified with this MCC rent and lease equipment, tools, furniture, appliances, and office equipment, excluding typewriters.","Appliance Rental Furniture Rental Leasing Services – Equipment Rentals – Appliance Rentals – Equipment Rentals – Furniture Rentals – Tools Services – Equipment Rental, Leasing","4457 – Boat Rentals and Leasing 5978 – Typewriter Stores – Sales Rentals, and Service 7296 – Clothing Rental – Costumes, Uniforms, Formal Wear 7513 – Truck and Utility Trailer Rentals 7519 – Motor Home and Recreational Vehicle Rentals 7841 – DVD/Video Tape Rental Stores"
+7395,Photofinishing Laboratories and Photo Developing,"Merchants classified with this MCC develop film, make photographic prints and enlargements, and provide custom services, and may also sell a limited selection of photographic supplies and accessories.",Film Developing,"5044 – Photographic, Photocopy, Microfilm Equipment and Supplies 5946 – Camera and Photographic Supply Stores 7221 – Photographic Studios 7333 – Commercial Photography, Art, and Graphics"
+7399,Business Services (Not Elsewhere Classified),Merchants classified with this MCC provide business services that are not typically considered to be “professions” and are not classified with a more specific MCC.,"Answering Services – Telephone Conference Management Services Convention Bureaus Cosmetics Distributors Event Planning and Management Keys – Locksmith Language, Translation Services Locksmith Mail, Packing Stores, Services Meeting Planning Services
+Message, Paging Services Packing, Mailing Services Paging, Message Service Centers Perfume Distributors Postal Services – Non- Government Publishing Companies Seminar Planning Services Services – Telephone Answering Services – Trade Show Arrangement Services – Translation, Language Telephone Answering Services Tourist Information Bureaus Trade Show Arrangement Services Translation Services Video-Conferencing Services","4215 – Courier Services – Air and Ground, and Freight Forwarders 7299 – Miscellaneous Personal Services (Not Elsewhere Classified) 7311 – Advertising Services 7338 – Quick Copy, Reproduction, and Blueprinting Services 7393 – Detective Agencies, Protective Services, and Security Services, including Armored Cars, and Guard Dogs 7999 – Recreation Services (Not Elsewhere Classified)"
+7512,Automobile Rental Agency,Merchants classified with this MCC are car rental agencies that do not have designated unique MCCs. This also includes car-sharing schemes (known as “car-clubs” in the UK),Car Rentals,7513 – Truck and Utility Trailer Rentals 7519 – Motor Home and Recreational Vehicle Rentals
+7513,Truck and Utility Trailer Rentals,"Merchants classified with this MCC provide short-term rental or long-term leasing of trucks, vans, or utility trailers.","Leasing Services – Trucks, Utility Trailers","7394 – Equipment, Tool, Furniture, and Appliance Rental and Leasing 7512 – Automobile Rental Agency 7519 – Motor Home and Recreational Vehicle Rentals"
+7519,Motor Home and Recreational Vehicle Rentals,"Merchants classified with this MCC rent motor homes, RVs, campers, tent trailers, and other recreational vehicles on daily, short-term, or extended-term basis.",,4457 – Boat Rentals and Leasing 7513 – Truck and Utility Trailer Rentals 7999 – Recreation Services (Not Elsewhere Classified)
+7523,"Parking Lots, Parking Meters and Garages","Merchants classified with this MCC provide temporary parking services for all modes of transportation, usually on an hourly, daily, or monthly contract or fee basis.",Parking Garages,
+7531,Automotive Body Repair Shops,Merchants classified with this MCC perform automotive body repair work and may paint automobiles in conjunction with body repair work.,Car Body Repair Shops Auto Body Shops,7534 – Tire Retreading and Repair Shops 7535 – Automotive Paint Shops ..... 7538 – Automotive Service Shops (Non-Dealer) 38
+7534,Tire Retreading and Repair Shops,"Merchants classified with this MCC sell, install, repair, or retread old tires.","Car Tires – Retreads Repairs – Tire Retreading, Repair Shops",5532 – Automotive Tire Stores 7531 – Automotive Body Repair Shops 7535 – Automotive Paint Shops ..... 7538 – Automotive Service Shops (Non-Dealer)
+7535,Automotive Paint Shops,"Merchants classified with this MCC paint, refinish, and restore automobiles.",Car Paint Shops,7531 – Automotive Body Repair Shops 7538 – Automotive Service Shops (Non-Dealer)
+7538,Automotive Service Shops (Non-Dealer),Merchants classified with this MCC conduct automotive repairs and general or specific services.,"Automotive Glass Repair/ Replacement Car Service Shops Lube Stations – Quick Stop Muffler Shops Oil Changers – Lube Stations Repairs – Automotive Service Shops Tune-Up Shops – Automotive Wheel Alignment, Balancing, Repair Service – Automotive",5541 – Service Stations (with or without Ancillary Services) 7531 – Automotive Body Repair Shops 7534 – Tire Retreading and Repair Shops 7535 – Automotive Paint Shops 7542 – Car Washes 7549 – Towing Services
+7542,Car Washes,"Merchants classified with this MCC wash, wax, and polish automobiles or provide self-service facilities.","Auto Detailing Automotive Cleaning, Waxing
+Cleaning, Polishing – Automotive
+(Non-Dealer)",5541 – Service Stations (With or Without Ancillary Services) 7538 – Automotive Service Shops
+7549,Towing Services,Merchants classified with this MCC provide vehicle towing services.,,5935 – Wrecking and Salvage Yards
+7622,Electronics Repair Shops,"Merchants classified with this MCC repair electronics (excluding appliances) such as radios, televisions, stereo equipment, and computers.","Radio, Television, Stereo, Electronics Repair Shops Repairs – Radio, Television, Stereo, Electronics Services – Television, Radio, Stereo, Electronics Stereo Repair Shops Television Repair Shops",7629 – Electrical and Small Appliance Repair Shops 7699 – Miscellaneous Repair Shops and Related Services
+7623,Air Conditioning and Refrigeration Repair Shops,Merchants classified with this MCC service and repair household and commercial air conditioning and refrigeration systems.,"Refrigeration Repair Shops Repairs – Air Conditioning, Refrigeration Repair Shops",7629 – Electrical and Small Appliance Repair Shops 7699 – Miscellaneous Repair Shops and Related Services
+7629,Electrical and Small Appliance Repair Shops,"Merchants classified with this MCC service and repair household and commercial electrical components, small appliances (such as microwaves, toaster ovens, and toasters), and electrical office machines, excluding typewriters.",Repairs – Office Machines,"5978 – Typewriter Stores – Sales, Rentals, and Service 7622 – Electronics Repair Shops ... 7623 – Air Conditioning and Refrigeration Repair Shops 7699 – Miscellaneous Repair Shops and Related Services"
+7631,"Watch, Clock and Jewelry Repair","Merchants classified with this MCC clean and repair all types of watches, clocks, and fine jewelry.",,"5944 – Jewelry Stores, Watches, Clocks, and Silverware Stores"
+7641,"Furniture – Reupholstery, Repair, and Refinishing","Merchants classified with this MCC reupholster, repair, refinish, and restore furniture.","Furniture Repair, Reupholstery Refinishing – Furniture Repair, Reupholstery Repairs – Reupholstery, Furniture Repair, Furniture Refinishing Services – Reupholstery,
+Furniture Repair, Furniture Refinishing","5712 – Furniture, Home Furnishings and Equipment Stores, Except Appliances"
+7692,Welding Services,Merchants classified with this MCC perform welding services and repair.,Services – Welding Repair,1799 – Special Trade Contractors (Not Elsewhere Classified)
+7699,Miscellaneous Repair Shops and Related Services,Merchants classified with this MCC provide service and repair work and are not classified with a more specific MCC.,Chimney Cleaning Service Furnace Cleaning Service Machine Shops Services – Chimney Cleaning Services – Furnace Cleaning Services – Large Appliance Repair Services – Bicycle Repair Services – Orthopedic Device Repair,"7531 – Automotive Body Repair Shops 7534 – Tire Retreading and Repair Shops 7538 – Automotive Service Shops (Non-Dealer) 7622 – Electronics Repair Shops 7623 – Air Conditioning and Refrigeration Repair Shops 7629 – Electrical and Small Appliance Repair Shops 7631 – Watch, Clock and Jewelry Repair 7641 – Furniture – Reupholstery, Repair, and Refinishing 7692 – Welding Services"
+7800,Government-Owned Lotteries (US Region only),Merchants classified with this MCC are government- owned lotteries in the US Region that are registered with Visa to sell lottery tickets.,,7801 – Government Licensed On- Line Casinos (On-Line Gambling)
+7801,Government Licensed On-Line Casinos (On-Line Gambling) (US Region only),Merchants classified with this MCC are licensed by a US government entity (and/or sanctioned and regulated by applicable legislation) and registered with Visa to sell virtual gambling chips or offer online gambling.,,7800 – Government-Owned Lotteries
+7802,Government-Licensed Horse/Dog Racing (US Region only),Merchants classified with this MCC are licensed by a US government entity (and/or sanctioned and regulated by applicable legislation) and registered with Visa to sell on- or off-track wagers at horse- or dog-racing facilities.,,
+7829,Motion Picture and Video Tape Production and Distribution,Merchants classified with this MCC are business-to- business or wholesale producers and distributors of educational and industrial films and videos for exhibition and sale.,"Distributor – Motion
+Picture, Video Tape Production, Distribution Educational, Training Film Production Film Production, Distribution Motion Picture, Video Tape Production, Distribution TV Commercial Production Training, Educational Film Production Video Tape, Motion Picture Production, Distribution","7399 – Business Services (Not
+Elsewhere Classified) 7841 – DVD/Video Tape Rental Stores 8999 – Professional Services (Not Elsewhere Classified)"
+7832,Motion Picture Theaters,Merchants classified with this MCC operate movie theaters and sell tickets and refreshments or sell movie tickets online.,Cinemas Entertainment – Movie Theaters Films – Movie Theaters Movie Theaters,7841 – DVD/Video Tape Rental Stores 7922 – Theatrical Producers (Except Motion Pictures) and Ticket Agencies
+7841,DVD/Video Tape Rental Stores,Merchants classified with this MCC rent DVDs/video tapes for personal use and may sell a limited selection of used videos/DVDs and refreshments.,Rentals – DVD/Video Tape Stores,7829 – Motion Picture and Video Tape Production and Distribution
+7911,"Dance Halls, Studios and Schools","Merchants classified with this MCC operate dance studios, schools, and public dance halls or ballrooms.",Ballet Schools Ballroom Dance Instruction Dance Schools Schools – Ballroom Dance Instruction Studios – Dance,7922 – Theatrical Producers (Except Motion Pictures) and Ticket Agencies 7999 – Recreation Services (Not Elsewhere Classified)
+7922,Ticket Agencies and Theatrical Producers (Except Motion Pictures),"Merchants classified with this MCC operate live theatrical productions (such as road companies and summer theater groups) and services associated with theatrical productions and concerts (such as casting agencies, booking agencies, scenery, lighting, and other equipment services, and theatrical ticket agencies).","Agencies – Ticket, Theatrical Producers Performing Arts Companies – Theatrical Producers – Theatrical Production Agencies – Theatrical Ticket Agencies","7832 – Motion Picture Theaters 7911 – Dance Halls, Studios and Schools 7929 – Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)"
+7929,"Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)","Merchants classified with this MCC provide entertainment other than theatrical productions (such as musicians, bands, orchestras, and other types of entertainers such as comedians and magicians).",DJs Dance Bands Magicians Music Bands Musicians,
+7932,Billiard and Pool Establishments,Merchants classified with this MCC operate establishments that rent the use of pool or billiard tables and other games for entertainment.,Billiard Parlors Snooker Parlors,7999 – Recreation Services (Not Elsewhere Classified)
+7933,Bowling Alleys,Merchants classified with this MCC operate bowling alleys for entertainment.,,"5812 – Eating Places and Restaurants 5813 – Drinking Places (Alcoholic Beverages) – Bars, Taverns, Nightclubs, Cocktail Lounges, and Discotheques 7999 – Recreation Services (Not Elsewhere Classified)"
+7941,"Commercial Sports, Professional Sports Clubs, Athletic Fields, and Sports Promoters","Merchants classified with this MCC operate and promote semiprofessional and professional athletic clubs (such as baseball, basketball, football, hockey, soccer), promote amateur and professional athletic events, manage individual athletes, and manage sports arenas and stadiums.","Arenas – Sports Athletic Fields Automotive Race Tracks – Non-Participatory Clubs – Professional Sports Professional Sports Clubs Promoters – Sporting Events Race Tracks – Entrance Fee, Non-Betting Transactions Sports Promoters Stadiums",7999 – Recreation Services (Not Elsewhere Classified)
+7991,Tourist Attractions and Exhibits,"Merchants classified with this MCC operate a variety of tourist attractions and exhibits for entertainment, such as botanical gardens, craft shows, museums, and wineries.","Arboretums Art Museums Botanical Gardens Exhibits Expositions Gardens – Botanical
+Museums Wineries","5971 – Art Dealers and Galleries 7996 – Amusement Parks, Circuses, Carnivals, and Fortune Tellers 7998 – Aquariums, Seaquariums, Dolphinariums, and Zoos 7999 – Recreation Services (Not Elsewhere Classified)"
+7992,Public Golf Courses,Merchants classified with this MCC operate public golf courses.,,"7997 – Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses"
+7993,Video Amusement Game Supplies,"Merchants classified with this MCC sell coin-operated amusement machines such as video game machines, jukeboxes, pinball machines, slot machines, mechanical games, instant photograph booths, and similar types of amusement equipment and game supplies. Merchants that operate video and game arcades for public use must be classified with MCC 7994 – Video Game Arcades/Establishments.",,7994 – Video Game Arcades/Establishments
+7994,Video Game Arcades/Establishments,"Merchants classified with this MCC operate arcades, amusement machines (such as video game machines, jukeboxes, pinball machines, mechanical games, instant photograph booths, and similar types of amusement equipment) and indoor playgrounds.",Social casinos not offering any prizes of monetary value,"7993 – Video Amusement and Game Supplies 7995 – Betting, including Lottery Tickets, Casino Gaming Chips, Off- Track Betting, Wagers at Race Tracks and games of chance to win prizes of monetary value 7999 – Recreation Services (Not Elsewhere Classified)"
+7995,"Betting, including Lottery Tickets, Casino Gaming Chips, Off-Track Betting, Wagers at Race Tracks and games of chance to","Merchants classified with this MCC operate games of chance to win prizes of monetary value or betting establishments. Merchants that are unable to distinguish a betting transaction from other transactions, must identify all transactions with MCC 7995.",Betting – Casino Gaming Chips Betting – Lottery Tickets Betting – Off-Track Betting – Wagers Bingo Parlors Raffle Tickets Unlicensed Foreign Exchange Trading or Binary Options Sweepstakes,7800 – Government-Owned Lottery 7801 – Government-Licensed On- Line Casinos (On-Line Gambling) 7802 – Government-Licensed Horse/Dog Racing
+7996,"Amusement Parks, Circuses, Carnivals, and Fortune Tellers","Merchants classified with this MCC operate circuses, carnivals, and amusement and theme parks that offer mechanical rides, snacks and food stands, games, animal exhibits, and entertainment, as well as fortune- telling, astrology, mystic, and tarot card-reading services.","County Fairs Fairs Mystics Tarot Readings
+State Fairs",7991 – Tourist Attractions and Exhibits 7999 – Recreation Services (Not Elsewhere Classified)
+7997,"Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses","Merchants classified with this MCC operate sports and recreation facilities that require membership such as exercise, athletic and health clubs, country clubs, private golf courses, boating and yacht clubs, swimming clubs, tennis clubs, bowling leagues, riding clubs, shooting and gun clubs, and racquetball clubs, and may also provide spa services",Athletic Clubs – Physical Fitness Boating Clubs Clubs – Boating Clubs – Gun Clubs – Racquetball Clubs – Sailing Clubs – Sports Clubs – Tennis Clubs – Yacht Country Clubs Exercise Clubs Fitness Clubs Golf Courses – Private Gun Clubs Health Clubs Private Golf Courses Racquetball Clubs Sailing Clubs Sports Clubs Tennis Clubs Yacht Clubs,7297 – Massage Parlors 7298 – Health and Beauty Spas 7992 – Public Golf Courses
+7998,"Aquariums, Seaquariums, Dolphinariums, and Zoos",Merchants classified with this MCC operate zoos or sea life parks for entertainment and education for the general public.,Sea Life Parks,7991 – Tourist Attractions and Exhibits
+7999,Recreation Services (Not Elsewhere Classified),Merchants classified with this MCC provide a wide variety of recreation and entertainment services that require active physical participation and that are not classified with a more specific MCC.,"Aircraft Rentals Ballooning Batting Cages Bicycle Rentals including electric scooters Fishing/Hunting Licenses Games Instruction Golf – Driving Ranges Horseback Riding Instruction – Games Miniature Golf Motorcycle Rentals Parachuting
+Pools – Public Swimming Public Swimming Pools Recreational Services – Aircraft Rentals Recreational Services – Driving Ranges Recreational Services – Miniature Golf Recreational Services – Public Swimming Pools Recreational Services – Ski Slopes Recreational Services – Sport, Games Instruction Rentals – Aircraft Resorts – Miscellaneous Resorts – Ski Roller Skating Rinks Services – Recreation Shooting Ranges Ski Slopes Sky Diving Sports Instruction Swimming Pools – Public","4457 – Boat Rentals and Leasing 7032 – Sporting and Recreational Camps 7033 – Trailer Parks and Campgrounds 7298 – Health and Beauty Spas 7519 – Motor Home and Recreational Vehicle Rentals 7932 – Billiard and Pool Establishments 7933 – Bowling Alleys 7941 – Commercial Sports, Professional Sports Clubs, Athletic Fields, and Sports Promoters
+7991 – Tourist Attractions and Exhibits 7992 – Public Golf Courses 7994 – Video Game Arcades/Establishments 7996 – Amusement Parks, Circuses, Carnivals, and Fortune Tellers 7997 – Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses 7998 – Aquariums, Seaquariums, Dolphinariums, and Zoos"
+8011,Doctors and Physicians (Not Elsewhere Classified),Merchants classified with this MCC are licensed physicians engaged in a practice of general or specialized medicine and surgery that is not classified with a more specific MCC.,Cosmetic Surgeons Dermatologists Gynecologists Medical Professionals – Doctors Neurologists Obstetricians Orthopedists Pediatricians Physicians Plastic Surgeons Psychiatrists Radiologists Surgeons,"8021 – Dentists and Orthodontists 8031 – Osteopaths 8041 – Chiropractors 8042 – Optometrists and Ophthalmologists 8043 – Opticians, Optical Goods, and Eyeglasses 8049 – Podiatrists and Chiropodists8099 – Medical Services and Health Practitioners (Not Elsewhere Classified)"
+8021,Dentists and Orthodontists,Merchants classified with this MCC are licensed physicians that practice general or specialized dentistry such as dental surgery.,,8011 – Doctors and Physicians (Not Elsewhere Classified) 8099 – Medical Services and Health Practitioners (Not Elsewhere Classified)
+8031,Osteopaths,Merchants classified with this MCC provide therapy involving the non-surgical manipulation and adjustment of bone structures.,,8011 – Doctors and Physicians (Not Elsewhere Classified) 8041 – Chiropractors 8099 – Medical Services and Health Practitioners (Not Elsewhere Classified)
+8041,Chiropractors,Merchants classified with this MCC provide therapy in which the spinal column and limbs are manipulated or adjusted.,,8011 – Doctors and Physicians (Not Elsewhere Classified) 8031 – Osteopaths8099 – Medical Services and Health Practitioners (Not Elsewhere Classified)
+8042,Optometrists and Ophthalmologists,"Merchants classified with this MCC are licensed physicians that examine and treat eye defects with corrective eyeglasses or contacts or surgical techniques, treat eye diseases, and may fill contact or eyeglass prescriptions and sell eyeglass frames.",Eye Doctors,"8011 – Doctors and Physicians (Not Elsewhere Classified) 8043 – Opticians, Optical Goods, and Eyeglasses 8099 – Medical Services and Health Practitioners (Not Elsewhere Classified)"
+8043,"Opticians, Optical Goods, and Eyeglasses","Merchants classified with this MCC perform eye examinations, write prescriptions, make and sell eyeglasses, and sell other optical goods.",Eyeglass Stores,8011 – Doctors and Physicians (Not Elsewhere Classified) 8042 – Optometrists and Ophthalmologists 8099 – Medical Services and Health Practitioners (Not Elsewhere Classified)
+8049,Podiatrists and Chiropodists,Merchants classified with this MCC are licensed physicians specializing in diagnosing and treating foot ailments.,"Doctors – Chiropodists, Podiatrists Foot Doctors Medical Professionals – Podiatrists Podiatrists",8011 – Doctors and Physicians (Not Elsewhere Classified) 8099 – Medical Services and Health Practitioners (Not Elsewhere Classified)
+8050,"Nursing, Home Healthcare and Personal Care Facilities","Merchants classified with this MCC provide inpatient nursing or health-related personal care services and operate convalescent/nursing homes, hospice facilities, offer care in home/residential environment and other long-term care facilities that generally do not offer surgery.","Convalescent Homes Elder Housing Hospice Facilities
+Nursing Homes Rest Homes Elder Care Skilled and Unskilled Home Care",8062 – Hospitals
+8062,Hospitals,"Merchants classified with this MCC are hospitals that provide diagnostic services, extensive medical treatment, surgery, continuous nursing services, mental and psychiatric care, and other hospital services.",,0742 – Veterinary Services 8050 – Nursing and Personal Care Facilities
+8071,Medical and Dental Laboratories,Merchants classified with this MCC provide medical and dental laboratory services.,,8011 – Doctors and Physicians (Not Elsewhere Classified) 8021 – Dentists and Orthodontists
+8099,Medical Services and Health Practitioners (Not Elsewhere Classified),Merchants classified with this MCC are medical professionals that are not classified with a more specific MCC.,"Blood Banks Chemical Dependency Treatment Centers Fertility Clinics Hair Replacements – Surgical Health Practitioners, Medical Services Hearing Testing Services Massage – Therapeutic Medical Professionals – Medical Services, Health Practitioners Mental Health Practitioners Physical Therapists Psychiatrists Psychologists Services – Medical Services, Health Practitioners Sports Medicine Clinics Therapists","8011 – Doctors and Physicians (Not Elsewhere Classified) 8021 – Dentists and Orthodontists 8031 – Osteopaths 8041 – Chiropractors 8042 – Optometrists and Ophthalmologists 8043 – Opticians, Optical Goods, and Eyeglasses 8049 – Podiatrists and Chiropodists 8050 – Nursing and Personal Care Facilities 8062 – Hospitals 8071 – Medical and Dental Laboratories"
+8111,Legal Services and Attorneys,Merchants classified with this MCC are headed by members of the bar and provide legal advice and services.,Attorneys Law Offices Lawyers,"7277 – Counseling Services – Debt, Marriage, and Personal"
+8211,Elementary and Secondary Schools,Merchants classified with this MCC are elementary and secondary schools that provide academic instruction.,Grade Schools Grammar Schools High Schools Middle Schools Schools – Kindergartens,"8220 – Colleges, Universities, Professional Schools, and Junior Colleges 8241 – Correspondence Schools 8244 – Business and Secretarial Schools 8249 – Vocational and Trade Schools 8299 – Schools and Educational Services (Not Elsewhere Classified) 8351 – Child Care Services"
+8220,"Colleges, Universities, Professional Schools, and Junior Colleges","Merchants classified with this MCC are community and junior colleges, universities, theological seminaries and professional schools (such as dental, law, engineering, medical) that provide academic courses and grant academic degrees.",Community Colleges Graduate Schools,8211 – Elementary and Secondary Schools 8241 – Correspondence Schools 8244 – Business and Secretarial Schools 8249 – Vocational and Trade Schools 8299 – Schools and Educational Services (Not Elsewhere Classified)
+8241,Correspondence Schools,Merchants classified with this MCC are correspondence schools that offer educational and instruction through the mail/internet by sending lessons and examinations to the student.,,8299 – Schools and Educational Services (Not Elsewhere Classified)
+8244,Business and Secretarial Schools,"Merchants classified with this MCC are business and secretarial schools that offer general business training such as, office procedures, word processing, stenographic, and other clerical skills.",Computer Training,8249 – Vocational and Trade Schools 8299 – Schools and Educational Services (Not Elsewhere Classified)
+8249,Vocational and Trade Schools,"Merchants classified with this MCC offer training and instruction in specialized professions such as welding, mechanics, carpentry, real estate, and truck driving.",Technical Institutes,8244 – Business and Secretarial Schools 8299 – Schools and Educational Services (Not Elsewhere Classified) 8241 – Correspondence Schools ...
+8299,Schools and Educational Services (Not Elsewhere Classified),Merchants classified with this MCC offer educational courses and services that are not classified with a more specific MCC.,"Art Schools Automobile Driving Instruction Aviation Instruction
+Cooking Schools Culinary Instruction Driver Education Class, School Flying Instruction Job Training Services Karate Schools Modeling Schools Schools – Art Schools – Automobile Driving Instruction Schools – Cooking Schools – Flying Instruction Schools – Karate Schools – Modeling Services – Job Training Services – Schools, Educational Services Traffic School","7911 – Dance Halls, Studios and Schools 8211 – Elementary and Secondary Schools
+8220 – Colleges, Universities, Professional Schools, and Junior Colleges 8241 – Correspondence Schools 8244 – Business and Secretarial Schools 8249 – Vocational and Trade Schools"
+8351,Child Care Services,Merchants classified with this MCC provide care for infants or children.,Babysitting Services Children – Day Care Services Day Care Services Nannies Nursery Schools Preschool Centers Day Care Services,8299 – Schools and Educational Services (Not Elsewhere Classified)
+8398,Charitable Social Service Organizations,"Merchants classified with this MCC are non-political fund-raising organizations engaged in soliciting charitable donations/contributions on behalf of organizations engaged in social welfare services, or social service organizations engaged in social welfare services. This MCC also includes crowd funding Merchants that accept donations on behalf of individuals raising money for various causes without receiving any perceived or actual financial benefit for doing so.","Fund-Raising Organizations – Non-Political Organizations – Non- Political Public Radio, Television Crowd Funding Merchants","5931 – Used Merchandise and Secondhand Stores 8641 – Civic, Social, and Fraternal Associations 8651 – Political Organizations 8661 – Religious Organizations 8675 – Automobile Associations 8699 – Membership Organizations(Not Elsewhere Classified)"
+8641,"Civic, Social, and Fraternal Associations","Merchants classified with this MCC are associations engaged in civic, social, or fraternal activities.","Alumni/Alumnae Associations Associations – Civic, Social, Fraternal Associations
+Chambers of Commerce Fraternal Associations Fund-Raising – Political Police Athletic Leagues (PAL) Social Associations, Clubs Veterans’ Organizations","8398 – Charitable Social Service Organizations 8651 – Political Organizations 8661 – Religious Organizations
+8675 – Automobile Associations 8699 – Membership Organizations (Not Elsewhere Classified)"
+8651,Political Organizations,"Merchants classified with this MCC are membership organizations that promote the interests of or raise funds for a national, state, or local political party or candidate.",Political Fundraising,"8398 – Charitable Social Service Organizations 8641 – Civic, Social, and Fraternal Associations 8661 – Religious Organizations 8675 – Automobile Associations 8699 – Membership Organizations (Not Elsewhere Classified)"
+8661,Religious Organizations,"Merchants classified with this MCC are religious organizations that provide worship services, religious training or study, or religious activities.",Chapels Churches Mosques Synagogues Temples,"8398 – Charitable Social Service Organizations 8641 – Civic, Social, and Fraternal Associations 8699 – Membership Organizations (Not Elsewhere Classified)"
+8675,Automobile Associations,Merchants classified with this MCC are automobile associations and clubs that provide a variety of travel- related services to its members.,Automobile Club,8699 – Membership Organizations (Not Elsewhere Classified)
+8699,Membership Organizations (Not Elsewhere Classified),Merchants classified with this MCC are organizations or associations that are not classified with a more specific MCC.,Art Clubs Historical Clubs Labor Unions Organizations – Membership Organizations Poetry Clubs Professional Organizations Tenant Associations Condominium Associations HOAs Unions – Labor,"7997 – Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses 8398 – Charitable Social Service Organizations 8641 – Civic, Social, and Fraternal Associations 8651 – Political Organizations 8661 – Religious Organizations 8675 – Automobile Associations"
+8734,Testing Laboratories (Non-Medical Testing),"Merchants classified with this MCC provide testing services (such as automobile testing, calibration and certification, food testing, forensic testing, product and pollution testing, and industrial X-ray inspection services).",Food Testing Services Forensic Laboratories Pollution Testing Product Testing Laboratories Veterinary Testing Laboratories,8071 – Medical and Dental Laboratories
+8911,"Architectural, Engineering, and Surveying Services","Merchants classified with this MCC provide professional architectural, home and building design, boat design, and engineering, land, water, and aerial surveying services.",,1520 – General Contractors – Residential and Commercial 1799 – Special Trade Contractors (Not Elsewhere Classified) 8999 – Professional Services (Not Elsewhere Classified)
+8931,"Accounting, Auditing, and Bookkeeping Services","Merchants classified with this MCC provide accounting, bookkeeping, billing and payroll services, and other related auditing services, and may also provide income tax preparation services.",,7276 – Tax Preparation Services 8111 – Legal Services and Attorneys 8999 – Professional Services (Not Elsewhere Classified)
+8999,Professional Services (Not Elsewhere Classified),Merchants classified with this MCC provide professional services that are not classified with a more specific MCC.,"Appraisers Auction Houses Brokers – Mortgage, Loan Court Stenographer Financial Planners Graphic Designers Guest Speakers, Lecturers Lecturers Market Research Firms Mortgage Brokers Property Appraisers Public Speakers Real Estate Appraisers Research Firms","6211 – Security Brokers/Dealers 6300 – Insurance Sales, Underwriting, and Premiums 7012 – Timeshares 7276 – Tax Preparation Services 7277 – Counseling Services – Debt, Marriage, and Personal 7311 – Advertising Services 7321 – Consumer Credit Reporting Agencies 7361 – Employment Agencies and Temporary Help Services 7392 – Management, Consulting, and Public Relations Services 7393 – Detective Agencies, Protective Services, and Security Services, including Armored Cars, and Guard Dogs 8111 – Legal Services and Attorneys 8911 – Architectural, Engineering, and Surveying Services 8931 – Accounting, Auditing, and Bookkeeping Services"
+9211,"Court Costs, Including Alimony and Child Support","Merchants classified with this MCC are local, state, and federal courts of law that administer and process court fees, alimony, and child support payments.",,9222 – Fines 9399 – Government Services (Not Elsewhere Classified)
+9222,Fines,"Merchants classified with this MCC are government entities that administer and process local, state, and federal fines and penalties, motor vehicle violations, and community- or property-assessed fines.",Community Assessed Penalties Motor Vehicle Violations,"9211 – Court Costs, Including Alimony and Child Support 9399 – Government Services- (Not Elsewhere Classified)"
+9223,Bail and Bond Payments,Merchants classified with this MCC post bail to the court system as security for the appearance of the arraigned individual.,,
+9311,Tax Payments,"Merchants classified with this MCC are local, state, and federal entities that engage in financial administration and taxation including collection of taxes and penalties and custody and disbursement of funds.",Customs Bureaus,9399 – Government Services (Not Elsewhere Classified)
+9399,Government Services (Not Elsewhere Classified),Merchants classified with this MCC are government entities that provide general support services to government and communities are not classified with a more specific MCC.,DMV Department of Motor Vehicles Fire Departments Libraries Parks and Recreation Police Departments,"4784 – Tolls and Bridge Fees 7523 – Parking Lots, Parking Meters and Garages 7992 – Public Golf Courses"
+9402,Postal Services – Government Only,Merchants classified with this MCC are government postal offices that provide a variety of services such as accepting and processing packages and mail for delivery and selling postage stamps.,,7399 – Business Services (Not Elsewhere Classified). 9399– Government Services (Not Elsewhere Classified)
+9405,U.S. Federal Government Agencies or Departments,Merchants classified with this MCC process U.S. federal government transactions using an acquiring BIN associated with the Intra-Government Transfers (IGOTS) program.,,
+9406,Government-Owned Lotteries (Non-U.S. region),Merchants classified with this MCC are government- owned lotteries that sell lottery tickets,,"7800 – Government-Owned Lotteries (US Region Only) 7995 – Betting, including Lottery Tickets, Casino Gaming Chips, Off- Track Betting, and Wages at Race tracks"
+9702,Emergency Services (GCAS) (Visa use only),,,
+9950,Intra-Company Purchases,Merchants classified with this MCC process purchasing card transactions representing internal unit-to-unit transfers of goods and services.,,
