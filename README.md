@@ -40,7 +40,7 @@ The primary goals of this project are to:
 
 ### Prerequisites
 - Python 3.12 or higher
-- Poetry for dependency management
+- uv for dependency management
 
 ### Installation
 
@@ -48,8 +48,11 @@ The primary goals of this project are to:
 # Clone the repository
 git clone [repository-url]
 
-# Install dependencies
-poetry install
+# Install uv if you haven't already
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Create virtual environment and install dependencies from pyproject.toml
+uv sync
 ```
 
 ### Usage
