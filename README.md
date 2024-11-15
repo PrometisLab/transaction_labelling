@@ -2,6 +2,10 @@
 
 A comprehensive toolkit for mapping various industry and classification codes to standardized economic utilities and purposes.
 
+## Project Status
+
+This project is currently in the development phase. All mappings are still being validated and may be subject to change. Everything is provided as is and no guarantees are made about the accuracy or completeness of the mappings.
+
 ## Overview
 
 This project provides mapping tables and tools to convert different types of industry and classification codes into standardized economic utilities as defined by international standards, including:
@@ -65,7 +69,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Add your chosen license]
+See LICENSE.md file.
 
 ## References
 
@@ -75,4 +79,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-[Add contact information]
+contact@prometislab.org
