@@ -1,0 +1,836 @@
+MCC,Description (Spanish),Categorization
+0,NON-CATEGORIZED,non-categorizable
+742,SERVICIOS VETERINARIOS                  ,9
+763,COOPERATIVAS AGRARIAS                   ,1
+780,SERVICIOS DE HORTICULTURA Y PAISAJISMO  ,5
+1305,COSTCO                                  ,supermarket
+1306,AENA                                    ,7
+1307,BURGUER KING                            ,11
+1309,ENDESA                                  ,4
+1310,IBERDROLA                               ,4
+1311,JUST EAT SPAIN                          ,11
+1312,AENA                                    ,7
+1313,MAPFRE FAMILIAR                         ,12
+1314,CABIFY                                  ,7
+1315,NAUTALIA                                ,9
+1316,BALLENOIL                               ,7
+1317,AREAS                                   ,11
+1318,DRUNI                                   ,12
+1319,VIVUS                                   ,non-consumption
+1320,BURGUER KING                            ,11
+1321,DESTINIA                                ,9
+1322,SPRINTER                                ,sporting
+1323,SUPERMERCADOS SORLI DISCAU              ,1
+1324,LATAM.COM                               ,7
+1325,PORTAL GAS NATURAL                      ,4
+1326,AYUNTAMIENTO DE MADRID                  ,non-consumption
+1327,PC COMPONENTES                          ,9
+1328,LÍNEA DIRECTA ASEGURADORA               ,12
+1329,ATESA                                   ,7
+1330,CALZEDONIA                              ,3
+1331,DIRECCIÓN GENERAL DE TRÁFICO            ,7
+1332,PHONE WAREHOUSE                         ,8
+1333,ALAEO1                                  ,7
+1334,GOLDCAR                                 ,7
+1335,ATRAPALO                                ,9
+1336,ALIMERKA                                ,supermarket
+1337,TELEFONICA-DISTRIBDRES Y FRACQ          ,8
+1338,ENTRADAS.COM                            ,9
+1339,MCDONALS                                ,11
+1340,MCDONALS FRANQUICIAS                    ,11
+1341,FOIZ RESTAURACION                       ,11
+1342,AHORRAMAS FRANQUICIAS Y DISTRI          ,supermarket
+1343,GLOBALIA HOTELES FRANQUICIAS            ,11
+1344,VIAJES BARCELÓ FRANQUICIAS              ,9
+1345,VODAFONE FRANQUICIAS                    ,8
+1346,SARAS ENERGIA                           ,7
+1347,ALSA RESTAURACION                       ,11
+1348,ALSA                                    ,7
+1349,REPSOL RESTAURACION                     ,11
+1350,SUPERMERCADOS LUPA                      ,supermarket
+1351,PRIVALIA                                ,3
+1353,DIA                                     ,supermarket
+1354,DIA FRANQUICIADOS                       ,supermarket
+1355,PRIMARK                                 ,3
+1356,SPORT ZONE                              ,sporting
+1357,ZIPPI KIDSTORE                          ,3
+1358,DESIGUAL                                ,3
+1359,LOGITRAVEL                              ,9
+1360,SERVITICKET                             ,9
+1361,WORTEN                                  ,electronic goods
+1362,FRANQUICIADOS DE EROSKI                 ,supermarket
+1363,ALCAMPO FRANQUICIAS                     ,supermarket
+1364,ALCAMPO FRANQUICIAS-GASOLINERA          ,7
+1366,FRANQUICIADOS CONSUM                    ,supermarket
+1368,DABA (NEXPRESSO)                        ,1
+1369,METRO BARCELONA                         ,7
+1370,SUPERMERCADOS ALDI                      ,supermarket
+1371,BLANCO                                  ,3
+1372,RUMBO                                   ,9
+1373,SUPERMERCADOS FROIZ                     ,supermarket
+1375,ITINERE                                 ,7
+1376,SABA                                    ,7
+1378,AQUALUNA PERFUMERIAS                    ,12
+1379,HIPER USERA HORECA                      ,supermarket
+1380,METRO DE MADRID                         ,7
+1381,EDREAMS                                 ,9
+1382,GAME GROUP                              ,9
+1383,REDCATS (G. PPR)                        ,3
+1384,GENERAL OPTICA (FRANQUICIAS)            ,6
+1385,PEPEMOBILE RECARGAS TELEF               ,8
+1389,VIAJES CARREFOUR                        ,9
+1390,SUPERMERCADOS CONDIS FRANQUICIAS        ,supermarket
+1391,BODYBEL-JUTECO                          ,12
+1392,GUCCI                                   ,3
+1393,VENTA DE ARMAS                          ,9
+1394,MANGO FRANQUICIAS                       ,3
+1395,SUPERMERCADOS MAS Y MAS                 ,supermarket
+1396,CORPORAC ALIMENT DE GUISSONA            ,supermarket
+1397,SUPERMERCADOS CONDIS                    ,supermarket
+1398,BARCELO HOTELES                         ,11
+1399,MAKRO RESTAURANTES                      ,11
+1400,SUPERMERCADOS EL ARBOL                  ,supermarket
+1401,BON PREU                                ,supermarket
+1402,MIQUEL ALIMENTACIÓN ,supermarket
+1403,AHORRAMAS                               ,supermarket
+1405,LIDL                                    ,supermarket
+1406,H&M                                     ,3
+1407,VUELING AIRLINES                        ,7
+1409,SUPERMERCADOS GADISA                    ,supermarket
+1410,LECLERC                                 ,supermarket
+1411,CONSUM                                  ,supermarket
+1412,AUMAR                                   ,7
+1413,MERCADONA                               ,supermarket
+1415,EROSKI HIPERMERCADOS                    ,supermarket
+1416,FORUM SPORT                             ,sporting
+1417,DAPARGEL                                ,12
+1418,SUPERMERCADOS SOL/AHOLD                 ,supermarket
+1419,AIR EUROPA                              ,7
+1420,CEPSA                                   ,7
+1421,GRAN SUPERFICIE ELECTRODOMESTICOS       ,5
+1422,BRICO-STOCK                             ,building
+1423,CARREFOUR                               ,supercenter
+1424,MEDIA MARKT                             ,electronic goods
+1425,METRO DE BILBAO                         ,7
+1426,VENTA DISTANCIA VIAJES                  ,9
+1427,VENTA DISTANCIA ELECTRODOMESTI          ,5
+1428,VENTA DISTANCIA RESTURACION             ,11
+1429,"VENTA DISTANCIA LIBROS, DISCOS          ",9
+1430,VENTA DISTANCIA PRODUCTOS MENO          ,non-categorizable
+1431,ITV INSPEC.TECNICA DE VEHICULO          ,7
+1432,TERRA MITICA                            ,9
+1434,GRUPO UVESCO                            ,supermarket
+1436,KIABI ESPAÑA                            ,3
+1437,DONACIONES BENEFICAS                    ,non-consumption
+1438,CADENA MENAJE DEL HOGAR                 ,5
+1439,PIMKIE                                  ,3
+1440,TIENDAS AURGI                           ,7
+1441,FOTOPRIX                                ,12
+1442,BAZAR EL REGALO                         ,electronic goods
+1443,JESALI                                  ,11
+1445,SOCIEDADES FINANCIERAS                  ,non-consumption
+1446,EROSKI BIDAIAK                          ,9
+1448,VIAJES IBERIA                           ,9
+1449,CLUBS DEPORTIVOS                        ,9
+1450,LOS TELARES                             ,3
+1451,FEU VERT                                ,7
+1452,VIVARTE                                 ,3
+1453,DONACION SOCIED. SIN LUCRO              ,non-consumption
+1454,RECARG/VTA TARJ PREP PROVEEDOR          ,8
+1455,ALQUILER TELEVISION ENT.CONTR.          ,9
+1456,ISLA MAGICA                             ,9
+1457,BAUHAUS                                 ,building
+1458,HOTEL ARTS                              ,11
+1459,PROMOD ESPAÑA                           ,3
+1460,PILMA                                   ,5
+1461,RECARG/VTA TARJ PREP ESTABLECI          ,8
+1462,IKEA                                    ,5
+1463,GRANDES SUPERF.DE MENAJE HOGAR          ,5
+1464,CEPSA DEPASO                            ,supermarket
+1465,TIENDA DE GOLOSINAS                     ,1
+1466,MUEBLES DE COCINA                       ,5
+1467,O.N.C.E.                                ,9
+1468,ADOLFO DOMINGUEZ                        ,3
+1469,NORAUTO                                 ,7
+1470,FNAC                                    ,9
+1471,GRANDES SUPERICIES FLORES Y PLANTAS     ,9
+1472,G SUPERF DROGUERIAS/PERFUMERIAS         ,12
+1473,G SUPERF FERRETERIA Y BRICOLAJE         ,building
+1474,ALDEASA                                 ,supermarket
+1475,MIRO                                    ,electronic goods
+1476,PARADORES NACIONALES                    ,11
+1477,CENTROS ENSEÑAZA UNIVERSITARIA         ,10
+1478,RACC VIAJES                             ,9
+1480,LEROY MERLIN                            ,building
+1481,SERVICIO TRAFICO TELEFONICO             ,8
+1482,INTERCAMBIO DE VACACIONES               ,11
+1483,PORT-AVENTURA                           ,9
+1484,CASINO DE MARBELLA (CANAMASA)           ,9
+1485,TUI ESPAÑA TURISMO S.A.                 ,9
+1486,VISIONLAB                               ,6
+1487,CONFORAMA                               ,5
+1488,MANGO                                   ,3
+1489,PUJAS ENTIDADES FINANCIERAS             ,non-consumption
+1490,PAGOS TRIBUTOS TASAS OFICIALES          ,non-consumption
+1491,GLOBALIA VIAJES                         ,9
+1493,DECATHLON                               ,sporting
+1494,VIAJES MARSANS - INT. EXPRESO           ,9
+1495,VIAJES BARCELO                          ,9
+1496,GLOBALIA HOTELES                        ,11
+1497,"VENTAS A BORDO, LINEAS AEREAS           ",non-categorizable
+1498,TRAVELGENIO                             ,9
+1500,CRÉDITOS EXPRÉS,non-consumption
+1502,ORANGE VENTA DE RECARGAS                ,8
+1503,MOVISTAR VENTA DE RECARGAS              ,8
+1504,VODAFONE RECARGAS                       ,8
+1505,VENTA ONLINE MULTIPRODUCTO              ,non-categorizable
+1506,"EVELOP, S.L.                            ",7
+1507,#REF!,1
+1508,CORREOS EXPRESS                         ,8
+1509,DINOSOL                                 ,supermarket
+1510,#REF!,supermarket
+1511,SPORT STREER (DECIMAS)                  ,sporting
+1512,#REF!,7
+1513,#REF!,12
+1514,PUNT FRESC                              ,1
+1520,CONTRATISTAS GENERALES EDIFICIOS RESIDEN,4
+1521,AGIP                                    ,7
+1522,BP OIL                                  ,7
+1524,ALCAMPO GASOLINERAS                     ,7
+1525,CARREFOUR GASOLINERAS                   ,7
+1526,RETAIL OPERATING COMPANY                ,7
+1527,MAKRO GASOLINERAS                       ,7
+1528,LECLERC GASOLINERAS                     ,7
+1529,GASOLINERAS EROSKI(TPVS ATEND)          ,7
+1530,CORP.ALIMEN.GUISSONA GASOLINER          ,7
+1531,DISA (GASOLINERAS)                      ,7
+1711,CONTRATISTAS DE CALEF. FONTA. Y AIRE ACO,4
+1731,CONTRATISTAS ELECTRICOS                 ,4
+1740,"CONTRATISTA ALBAÑILERIA, PIEDRA, ETC    ",4
+1750,CONTRATISTAS DE CARPINTERIA             ,4
+1761,"CONTRATISTAS TEJADOS,PAREDES Y CHAPA    ",4
+1771,CONTRATISTAS DE TRABAJOS DE CIMENTACION ,4
+1799,CONTRATISTAS ESPECIALES SIN CLASIFICAR  ,4
+2013,HOTEL (TERMINAL NO ATENDIDO)            ,11
+2014,NH HOTELES PARKINGS (TNA)               ,7
+2111,METRO (T.N.A)                           ,7
+2131,FERROCAR.CERC-AUTOB (TNA)               ,7
+2133,TRANSPORTE URBANO (TNA)                 ,7
+2215,E.DE CORRESP.MEDIANTE MAQUINAS          ,non-categorizable
+2216,LAVANDERIAS Y TINTORERIAS (TNA)         ,3
+2231,PREPAGO SOCIOS GIMNASIOS(TNA)           ,9
+2306,AENA TNA                                ,7
+2310,VENTA DE SEGUROS(TERM.NO ATEN.          ,12
+2316,TNAS BALLENOIL                          ,7
+2325,TNAS PORTAL GAS NATURAL                 ,7
+2338,ENTRADAS.COM (TNA)                      ,9
+2339,MCDONALDS TNA                           ,11
+2340,TNAS FRANQUICIADOS MCDONALS             ,11
+2346,ENERGIAS SARAS TNA                      ,7
+2348,ALSA TNA                                ,7
+2360,SERVITICKET TNA                         ,9
+2369,METRO BARCELONA (TNA)                   ,7
+2376,SABA (TNA)                              ,7
+2380,METRO MADRID -CHIP                      ,7
+2385,PEPEMOBILE REC TELF TNA                 ,8
+2386,CARREFOUR RECARGAS TNA                  ,8
+2387,ALCAMPO RECARGAS TNA                    ,8
+2388,EROSKI RECARGAS                         ,8
+2397,CONDIS PARKINGS (TNA)                   ,7
+2399,TERMINAL AUTOSERVICIO POSTAL            ,8
+2401,BON PREU GASOLINERA TPV NO ATE          ,7
+2411,MUSEOS (TNA)                            ,9
+2412,RENFE(TERMINALES NO ATENDIDOS)          ,7
+2414,ADIF PARKINGS (TNA)                     ,7
+2420,CEPSA (TPVS NO ATENDIDOS)               ,7
+2421,TNAS RESTAURACION                       ,11
+2422,MAQUINAS VENDING                        ,1
+2432,TERRA MITICA (T NO ATENDIDOS)           ,9
+2434,UVESCO GASOLINERAS (TNA)                ,7
+2437,DONACIONES BENEFICAS(T.NO ATE)          ,non-consumption
+2453,SOCIEDADES SIN ANIMO LUCRO TNA          ,non-consumption
+2454,RECARGA DE TARJETA TNA                  ,8
+2459,OPENCOR VENDIND                         ,supermarket
+2461,RECARGA TARJETAS ESTAB AUTOR TNA        ,8
+2481,RECARGA TARJETAS TELEFONICAS TNA        ,8
+2489,PUJAS ENTIDADES FINANC TNA              ,non-consumption
+2490,PAGO TRIBUTOS TNA                       ,non-consumption
+2501,VODAFONE RECARGAS TNA                   ,8
+2502,ORANGE RECARGAS TNA                     ,8
+2503,MOVISTAR RECARGAS TNA                   ,8
+2511,LINEAS AEREAS(TER.NO ATENDIDO)          ,7
+2512,#REF!,7
+2520,PARQUIMETROS ORA                        ,7
+2521,PETROLEOS DE PORTUGAL SA                ,7
+2522,BP OIL (TPVS NO ATENDIDOS)              ,7
+2523,GARAJES Y APARCAMIENTOS TNA             ,7
+2524,ALCAMPO GASOLINERAS (TNA)               ,7
+2525,CARREFOUR GASOLINERA (TNA)              ,7
+2528,LECLERC GASOLINERA (TNA)                ,7
+2529,EROSKI GASOLINERA (TNA)                 ,7
+2530,COOP ALIM GUISSONA GASOLINERA (TNA)     ,7
+2531,DISA (GASOLINERAS)TNA                   ,7
+2541,GASOLINERAS (TNA)                       ,7
+2543,REPSOL (TNA)                            ,7
+2548,PARKING MELIA                           ,7
+2722,AGENCIAS DE VIAJES(TNA)                 ,9
+2732,SUS.A CANALES PRIV. DE TELEVIS          ,9
+2741,MISCELLANEOUS PUBLISHING AND PRINTING   ,9
+2791,"TYPESETTING,PLATEMAKING AND RELATED SERV",9
+2829,ENVIO DE DINERO TNA                     ,non-consumption
+2842,"LIMPIEZA ESPECIAL,PULIMIENTO Y SANEAMIEN",4
+2912,FARMACIAS (TNA)                         ,6
+2941,ESP.Y DEPOR.VENTA ENTRADAS (TNA)        ,9
+2942,"LIBROS,DISCOS,CD'S (TNA)                ",9
+2946,ALQUILER DE VIDEOS(TNA)                 ,9
+2959,EL CORTE INGLES TNAS APARCAMIENTOS      ,7
+2961,VENTAS DIFERIDAS (TNA)                  ,non-categorizable
+2993,MAQUINAS EXPENDEDORAS TABACO (T.N.A)    ,2
+2994,SUSCRIPCION A PUBLIC.PERIODICAS(TNA)    ,9
+2995,EMISION CERTIFICADOS OFICIALES(T.N.A.)  ,non-consumption
+3000,UNITED AIR                              ,7
+3001,AMERICAN AIRLINES                       ,7
+3005,BRITIH AIRWAYS-BRITISH A                ,7
+3006,JAPAN AIRLINES                          ,7
+3007,AIR FRANCE                              ,7
+3008,LUFTHANSA                               ,7
+3009,AIR CANADA - AIR CAN                    ,7
+3010,KLM AIRLINES                            ,7
+3011,AEROFLOT                                ,7
+3012,QANTAS AIR                              ,7
+3013,ALITALIA                                ,7
+3014,SAUDIA AIR                              ,7
+3015,SWISS AIR                               ,7
+3016,SAS                                     ,7
+3017,SAA AIRWAYS                             ,7
+3018,VARIG                                   ,7
+3020,AIR INDIA                               ,7
+3021,AIR ALGERIE                             ,7
+3022,PHILIPP AIR                             ,7
+3024,PAKISTAN AIR                            ,7
+3025,AIR NZ                                  ,7
+3026,EMIRATES                                ,7
+3028,AIR MALTA                               ,7
+3029,SN BRUSELL AIRLINES-SNBRU AIR           ,7
+3030,AEROLINEAS ARGENTINAS                   ,7
+3031,OLYMPIC AIR                             ,7
+3032,EL AL                                   ,7
+3033,ANSETT AIR                              ,7
+3034,ETIHAD AIRWAYS - ETIHADAIR              ,7
+3035,TAP AIR                                 ,7
+3037,EGYPTAIR                                ,7
+3038,KUWAIT AIR                              ,7
+3039,AVIANCA                                 ,7
+3040,GULF AIR                                ,7
+3042,FINNAIR                                 ,7
+3043,AER LINGUS                              ,7
+3044,AIR LANKA                               ,7
+3047,THY AIRLINE                             ,7
+3048,AIR MAROC                               ,7
+3049,TUNIS AIR                               ,7
+3050,ICELANDAIR                              ,7
+3051,AUSTRIAN AIR                            ,7
+3052,LAN AIRLINES LANAIR                     ,7
+3056,QUEBECAIRE                              ,7
+3057,E/W AIRLINE                             ,7
+3058,DELTA AIR                               ,7
+3061,CONTINENTAL                             ,7
+3063,USAIRWAYS                               ,7
+3064,ADRIA AIRWAYS                           ,7
+3066,SOUTHWESTAIR                            ,7
+3068,AIR ASTANA - AIRSTANA                   ,7
+3072,CEBU PAC (AG. VIAJE/TRANSP)             ,7
+3075,SINGAPOREAIR                            ,7
+3076,AEROMEXICO                              ,7
+3077,THAI AIRWAYS                            ,7
+3078,CHINA AIRLINE                           ,7
+3079,JETSTAR AIRWAYS - JETSTAR               ,7
+3082,KOREAN AIR                              ,7
+3089,TRANSAERO                               ,7
+3098,ASIANA AIRLINES - ASIANA                ,7
+3099,CATHAYPACAIR                            ,7
+3100,MALAY AIR                               ,7
+3102,IBERIA                                  ,7
+3103,GARUDA AIR                              ,7
+3112,WINDWRDISAIR                            ,7
+3127,TACA AIR                                ,7
+3132,FRONTIER AIRLINES - FRONTIER            ,7
+3136,QATAR AIRWAYS ( QATARAIR)               ,7
+3144,VIRGINATLAIR                            ,7
+3146,LUXAIR                                  ,7
+3161,A.N.A. AIR                              ,7
+3174,JETBLUE AIRWAYS                         ,7
+3175,MIDEAST AIR                             ,7
+3180,WESTJET AIRLINES                        ,7
+3182,LOT AIR                                 ,7
+3183,LONG ISLAND AIRLINES                    ,7
+3184,LIAT AIRLINE                            ,7
+3196,HAWAIIAN AIR                            ,7
+3206,CHINA EASTERN AIRLINES - CHINAEAST      ,7
+3211,NORWEGIAN AIR SCUTTLE - NOWEGIAN        ,7
+3213,MALMO AVIATION-MALMO AV                 ,7
+3217,CSA AIRLINE                             ,7
+3219,COPA AIR                                ,7
+3220,COMP FAU AIR                            ,7
+3221,TAME AIRLINE                            ,7
+3234,CARIBBEAN AIRLINES - CARIBBEAN          ,7
+3236,AIR ARABIA AIRLINE-AIR ARAB             ,7
+3245,EASYJET                                 ,7
+3246,RYANAIR                                 ,7
+3247,GOL AIRLINES - GOL                      ,7
+3248,TAM AIRLINES - TAM                      ,7
+3252,ALM AIRLINE                             ,7
+3256,ALASKA AIR                              ,7
+3260,SPIRIT AIRLINES-SPIRIT                  ,7
+3261,AIR CHINA                               ,7
+3266,AIR SEYCH                               ,7
+3294,ETHIOPIAN AIR                           ,7
+3295,KENYA AIR                               ,7
+3296,AIR BERLIN                              ,7
+3297,TAROM AIR                               ,7
+3298,AIRMAURITIUS                            ,7
+3300,AZUL AIR,7
+3301,WIZZ AIR                                ,7
+3351,AFFILIATED AUTO RENTAL                  ,7
+3355,SIXT CAR RENTAL                         ,7
+3357,HERTZ RENT-A-CAR                        ,7
+3366,BUDGET RENT-A-CAR                       ,7
+3381,EUROPCAR                                ,7
+3386,SHOWCASE RENTAL CARS                    ,7
+3387,ALAMO RENT-A-CAR                        ,7
+3389,AVIS RENT-A-CAR                         ,7
+3390,DOLLAR REN-A-CAR                        ,7
+3393,NATIONAL CAR RENTAL                     ,7
+3395,THRIFTY RENT-A-CAR                      ,7
+3405,ENTERPRISE RENT-A-CARD                  ,7
+3409,GENERAL RENT-A-CARD                     ,7
+3412,A-1 RENT-A-CARD                         ,7
+3441,ADVANTAGE RENT-A-CAR                    ,7
+3501,HOLIDAY INN EXPRESS                     ,11
+3502,BEST WESTERN HOTELS                     ,11
+3503,SHERATON                                ,11
+3504,HILTON                                  ,11
+3506,GOLDEN TULIP HOTELS                     ,11
+3508,QUALITY INNS                            ,11
+3509,MARRIOTT                                ,11
+3510,DAYS INNS                               ,11
+3512,INTER-CONTINENTAL HOTELS                ,11
+3513,WESTIN                                  ,11
+3515,RODEWAY INNS                            ,11
+3516,LA QUINTA MOTOR INNS                    ,11
+3519,PULLMAN INTERNATIONAL HOTELS            ,11
+3520,MERIDIEN HOTELS                         ,11
+3524,WLCOMGROUP HOTELS                       ,11
+3530,RENAISSANCE HOTELS                      ,11
+3533,IBIS HOTELES                            ,11
+3535,HILTON INTERNATIONALS                   ,11
+3537,ANA HOTEL                               ,11
+3543,FOUR SEASONS HOTELS                     ,11
+3544,CIGA HOTELS                             ,11
+3548,HOTELES MELIA                           ,11
+3551,MIRAGE HOTEL AND CASINO                 ,11
+3552,COAST HOTELS                            ,11
+3555,TREASURE ISLAND HOTEL AND CASINO        ,11
+3559,CANDLEWOOD SUITES                       ,11
+3561,GOLDEN NUGGET                           ,11
+3562,COMFORT INNS                            ,11
+3565,RELAX INNS                              ,11
+3577,MANDARIN ORIENTAL HOTEL                 ,11
+3579,HOTEL MERCURE                           ,11
+3583,SAS HOTELS                              ,11
+3584,PRINCESS HOTELS INTERNATIONAL           ,11
+3586,SOKOS HOTES                             ,11
+3587,DORAL HOTELS                            ,11
+3590,FAIRMONT HOTELS                         ,11
+3592,OMNI HOTELS                             ,11
+3595,HOSPITALITY INTERNATIONAL               ,11
+3596,WYNN LAS VEGAS                          ,11
+3602,HUDSON HOTEL                            ,11
+3604,HILTON GARDEN INN                       ,11
+3607,FONTAINEBLEAU RESORT                    ,11
+3612,MOEVENPICK HOTELS                       ,11
+3613,MICROTEL INN AND SUITES                 ,11
+3614,AMERICINN                               ,11
+3615,TRAVELODGE                              ,11
+3617,AMERICA'S BEST VALUE INN                ,11
+3619,ALOFT (HOTELES ALFOT)                   ,11
+3625,HOTEL UNIVERSALE                        ,11
+3631,SLEEP INN                               ,11
+3635,RESO HOTELS                             ,11
+3637,RAMADA INNS                             ,11
+3638,HO JO INN - HOWARD JOHNSON              ,11
+3640,HYATT HOTELS                            ,11
+3641,SOFITEL HOTELS                          ,11
+3642,NOVOTEL HOTELS                          ,11
+3643,STEIGENBERGER HOTELS                    ,11
+3644,ECONO LODGES                            ,11
+3649,RADISSON HOTELS                         ,11
+3650,RED ROOF INNS                           ,11
+3653,PENTA HOTELS                            ,11
+3654,LOEWS HOTELS                            ,11
+3655,SCANDIC HOTELS                          ,11
+3659,TAJ HOTEL INTERNATIONAL                 ,11
+3660,KNIGHTS INN                             ,11
+3661,METROPOLE HOTELS                        ,11
+3662,CIRCUS CIRCUS HOTEL AND CASINO          ,11
+3665,HAMPTON INNS                            ,11
+3672,CAMPANILE HOTELS                        ,11
+3676,MONTE CARLO HOTEL AND CASINO            ,11
+3681,ADAMS MARK HOTELS                       ,11
+3690,COURTYARD BY MARRIOTT                   ,11
+3692,DOUBLETREE                              ,11
+3694,ECONOMY INNS OF AMERICA                 ,11
+3695,EMBASSY SUITES                          ,11
+3700,MOTEL 6                                 ,11
+3703,RESIDENCE INNS                          ,11
+3709,SUPER8 MOTELS                           ,11
+3710,"RITZ-CARLTON, THE                       ",11
+3715,FAIRFIELD INN                           ,11
+3716,CARLTON HOTELS                          ,11
+3719,PROTEA HOTELS                           ,11
+3721,HILTON CONRAD                           ,11
+3722,WYNDHAM                                 ,11
+3728,BALLY'S HOTEL AND CASINO                ,11
+3730,MGM GRAND HOTEL                         ,11
+3740,MARRIOTT/TOWN PLACE SUITES              ,11
+3741,MILLENNIUM BROADWAY HOTEL               ,11
+3750,CROWNE PLAZA HOTELS                     ,11
+3751,HOMEWOOD SUITES                         ,11
+3754,AMELIA ISLAND PLANTATION                ,11
+3765,BELLAGIO                                ,11
+3770,SPRINGHILL SUITES                       ,11
+3771,CAESAR'S HOTEL AND CASINO               ,11
+3772,NEMACOLIN WOODLANDS                     ,11
+3777,MANDALAY BAY RESORT                     ,11
+3778,FOUR POINTS HOTELS                      ,11
+3779,W HOTELS                                ,11
+3791,STAYBRIDGE SUITES                       ,11
+3793,THE FLAMINGO HOTELS                     ,11
+3811,PREMIER INN                             ,11
+3812,HYATT PLACE                             ,11
+3813,HOTEL INDIGO                            ,11
+3816,HOME2 SUITES BY HILTON                  ,11
+3819,OXFORD SUITES                           ,11
+3826,AUTOGRAPH,11
+3829,COUNTRY INN BY CARLSON                  ,11
+4011,FERROCARRILES                           ,7
+4012,RENFE                                   ,7
+4013,GRUPO ACCOR/WAGONS LITS                 ,9
+4014,ADIF                                    ,7
+4111,"TRANSPORTE PASAJEROS CERCANIAS,URB,FERRY",7
+4112,PASAJEROS DE FERROCARRILES              ,7
+4119,SERVICIOS DE AMBULANCIAS                ,6
+4121,SERVICIO DE TAXIS Y LIMUSINAS           ,7
+4131,LINEAS DE AUTOBUSES                     ,7
+4132,VENTAS A BORDO (MAR)                    ,non-categorizable
+4133,TRANSPORTE URBANO (MENOS METRO          ,7
+4214,"TRASPOTE MUDANZAS,ALMACENAMIENTOS,DEPOSI",7
+4215,GLOVO,11
+4225,"ALMACNAMIENTO PUBLICO:REFRIGERADO,GRANJA",7
+4411,TRANSPORTE VIAJERO MARITIMO             ,7
+4457,ALQUILER EMBARCACIONES DE RECREO        ,7
+4468,PUERTOS DEPORTIVOS Y ABASTECIMIENTOS    ,7
+4511,LINEAS AEREAS                           ,7
+4582,APARCAMIENTOS AEROPUERTOS Y MANTEN. AERO,7
+4722,AGENCIAS DE VIAJES Y TOUR OPERADORES    ,9
+4723,PAQUETE TOUR OPERADORES(SOLO ALEMANIA)  ,9
+4784,AUTOPISTAS                              ,7
+4785,AUTOPISTAS Y COMPRA BONOS AUT           ,7
+4786,AUTOPISTAS ABERTIS                      ,7
+4788,AUTOPISTAS PORTUGAL                     ,7
+4789,CONSIGNAS AUTOMATICAS                   ,7
+4811,TELEFONICA SERVICIOS                    ,8
+4812,"SERVICIOS TELECOMUNICACION, VENTAS TELEF",8
+4813,LOCUTORIOS TELEFONICOS                  ,8
+4814,VENTA DE EQUIPOS TELEFONICOS            ,8
+4815,TELEFONICA VENTA EQUIPOS                ,8
+4816,COMERCIO ELECTRONICO/INFORMACION SERVICI,8
+4817,MOVISTAR VENTA EQUIPOS                  ,8
+4818,VODAFONE VENTA EQUIPOS                  ,8
+4819,ORANGE VENTA EQUIPOS                    ,8
+4821,TELEGRAFOS                              ,8
+4829,TRANSFERENCIAS Y ORDENES DE PAGO        ,non-consumption
+4899,SERVICIOS POR CABLE                     ,9
+4900,"SERVICIOS: ELECTRICIDAD,GAS,CALEFACCION ",4
+5013,RECAMBIOS DE AUTOMOVILES                ,7
+5021,MUEBLES COMERCIALES Y DE OFICINA        ,5
+5039,MATERIALES DE CONSTRUCCION SIN CLASIFICA,4
+5044,"EQUIPOS OFICINA,FOTOGRAFICO,FOTOCOPIA,MI",9
+5045,"ORDENADORES,EQUIPOS PERIFE. Y SOFTWARE  ",9
+5046,EQUIPAMIENTO COMERCIAL SIN CLASIFICAR   ,non-categorizable
+5047,"EQUIPOS LABORATORIO,MEDICOS.DENTAL, ETC ",6
+5051,SERVICIOS METAL                         ,non-consumption
+5065,EQUIPAMIENTOS Y PIEZAS ELECTRICAS       ,non-consumption
+5072,EQUIPOS Y PIEZAS DE HARDWARE            ,non-consumption
+5074,EQUIPO Y PIEZAS DE FONTAN. Y CALEFACCION,non-consumption
+5085,EQUIPOS INDUSTRIALES SIN CLASIFICAR     ,non-consumption
+5094,JOYERIA Y PIEDRAS PRECIOSAS             ,12
+5099,MERCANCIAS DURADERAS SIN CLASIFICAR     ,non-categorizable
+5111,"PAPELERIA, MATERIAL DE OFICINA          ",9
+5122,DROGUERIA Y VARIOS                      ,6
+5131,"PIECE GOODS,NOTIONS AND DRY GOODS       ",3
+5137,UNIFORMES COMERCIALES                   ,3
+5139,ZAPATERIA                               ,3
+5169,PRODUCTOS QUIMICOS NO CLASIFICADOS      ,non-consumption
+5172,PETROLEO Y DERIVADOS                    ,non-consumption
+5192,"LIBROS, PERIODICOS Y REVISTAS           ",9
+5193,"FLORISTERIA , INVERNADEROS              ",9
+5198,"PINTURAS, BARNICES, ACCESORIOS          ",building
+5199,MERCANCIAS NO DURADERAS SIN CLASIFICAR  ,non-categorizable
+5200,MENAGE DE HOGAS                         ,5
+5211,MATERIALES DE CONSTRUCCION DE MADERAS   ,building
+5231,ESTABLECIMIENTOS DE PAPELES PINTADOS    ,building
+5251,FERRETERIA Y BRICOLAGE                  ,building
+5261,VIVEROS Y SUMINISTROS DE JARDINERIA     ,5
+5271,MUDANZAS                                ,7
+5300,VENTA AL POR MAYOR                      ,non-categorizable
+5309,TIENDAS DUTY FREE (LIBRE DE IMPUESTOS)  ,non-categorizable
+5310,ECONOMATOS                              ,supermarket
+5311,GRANDES ALMACENES                       ,supercenter
+5313,GRAND.SUPERF.JUGUE-ART DEPOR(L          ,sporting
+5314,AKI BRICOBI                             ,building
+5331,"ALIMENTACION: SUPERMER.,ULTRAMA.ECONOMA.",supermarket
+5333,HIPERMERCADOS Y CADENAS SUPERMER.       ,supermarket
+5335,ALCAMPO                                 ,supercenter
+5338,HIPERCOR SUPERMERCADOS                  ,supercenter
+5350,VENTAS A DOMICILIO                      ,non-categorizable
+5399,ESTABLECIMIENTOS DE MERCANCIAS DIVERSAS ,non-categorizable
+5411,FRUTERIAS Y SUPERMERCADOS               ,supermarket
+5422,MAKRO                                   ,1
+5441,GRUPO ZARA                              ,3
+5451,ESTABLECIMIENTOS DE PRODUCTOS FRESCOS   ,1
+5462,PANADERIAS                              ,1
+5499,"ALIMENTACION:SUPERMERC.,ULTRAMA.,ECONOMA",supermarket
+5511,SERVICIO VENTA RECAMBIO AUTOMOVILES     ,7
+5521,VENTA AUTOMOVILES Y CAMIONES USADOS     ,7
+5531,MENAJE DEL HOGAR                        ,5
+5532,ESTABLECIMIENTOS DE NEUMATICOS          ,7
+5533,ACCESORIOS/REPUESTOS COCHES Y MAQ.      ,7
+5541,ESTACIONES DE SERVICIO                  ,7
+5542,DISPENSADORES AUTOMATICOS DE GASOLINA   ,7
+5543,REPSOL/CAMPSA                           ,7
+5545,REPSOL-REPARTO A DOMICILIO              ,4
+5551,VENDEDORES DE EMBARCACIONES             ,7
+5552,RECARGA DE VEHICULOS ELECTRICOS         ,7
+5561,VENDEDORES DE REMOLQUES RECRE. Y SERVICI,7
+5571,TIENDAS Y CONCESIONARIOS DE MOTOCICLETAS,7
+5592,VENDEDORES DE CARAVANAS                 ,7
+5598,VENDEDORES DE VEHICULOS PARA NIEVE      ,7
+5599,VENDEDORES DE AUTOMOCION DIVERSA SIN CLA,7
+5611,CONFECCION TEXTIL EN GENERAL            ,3
+5621,ESTABLECIMIENTOS DE CONFECCION FEMENINA ,3
+5631,ESTABLECIMIENTOS ACCESORIOS FEMENINOS   ,3
+5641,TIENDAS DE CONFECCION INFANTIL          ,3
+5651,TIENDAS DE CONFECCION FAMILIAR          ,3
+5655,TIENDAS DE DEPORTE Y EQUITACION         ,sporting
+5661,ZAPATERIAS                              ,3
+5681,PELETERIAS                              ,3
+5691,TIENDAS DE CONFECCION DE HOMBRE Y MUJER ,3
+5697,"SATRERIAS,COSTURERIAS Y ARREGLOS CONFECC",3
+5698,PELUQUERIAS                             ,12
+5699,ESTABLECIMIENTOS APAREJO Y ACCES. DIVER.,3
+5712,"MUEBLES,ANTIG Y GALERIAS ARTE           ",5
+5713,ESTABLECIMIENTOS DE ALFOMBRAS           ,5
+5714,"TAPICERIAS, ALFOMBRAS                   ",5
+5718,TIENDA DE CHIMENEAS Y ACCESORIOS        ,5
+5719,ESTABLECIMIENTO ESPECIAL MUEBLES HOGAR  ,5
+5722,"ELECTRODOMESTICOS,EQUIPOS ELECTRICOS,ETC",5
+5732,SUSCRIPCION A CANALES PRIVADOS          ,9
+5733,"TIENDA DE INSTRUMENTO MUSICALE,PARTITURA",9
+5734,VENTA DE SOFTWARE POR INTERNET          ,9
+5735,TIENDAS DE DISCOS                       ,9
+5811,EMPRESAS DE CATERING                    ,11
+5812,RESTAURANTE RESTO                       ,11
+5813,"CAFETERIAS, SNACKS                      ",11
+5814,RESTAURANTES DE COMIDA RAPIDA           ,11
+5815,BIENES DIGITALES MEDIOS AUDIOVISUALES   ,9
+5816,DIGITAL GOODS-GAMES                     ,9
+5817,DIGITAL GOODS-SOFTWARE APPLICATIONS     ,9
+5818,DIGITAL GOODS-MULTI-CATEGORY            ,9
+5911,"DROGUERIAS, PERFUMERIAS                 ",12
+5912,FARMACIAS,6
+5913,HERBOLARIOS-PL MEDICINALES-PAF          ,6
+5921,"BODEGAS ( CERVEZA,VINO Y LICORES )      ",2
+5931,ESTABLECIMIENTOS DE MERCANCIAS USADAS   ,non-categorizable
+5932,"TIENDAS DE SERVICIO,REPARACION ANTIGUEDA",non-categorizable
+5933,CASAS DE EMPEÑO                         ,non-consumption
+5935,DESGUACES                               ,non-consumption
+5937,ESTABLECIMIENTOS REPRODUCCION ANTIGUEDAD,non-categorizable
+5939,TOYS R US                               ,9
+5940,VENTA Y SERVICIO DE BICICLETAS          ,7
+5941,ESTABLECIMIENTOS DE MATERIAL DEPORTIVO  ,sporting
+5942,"LIBRERIA,PAPELERIA,VENTA DISCO          ",9
+5943,PAPELERIAS Y ARTICULOS DE OFICINA       ,9
+5944,"JOYERIAS,RELOJERIAS,ARTICULOS DE PLATA  ",3
+5945,"TIENDAS DE JUGUETES,PASATIEMPOS Y JUEGOS",9
+5946,OPTICOS,6
+5947,"REGALOS,POSTALES Y SOUVENIRES           ",non-categorizable
+5948,"MALETAS Y ARTICULOS DE PIEL, NO PELETERI",12
+5949,"TIENDAS DE CONFECCION, BORDADOS Y TEJIDO",3
+5950,CRISTALERIA Y ARTICULOS DE CRISTAL      ,5
+5951,BAZARES MAYA                            ,non-categorizable
+5952,CORTEFIEL                               ,3
+5953,LOEWE/LOUIS VUITTON                     ,3
+5955,PRENATAL                                ,3
+5956,VIPS                                    ,11
+5957,C&A                                     ,3
+5958,GENERAL OPTICA                          ,6
+5959,EL CORTE INGLES(CON TERMIN.)            ,supercenter
+5960,PROPAGANDA DIRECTA-SERV. ASEGURADORES   ,12
+5962,SERVICIOS DE PREPARACION DE VIAJES      ,9
+5963,PROPAGANDA VENTA A DOMICILIO            ,non-categorizable
+5964,PROPAGANDA DIRECTA-VENTA POR CATALOGO   ,non-categorizable
+5965,PROPAGANDA DIRECTA-ASOCIACION MINORISTAS,non-categorizable
+5966,PROPAGANDA DIRECTA EXTERNA-TELEMARKETING,non-categorizable
+5967,VENTAS INTERNET-DIGIT.AUDI.VIS          ,non-categorizable
+5968,PROPAGANDA DIRECTA-RENOVACION/SUSCRICION,non-categorizable
+5969,PROPAGANDA DIRECTA-MERCADOS NO CLASIFICA,non-categorizable
+5970,TIENDAS DE MATERIAL ARTISTICO Y ARTESANI,9
+5971,TRATANTES Y GALERIAS DE ARTE            ,9
+5972,FILATELIA Y NUMISMATICA                 ,9
+5973,ARTICULOS RELIGIOSOS                    ,12
+5975,VENTA Y SERVICIO DE PROTESIS AUDITIVAAS ,6
+5976,ORTOPEDIA Y LAMPARAS ARTIFICIALES       ,6
+5977,TIENDAS DE COSMETICOS                   ,12
+5978,SERVICIO Y VENTA DE MAQUINAS ESCRIBIR   ,8
+5983,"DISTIBUCION FUEL,MADERA,CARBON Y PETROLE",4
+5992,FLORES Y PLANTAS                        ,9
+5993,ESTANCOS                                ,2
+5994,DISTRIBUIDORES DE PRENSA Y KIOSCOS      ,9
+5995,VETERINARIA(VTA. CURA ANIMAL.)          ,9
+5996,VENTA Y SUMINISTROS DE PISCINA          ,5
+5997,VENTA Y SERVICIO DE MAQUI.AFEITAR ELECT.,12
+5998,TIENDAS DE CAMPAÑA Y TOLDOS             ,9
+5999,HELADERIA                               ,11
+6010,AGENCIAS BANCARIAS                      ,non-categorizable
+6011,INSTITUCI.FINANCIERAS:CAJEROS AUTOMATICO,non-categorizable
+6012,FINAN. INST. MERCHANDISE/SERVI          ,non-consumption
+6015,DEVOLUCION DE IMPUESTOS -CEE            ,non-consumption
+6051,COMPRA DE CRIPTOMONEDA                  ,non-consumption
+6211,VALORES-CORREDORES BOLSA Y COMERCIANTES ,non-consumption
+6300,"VENTA DE SEGUROS,REASEGUROS Y PRIMAS    ",12
+6310,SEGUROS (COMPAÂ¦IAS DE)                  ,12
+6513,ALQUILER Y VENTA DE BIENES INM          ,non-consumption
+6538,PROVISION DE FONDOS DE MASTER           ,non-consumption
+6540,PROVISION DE FONDOS POI                 ,non-consumption
+7011,CASAS DE HUESPEDES Y MOTELES            ,11
+7012,TIEMPO COMPARTIDO                       ,4
+7013,"HOTELES RESTO, CAMPINGS, BALNEARIOS     ",11
+7014,NH-HOTELES                              ,11
+7015,APARTAM. Y PISOS EN MULTIUSO            ,11
+7032,CAMPAMENTOS JUVENILES DEPORT.Y RECREATIV,11
+7033,CAMPINGS                                ,11
+7210,SERVICIO LAVANDERIA Y LIMPIEZA DE PRENDA,3
+7211,SERVICIO LAVANDERIA DOMESTICO Y COMERCIA,3
+7216,TINTORERIAS Y LAVANDERIAS               ,3
+7217,LIMPIEZA DE ALFOMBRAS Y TAPICERIAS      ,5
+7221,ESTUDIOS FOTOGRAFICOS                   ,9
+7230,TIENDAS DE BELLEZA Y BARBERIAS          ,12
+7231,"PELUQUER., INST. BELLEZA Y GIM          ",12
+7232,MASAJES Y SAUNAS                        ,12
+7251,"REPARACION,LIMPIEZA DE CALZADO Y SOMBRER",3
+7261,FUNERARIAS                              ,12
+7273,REDES SOCIALES DE CONTACTO              ,12
+7276,SERVICIO DE LIQUIDACION DE IMPUESTOS    ,non-consumption
+7277,ASESORAMIENTO MATRIMONIAL Y PERSONAL    ,12
+7278,CLUBS Y SERVICIOS DE COMPRA             ,non-categorizable
+7296,CONFECCIONES                            ,3
+7297,SALONES DE MASAJE                       ,12
+7298,BALNEARIOS DE SALUD Y BELLEZA           ,12
+7299,SERVICIOS PERSONALES SIN CLASIFICAR     ,12
+7311,SERVICIOS DE PUBLICIDAD                 ,12
+7321,AGENCIAS DE INFORMACION AL CONSUMIDOR   ,12
+7333,ARTES GRAFICAS                          ,9
+7338,"COPIA RAPIDA,REPRODUCCIONES E IMPRENTA  ",12
+7339,SERVICIOS TAQUIGRAFICOS Y SECRETARIADO  ,12
+7342,SERVICIOS DE FUMIGACION                 ,12
+7349,"SERVICIOS DE PORTERIA, MANTENIMIENTO,LIM",4
+7361,AGENCIAS DE TRABAJO Y EMPLEO TEMPORAL   ,12
+7372,SERVICIO DE COMPUTACION Y PROCESO DATOS ,12
+7375,INFORMATION RETRIEVAL SERVICES          ,12
+7379,MANTENIMIENTO Y REPA. ORDENA. SIN CLASIF,9
+7392,"SERVICIO DIRECCION, ASESORA. Y RELA.PUBL",12
+7393,"AGENC.DETECTIVES,SEGURIDAD Y GUARD.CANIN",12
+7394,"ALQUILER Y LEASING:HERRAMIE., MOBILI.ETC",5
+7395,LABORATORIOS DE FOTOCONTROL Y REVELADO  ,9
+7399,SERVICIO NEGOCIOS SIN CLASIFICAR        ,non-categorizable
+7512,SERVICIO ALQUILER Y LEASING AUTOMOVILES ,7
+7513,ALQUILER AERONAVES                      ,7
+7519,ALQUILER DE CARAVANAS Y VEHIC. RECREATIV,7
+7523,"GARAJES, PARKINGS Y APARCAMIEN          ",7
+7531,TALLERES DE CHAPA DE VEHICULOS          ,7
+7534,RECAUCHUTADO Y REPARACION DE NEUMATICOS ,7
+7535,TALLERES DE PINTURA DE VEHICULOS        ,7
+7538,TALLERES DE SERVICIO DE VEHICULOS       ,7
+7539,AUTOM Y MOTOC.(VENTA Y T. REP)          ,7
+7542,LAVADO DE COCHES                        ,7
+7549,SERVICIO DE REMOLQUE                    ,7
+7622,TIENDAS DE REPARACION ELECTRONICA       ,9
+7623,REPARACION DE AIRE ACONDICIONADO Y REFRI,5
+7629,APPLIANCEREPAIR SHOPS                   ,5
+7631,REPARACION DE JOYERIA Y RELOJERIA       ,12
+7641,"TAPIZADO,REPARACION, RESTAURA. MOBILIARI",5
+7692,REPARACIONES CON SOLDADURA              ,4
+7699,TIENDAS DE SERVI.Y REPARACI.SIN CLASIFIC,non-categorizable
+7829,PRODUCCION Y DISTRIBUCION PELIC. Y VIDEO,9
+7832,CINEMATOGRAFOS                          ,9
+7841,VIDEOCLUBS                              ,9
+7911,"SALONES,ESTUDIOS Y ESCUELAS DE BAILE    ",9
+7922,PRODUCTORES TEATRALES.VENTA LOCALIDADES ,9
+7929,"BANDAS, ORQUESTAS,ARTISTAS SIN CLASIFICA",9
+7932,BILLARES                                ,9
+7933,BOLERAS                                 ,9
+7941,ESPECTACULOS Y DEPORTES                 ,9
+7987,CASINO MADRID                           ,9
+7988,CASINOS                                 ,9
+7989,CASINO CATALUÑA                         ,9
+7990,ONLAE                                   ,9
+7991,ATRACCIONES TURISTICAS Y EXPOSICIONES   ,9
+7992,"CURSOS DE GOLF, PRACTICA PUBLICA        ",9
+7993,SUMINISTROS DE VIDEOJUEGOS RECREATIVOS  ,9
+7994,SALONES DE VIDEOJUEGOS RECREATIVOS      ,9
+7995,"APUESTAS(LOTERIA,CASINOS,CABALLOS, ETC )",9
+7996,"PARQUE ATRACCIONES ,CIRCO,FERIAS,ADIVINA",9
+7997,"CLUBS DEPORTIVOS, DE CAMPO,CURSO PRIVADO",9
+7998,"ACUARIOS, DELFINARIOS                   ",9
+7999,CLUBS/PUBS/BAR                          ,11
+8011,MEDICOS SIN CLASIFICAR                  ,6
+8021,DENTISTAS I ORTODONCISTAS               ,6
+8031,MEDICOS OSTEOPATAS                      ,6
+8041,QUIROPRACTICOS                          ,6
+8042,OPTOMETRISTAS Y OFTALMOLOGOS            ,6
+8043,"OPTICOS,ARTICULOS DE OPTICA             ",6
+8049,PODOLOGOS Y PEDICUROS                   ,12
+8050,SERVICIO DE ENFERMERIA Y CUIDADO PERSONA,6
+8062,HOSPITALES                              ,6
+8071,LABORATORIOS MEDICOS Y DENTALES         ,6
+8099,SERVICIOS MEDICOS SIN CLASIFICAR        ,6
+8111,SERVICIOS LEGALES Y ABOGADOS            ,12
+8211,ESCUELA ELEMENTAL E INSTITUTOS BACHILLER,10
+8220,"ACADEMIAS,UNIVERSIDADES,FORMACION PROFES",10
+8241,ENSEÑANZA POR CORRESPONDENCIA           ,10
+8244,COLEGIOS ENSEÃ‘ANZA PROF. Y AUTOESCUELAS ,10
+8249,ESCUELAS VOCACIONALES Y COMERCIALES     ,10
+8299,SERVICIOS ESCOLARES Y EDUCA. SIN CLASIFI,10
+8351,SERVICIOS DE CUIDADOS INFANTILES        ,12
+8398,ORGANIZACIONES DE CARIDAD Y S. SOCIALES ,non-consumption
+8411,MUSEOS                                  ,9
+8412,PATRIMONIO NACIONAL                     ,9
+8641,"ASOCIACIONES CIVICAS,SOCIALES Y HERMANDA",non-consumption
+8651,ORGANIZACIONES POLITICAS                ,12
+8661,ORGANIZACIONES RELIGIOSAS               ,12
+8675,ASOCIACIONES DEL AUTOMOVIL              ,12
+8699,ORGANIZACIONES SIN CLASIFICAR           ,non-categorizable
+8734,LABORATORIOS NO MEDICOS                 ,6
+8911,DECORACION Y ARQUITECTURA               ,building
+8931,"CONTABILIDAD,AUDITORIA Y TENEDURIA LIBRO",12
+8999,SERVICIOS PROFESIONALES SIN CLASIFICAR  ,non-categorizable
+9222,MULTAS                                  ,non-consumption
+9223,PAGO FIANZAS Y DEPOSITOS                ,non-consumption
+9311,PAGO DE IMPUESTOS                       ,non-consumption
+9399,SERVICIOS GUBERNAMENTALES SIN CLASIFICAR,non-consumption
+9402,SERVICIOS POSTALES SOLO DEL ESTADO      ,8
+9405,INTRA-GOVERNMENT                        ,non-consumption
+9406,LOTERIAS PROPIEDAD DE GOBIERNO          ,9
+9990,OPERACIONES BBVA                        ,non-consumption
+9999,ESTABLECIMIENTOS NO CLASIFICAD          ,non-categorizable
