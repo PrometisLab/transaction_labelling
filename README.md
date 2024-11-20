@@ -6,6 +6,11 @@ A comprehensive toolkit for mapping various industry and classification codes to
 
 This project is currently in the development phase. All mappings are still being validated and may be subject to change. Everything is provided as is and no guarantees are made about the accuracy or completeness of the mappings.
 
+###TODO:
+- Income labels for retail need to be mapped upon Canberra Group Handbook income classifications.
+- All labels should eventually be consistent and mappeable to SNA standards.
+- Multi-organisational validation of the mappings, ideally through a standardised method.
+
 ## Overview
 
 This project provides mapping tables and tools to convert different types of industry and classification codes into standardized economic utilities as defined by international standards, including:
@@ -30,13 +35,11 @@ The primary goals of this project are to:
 - ISIC (International Standard Industrial Classification)
 - NAICS (North American Industry Classification System)
 - Custom merchant category codes (MCCs)
-- [Add other relevant classification systems]
 
 ### Output Standards
 - SNA (System of National Accounts)
 - COICOP (Classification of Individual Consumption According to Purpose)
 - Canberra Group Handbook income classifications
-- [Add other relevant standards]
 
 ## Project Structure
 The project is organized per classification system. In each folder, you will find the collected documentation and codes. If available, mappings from the literature are also provided. 
