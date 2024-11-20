@@ -1,0 +1,1888 @@
+;Code;Parent code level 1;Parent code;Level nr;Prometis_label_D_retail;Prometis_label_D_corp;Label NL
+0;01.0;A;A;2.0;GROCERIES;EXPENSES - GOODS;Teelt van gewassen, veeteelt, jacht en diensten in verband met deze activiteiten
+66;011.0;A;1;3.0;GROCERIES;EXPENSES - GOODS;Teelt van eenjarige gewassen
+330;0111.0;A;11;;GROCERIES;EXPENSES - GOODS;Teelt van granen (m.u.v. rijst), peulgewassen en oliehoudende zaden
+944;01110.0;A;111;;GROCERIES;EXPENSES - GOODS;Teelt van granen (m.u.v. rijst), peulgewassen en oliehoudende zaden
+331;0112.0;A;11;;GROCERIES;EXPENSES - GOODS;Teelt van rijst
+945;01120.0;A;112;;GROCERIES;EXPENSES - GOODS;Teelt van rijst
+332;0113.0;A;11;;GROCERIES;EXPENSES - GOODS;Teelt van groenten, meloenen en wortel- en knolgewassen
+946;01130.0;A;113;;GROCERIES;EXPENSES - GOODS;Teelt van groenten, meloenen en wortel- en knolgewassen
+333;0114.0;A;11;;GROCERIES;EXPENSES - GOODS;Teelt van suikerriet
+947;01140.0;A;114;;GROCERIES;EXPENSES - GOODS;Teelt van suikerriet
+334;0115.0;A;11;;GROCERIES;EXPENSES - GOODS;Teelt van tabak
+948;01150.0;A;115;;GROCERIES;EXPENSES - GOODS;Teelt van tabak
+335;0116.0;A;11;;GROCERIES;EXPENSES - GOODS;Teelt van vezelgewassen
+949;01160.0;A;116;;GROCERIES;EXPENSES - GOODS;Teelt van vezelgewassen
+336;0119.0;A;11;;GROCERIES;EXPENSES - GOODS;Teelt van andere eenjarige gewassen
+950;01191.0;A;119;;GROCERIES;EXPENSES - GOODS;Teelt van bloemen
+951;01199.0;A;119;;GROCERIES;EXPENSES - GOODS;Teelt van andere eenjarige gewassen, n.e.g.
+67;012.0;A;1;3.0;GROCERIES;EXPENSES - GOODS;Teelt van meerjarige gewassen
+337;0121.0;A;12;;GROCERIES;EXPENSES - GOODS;Teelt van druiven
+952;01210.0;A;121;;GROCERIES;EXPENSES - GOODS;Teelt van druiven
+338;0122.0;A;12;;GROCERIES;EXPENSES - GOODS;Teelt van tropisch en subtropisch fruit
+953;01220.0;A;122;;GROCERIES;EXPENSES - GOODS;Teelt van tropisch en subtropisch fruit
+339;0123.0;A;12;;GROCERIES;EXPENSES - GOODS;Teelt van citrusvruchten
+954;01230.0;A;123;;GROCERIES;EXPENSES - GOODS;Teelt van citrusvruchten
+340;0124.0;A;12;;GROCERIES;EXPENSES - GOODS;Teelt van pit- en steenvruchten
+955;01240.0;A;124;;GROCERIES;EXPENSES - GOODS;Teelt van pit- en steenvruchten
+341;0125.0;A;12;;GROCERIES;EXPENSES - GOODS;Teelt van andere boomvruchten, kleinfruit en noten
+956;01250.0;A;125;;GROCERIES;EXPENSES - GOODS;Teelt van andere boomvruchten, kleinfruit en noten
+342;0126.0;A;12;;GROCERIES;EXPENSES - GOODS;Teelt van oliehoudende vruchten
+957;01260.0;A;126;;GROCERIES;EXPENSES - GOODS;Teelt van oliehoudende vruchten
+343;0127.0;A;12;;GROCERIES;EXPENSES - GOODS;Teelt van gewassen bestemd voor de vervaardiging van dranken
+958;01270.0;A;127;;GROCERIES;EXPENSES - GOODS;Teelt van gewassen bestemd voor de vervaardiging van dranken
+344;0128.0;A;12;;GROCERIES;EXPENSES - GOODS;Teelt van specerijgewassen en van aromatische en medicinale gewassen
+959;01280.0;A;128;;GROCERIES;EXPENSES - GOODS;Teelt van specerijgewassen en van aromatische en medicinale gewassen
+345;0129.0;A;12;;GROCERIES;EXPENSES - GOODS;Teelt van andere meerjarige gewassen
+960;01290.0;A;129;;GROCERIES;EXPENSES - GOODS;Teelt van andere meerjarige gewassen
+68;013.0;A;1;3.0;GARDEN PRODUCTS AND PETS;OTHER SERVICES;Plantenvermeerdering
+346;0130.0;A;13;;GARDEN PRODUCTS AND PETS;OTHER SERVICES;Plantenvermeerdering
+961;01301.0;A;130;;GARDEN PRODUCTS AND PETS;OTHER SERVICES;Boomkwekerijen, m.u.v. bosboomkwekerijen
+962;01309.0;A;130;;GARDEN PRODUCTS AND PETS;OTHER SERVICES;Overige plantenvermeerdering
+69;014.0;A;1;3.0;GROCERIES;EXPENSES - GOODS;Veeteelt
+347;0141.0;A;14;4.0;GROCERIES;EXPENSE - GOODS;Fokken van melkvee
+963;01410.0;A;141;;GROCERIES;EXPENSE - GOODS;Fokken van melkvee
+348;0142.0;A;14;4.0;GROCERIES;EXPENSE - GOODS;Fokken van andere runderen en buffels
+964;01420.0;A;142;;GROCERIES;EXPENSE - GOODS;Fokken van andere runderen en buffels
+349;0143.0;A;14;4.0;GROCERIES;EXPENSE - GOODS;Fokken van paarden en andere paardachtigen
+965;01430.0;A;143;;GROCERIES;EXPENSE - GOODS;Fokken van paarden en andere paardachtigen
+350;0144.0;A;14;4.0;GROCERIES;EXPENSE - GOODS;Fokken van kamelen en andere kameelachtigen
+966;01440.0;A;144;;GROCERIES;EXPENSE - GOODS;Fokken van kamelen en andere kameelachtigen
+351;0145.0;A;14;4.0;GROCERIES;EXPENSE - GOODS;Fokken van schapen en geiten
+967;01450.0;A;145;;GROCERIES;EXPENSE - GOODS;Fokken van schapen en geiten
+352;0146.0;A;14;4.0;GROCERIES;EXPENSE - GOODS;Fokken van varkens
+968;01461.0;A;146;5.0;GROCERIES;EXPENSE - GOODS;Fokvarkenshouderijen
+969;01462.0;A;146;5.0;GROCERIES;EXPENSE - GOODS;Varkensvetmesterijen
+353;0147.0;A;14;4.0;GROCERIES;EXPENSE - GOODS;Fokken van pluimvee
+970;01471.0;A;147;5.0;GROCERIES;EXPENSE - GOODS;Kippenkwekerijen
+971;01472.0;A;147;5.0;GROCERIES;EXPENSE - GOODS;Productie van eieren van pluimvee
+972;01479.0;A;147;5.0;GROCERIES;EXPENSE - GOODS;Pluimveehouderijen, m.u.v. kippenkwekerijen
+354;0149.0;A;14;4.0;GROCERIES;EXPENSE - GOODS;Fokken van andere dieren
+973;01490.0;A;149;;GROCERIES;EXPENSE - GOODS;Fokken van andere dieren
+70;015.0;A;1;3.0;GROCERIES;EXPENSES - GOODS;Gemengd bedrijf
+355;0150.0;A;15;;GROCERIES;EXPENSES - GOODS;Gemengd bedrijf
+974;01500.0;A;150;;GROCERIES;EXPENSES - GOODS;Gemengd bedrijf
+71;016.0;A;1;3.0;OTHER SERVICES;OTHER SERVICES;Ondersteunende activiteiten in verband met de landbouw
+356;0161.0;A;16;4.0;OTHER SERVICES;OTHER SERVICES;Ondersteunende activiteiten in verband met de teelt van gewassen
+975;01610.0;A;161;5.0;OTHER SERVICES;OTHER SERVICES;Ondersteunende activiteiten in verband met de teelt van gewassen
+357;0162.0;A;16;4.0;OTHER SERVICES;OTHER SERVICES;Ondersteunende activiteiten in verband met de veeteelt
+976;01620.0;A;162;5.0;OTHER SERVICES;OTHER SERVICES;Ondersteunende activiteiten in verband met de veeteelt
+358;0163.0;A;16;4.0;OTHER SERVICES;OTHER SERVICES;Activiteiten met betrekking tot gewassen na de oogst
+977;01630.0;A;163;5.0;OTHER SERVICES;OTHER SERVICES;Activiteiten met betrekking tot gewassen na de oogst
+359;0164.0;A;16;4.0;OTHER SERVICES;OTHER SERVICES;Zaadbewerking met het oog op vermeerdering
+978;01640.0;A;164;;OTHER SERVICES;OTHER SERVICES;Zaadbewerking met het oog op vermeerdering
+72;017.0;A;1;3.0;OTHER SERVICES;OTHER SERVICES;Jacht, zetten van vallen en diensten in verband met deze activiteiten
+360;0170.0;A;17;;OTHER SERVICES;OTHER SERVICES;Jacht, zetten van vallen en diensten in verband met deze activiteiten
+979;01700.0;A;170;;OTHER SERVICES;OTHER SERVICES;Jacht, zetten van vallen en diensten in verband met deze activiteiten
+73;021.0;A;2;3.0;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Bosbouw
+361;0210.0;A;21;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Bosbouw
+980;02100.0;A;210;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Bosbouw
+74;022.0;A;2;3.0;UTILITIES - SOLID FUELS;EXPENSES - GOODS;Exploitatie van bossen
+362;0220.0;A;22;;UTILITIES - SOLID FUELS;EXPENSES - GOODS;Exploitatie van bossen
+981;02200.0;A;220;;UTILITIES - SOLID FUELS;EXPENSES - GOODS;Exploitatie van bossen
+75;023.0;A;2;3.0;GROCERIES;EXPENSES - GOODS;Verzamelen van in het wild groeiende producten met uitzondering van hout
+363;0230.0;A;23;;GROCERIES;EXPENSES - GOODS;Verzamelen van in het wild groeiende producten met uitzondering van hout
+982;02300.0;A;230;;GROCERIES;EXPENSES - GOODS;Verzamelen van in het wild groeiende producten met uitzondering van hout
+76;024.0;A;2;3.0;OTHER SERVICES;OTHER SERVICES;Ondersteunende diensten in verband met de bosbouw
+364;0240.0;A;24;;OTHER SERVICES;OTHER SERVICES;Ondersteunende diensten in verband met de bosbouw
+983;02400.0;A;240;;OTHER SERVICES;OTHER SERVICES;Ondersteunende diensten in verband met de bosbouw
+77;031.0;A;3;3.0;GROCERIES;EXPENSES - GOODS;Visserij
+365;0311.0;A;31;;GROCERIES;EXPENSES - GOODS;Zeevisserij
+984;03110.0;A;311;;GROCERIES;EXPENSES - GOODS;Zeevisserij
+366;0312.0;A;31;;GROCERIES;EXPENSES - GOODS;Binnenvisserij
+985;03120.0;A;312;;GROCERIES;EXPENSES - GOODS;Binnenvisserij
+78;032.0;A;3;3.0;GROCERIES;EXPENSES - GOODS;Aquacultuur
+367;0321.0;A;32;4.0;GROCERIES;EXPENSES - GOODS;Mariene aquacultuur
+986;03210.0;A;321;;GROCERIES;EXPENSES - GOODS;Mariene aquacultuur
+368;0322.0;A;32;4.0;GROCERIES;EXPENSES - GOODS;Aquacultuur in zoet water
+987;03220.0;A;322;;GROCERIES;EXPENSES - GOODS;Aquacultuur in zoet water
+1;05.0;B;B;2.0;;EXPENSES - GOODS;Winning van steenkool en bruinkool
+79;051.0;B;5;;;EXPENSES - GOODS;Winning van steenkool
+369;0510.0;B;51;;;EXPENSES - GOODS;Winning van steenkool
+988;05100.0;B;510;;;EXPENSES - GOODS;Winning van steenkool
+80;052.0;B;5;;;EXPENSES - GOODS;Winning van bruinkool
+370;0520.0;B;52;;;EXPENSES - GOODS;Winning van bruinkool
+989;05200.0;B;520;;;EXPENSES - GOODS;Winning van bruinkool
+2;06.0;B;B;2.0;;EXPENSES - GOODS;Winning van aardolie en aardgas
+81;061.0;B;6;3.0;;EXPENSES - GOODS;Winning van aardolie
+371;0610.0;B;61;;;EXPENSES - GOODS;Winning van aardolie
+990;06100.0;B;610;;;EXPENSES - GOODS;Winning van aardolie
+82;062.0;B;6;3.0;;EXPENSES - GOODS;Winning van aardgas
+372;0620.0;B;62;;;EXPENSES - GOODS;Winning van aardgas
+991;06200.0;B;620;;;EXPENSES - GOODS;Winning van aardgas
+3;07.0;B;B;2.0;;EXPENSES - GOODS;Winning van metaalertsen
+83;071.0;B;7;;;EXPENSES - GOODS;Winning van ijzererts
+373;0710.0;B;71;;;EXPENSES - GOODS;Winning van ijzererts
+992;07100.0;B;710;;;EXPENSES - GOODS;Winning van ijzererts
+84;072.0;B;7;;;EXPENSES - GOODS;Winning van non-ferrometaalertsen
+374;0721.0;B;72;;;EXPENSES - GOODS;Winning van uranium- en thoriumerts
+993;07210.0;B;721;;;EXPENSES - GOODS;Winning van uranium- en thoriumerts
+375;0729.0;B;72;;;EXPENSES - GOODS;Winning van andere non-ferrometaalertsen
+994;07290.0;B;729;;;EXPENSES - GOODS;Winning van andere non-ferrometaalertsen
+4;08.0;B;B;2.0;;EXPENSES - GOODS;Overige winning van delfstoffen
+85;081.0;B;8;;;EXPENSES - GOODS;Winning van steen, zand en klei
+376;0811.0;B;81;;;EXPENSES - GOODS;Winning van bouw- en siersteen, kalksteen, gips, krijt en leisteen
+995;08111.0;B;811;;;EXPENSES - GOODS;Winning van bouw- en siersteen
+996;08112.0;B;811;;;EXPENSES - GOODS;Winning van kalksteen, gips, krijt en leisteen
+377;0812.0;B;81;;;EXPENSES - GOODS;Winning van grind, zand, klei en kaolien
+997;08121.0;B;812;;;EXPENSES - GOODS;Winning van grind
+998;08122.0;B;812;;;EXPENSES - GOODS;Winning van zand
+999;08123.0;B;812;;;EXPENSES - GOODS;Winning van klei en kaolien
+86;089.0;B;8;;;EXPENSES - GOODS;Winning van delfstoffen, n.e.g.
+378;0891.0;B;89;;;EXPENSES - GOODS;Winning van mineralen voor de chemische en de kunstmestindustrie
+1000;08910.0;B;891;;;EXPENSES - GOODS;Winning van mineralen voor de chemische en de kunstmestindustrie
+379;0892.0;B;89;;;EXPENSES - GOODS;Winning van turf
+1001;08920.0;B;892;;;EXPENSES - GOODS;Winning van turf
+380;0893.0;B;89;;;EXPENSES - GOODS;Zoutwinning
+1002;08930.0;B;893;;;EXPENSES - GOODS;Zoutwinning
+381;0899.0;B;89;;;EXPENSES - GOODS;Overige winning van delfstoffen, n.e.g.
+1003;08990.0;B;899;;;EXPENSES - GOODS;Overige winning van delfstoffen, n.e.g.
+5;09.0;B;B;2.0;OTHER SERVICES;OTHER SERVICES;Ondersteunende activiteiten in verband met de mijnbouw
+87;091.0;B;9;;OTHER SERVICES;OTHER SERVICES;Ondersteunende activiteiten in verband met de aardolie- en aardgaswinning
+382;0910.0;B;91;;OTHER SERVICES;OTHER SERVICES;Ondersteunende activiteiten in verband met de aardolie- en aardgaswinning
+1004;09100.0;B;910;;OTHER SERVICES;OTHER SERVICES;Ondersteunende activiteiten in verband met de aardolie- en aardgaswinning
+88;099.0;B;9;;OTHER SERVICES;OTHER SERVICES;Ondersteunende activiteiten in verband met de overige winning van delfstoffen
+383;0990.0;B;99;;OTHER SERVICES;OTHER SERVICES;Ondersteunende activiteiten in verband met de overige winning van delfstoffen
+1005;09900.0;B;990;;OTHER SERVICES;OTHER SERVICES;Ondersteunende activiteiten in verband met de overige winning van delfstoffen
+89;101.0;C;10;3.0;GROCERIES;EXPENSES - GOODS;Verwerking en conservering van vlees en vervaardiging van vleesproducten
+384;1011.0;C;101;;GROCERIES;EXPENSES - GOODS;Verwerking en conservering van vlees, exclusief vlees van gevogelte
+1006;10110.0;C;1011;;GROCERIES;EXPENSES - GOODS;Verwerking en conservering van vlees, exclusief vlees van gevogelte
+385;1012.0;C;101;;GROCERIES;EXPENSES - GOODS;Verwerking en conservering van gevogelte
+1007;10120.0;C;1012;;GROCERIES;EXPENSES - GOODS;Verwerking en conservering van gevogelte
+386;1013.0;C;101;;GROCERIES;EXPENSES - GOODS;Vervaardiging van producten van vlees of van vlees van gevogelte
+1008;10130.0;C;1013;;GROCERIES;EXPENSES - GOODS;Vervaardiging van producten van vlees of van vlees van gevogelte
+90;102.0;C;10;3.0;GROCERIES;EXPENSES - GOODS;Verwerking en conservering van vis en van schaal- en weekdieren
+387;1020.0;C;102;;GROCERIES;EXPENSES - GOODS;Verwerking en conservering van vis en van schaal- en weekdieren
+1009;10200.0;C;1020;;GROCERIES;EXPENSES - GOODS;Verwerking en conservering van vis en van schaal- en weekdieren
+91;103.0;C;10;3.0;GROCERIES;EXPENSES - GOODS;Verwerking en conservering van groenten en fruit
+388;1031.0;C;103;;GROCERIES;EXPENSES - GOODS;Verwerking en conservering van aardappelen
+1010;10311.0;C;1031;;GROCERIES;EXPENSES - GOODS;Verwerking en conservering van aardappelen, exclusief productie van diepgevroren aardappelbereidingen
+1011;10312.0;C;1031;;GROCERIES;EXPENSES - GOODS;Productie van diepgevroren aardappelbereidingen
+389;1032.0;C;103;;GROCERIES;EXPENSES - GOODS;Vervaardiging van groente- en fruitsappen
+1012;10320.0;C;1032;;GROCERIES;EXPENSES - GOODS;Vervaardiging van groente- en fruitsappen
+390;1039.0;C;103;;GROCERIES;EXPENSES - GOODS;Overige verwerking en conservering van groenten en fruit
+1013;10391.0;C;1039;;GROCERIES;EXPENSES - GOODS;Verwerking en conservering van groenten, exclusief productie van diepgevroren groenten
+1014;10392.0;C;1039;;GROCERIES;EXPENSES - GOODS;Verwerking en conservering van fruit, exclusief productie van diepgevroren fruit
+1015;10393.0;C;1039;;GROCERIES;EXPENSES - GOODS;Productie van diepgevroren groenten en fruit
+92;104.0;C;10;3.0;GROCERIES;EXPENSES - GOODS;Vervaardiging van plantaardige en dierlijke oliën en vetten
+391;1041.0;C;104;;GROCERIES;EXPENSES - GOODS;Vervaardiging van oliën en vetten
+1016;10410.0;C;1041;;GROCERIES;EXPENSES - GOODS;Vervaardiging van oliën en vetten
+392;1042.0;C;104;;GROCERIES;EXPENSES - GOODS;Vervaardiging van margarine en andere spijsvetten
+1017;10420.0;C;1042;;GROCERIES;EXPENSES - GOODS;Vervaardiging van margarine en andere spijsvetten
+93;105.0;C;10;3.0;GROCERIES;EXPENSES - GOODS;Vervaardiging van zuivelproducten
+393;1051.0;C;105;;GROCERIES;EXPENSES - GOODS;Zuivelfabrieken en kaasmakerijen
+1018;10510.0;C;1051;;GROCERIES;EXPENSES - GOODS;Zuivelfabrieken en kaasmakerijen
+394;1052.0;C;105;;GROCERIES;EXPENSES - GOODS;Vervaardiging van consumptie-ijs
+1019;10520.0;C;1052;;GROCERIES;EXPENSES - GOODS;Vervaardiging van consumptie-ijs
+94;106.0;C;10;3.0;GROCERIES;EXPENSES - GOODS;Vervaardiging van maalderijproducten, zetmeel en zetmeelproducten
+395;1061.0;C;106;;GROCERIES;EXPENSES - GOODS;Vervaardiging van maalderijproducten
+1020;10610.0;C;1061;;GROCERIES;EXPENSES - GOODS;Vervaardiging van maalderijproducten
+396;1062.0;C;106;;GROCERIES;EXPENSES - GOODS;Vervaardiging van zetmeel en zetmeelproducten
+1021;10620.0;C;1062;;GROCERIES;EXPENSES - GOODS;Vervaardiging van zetmeel en zetmeelproducten
+95;107.0;C;10;3.0;GROCERIES;EXPENSES - GOODS;Vervaardiging van bakkerijproducten en deegwaren
+397;1071.0;C;107;;GROCERIES;EXPENSES - GOODS;Vervaardiging van brood en van vers banketbakkerswerk
+1022;10711.0;C;1071;;GROCERIES;EXPENSES - GOODS;Industriële vervaardiging van brood en van vers banketbakkerswerk
+1023;10712.0;C;1071;;GROCERIES;EXPENSES - GOODS;Ambachtelijke vervaardiging van brood en van vers banketbakkerswerk
+398;1072.0;C;107;;GROCERIES;EXPENSES - GOODS;Vervaardiging van beschuit en biscuit en van ander houdbaar banketbakkerswerk
+1024;10720.0;C;1072;;GROCERIES;EXPENSES - GOODS;Vervaardiging van beschuit en biscuit en van ander houdbaar banketbakkerswerk
+399;1073.0;C;107;;GROCERIES;EXPENSES - GOODS;Vervaardiging van macaroni, noedels, koeskoes en dergelijke deegwaren
+1025;10730.0;C;1073;;GROCERIES;EXPENSES - GOODS;Vervaardiging van macaroni, noedels, koeskoes en dergelijke deegwaren
+96;108.0;C;10;3.0;GROCERIES;EXPENSES - GOODS;Vervaardiging van andere voedingsmiddelen
+400;1081.0;C;108;;GROCERIES;EXPENSES - GOODS;Vervaardiging van suiker
+1026;10810.0;C;1081;;GROCERIES;EXPENSES - GOODS;Vervaardiging van suiker
+401;1082.0;C;108;;GROCERIES;EXPENSES - GOODS;Vervaardiging van cacao, chocolade en suikerwerk
+1027;10820.0;C;1082;;GROCERIES;EXPENSES - GOODS;Vervaardiging van cacao, chocolade en suikerwerk
+402;1083.0;C;108;;GROCERIES;EXPENSES - GOODS;Verwerking van thee en koffie
+1028;10830.0;C;1083;;GROCERIES;EXPENSES - GOODS;Verwerking van thee en koffie
+403;1084.0;C;108;;GROCERIES;EXPENSES - GOODS;Vervaardiging van specerijen, sauzen en kruiderijen
+1029;10840.0;C;1084;;GROCERIES;EXPENSES - GOODS;Vervaardiging van specerijen, sauzen en kruiderijen
+404;1085.0;C;108;;GROCERIES;EXPENSES - GOODS;Vervaardiging van bereide maaltijden en schotels
+1030;10850.0;C;1085;;GROCERIES;EXPENSES - GOODS;Vervaardiging van bereide maaltijden en schotels
+405;1086.0;C;108;;GROCERIES;EXPENSES - GOODS;Vervaardiging van gehomogeniseerde voedingspreparaten en dieetvoeding
+1031;10860.0;C;1086;;GROCERIES;EXPENSES - GOODS;Vervaardiging van gehomogeniseerde voedingspreparaten en dieetvoeding
+406;1089.0;C;108;;GROCERIES;EXPENSES - GOODS;Vervaardiging van andere voedingsmiddelen, n.e.g.
+1032;10890.0;C;1089;;GROCERIES;EXPENSES - GOODS;Vervaardiging van andere voedingsmiddelen, n.e.g.
+97;109.0;C;10;3.0;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Vervaardiging van diervoeders
+407;1091.0;C;109;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Vervaardiging van veevoeders
+1033;10910.0;C;1091;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Vervaardiging van veevoeders
+408;1092.0;C;109;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Vervaardiging van voeders voor huisdieren
+1034;10920.0;C;1092;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Vervaardiging van voeders voor huisdieren
+98;110.0;C;11;;;;Vervaardiging van dranken
+409;1101.0;C;110;4.0;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Vervaardiging van gedistilleerde dranken door distilleren, rectificeren en mengen
+1035;11010.0;C;1101;;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Vervaardiging van gedistilleerde dranken door distilleren, rectificeren en mengen
+410;1102.0;C;110;4.0;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Vervaardiging van wijn uit druiven
+1036;11020.0;C;1102;;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Vervaardiging van wijn uit druiven
+411;1103.0;C;110;4.0;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Vervaardiging van cider en van andere vruchtenwijnen
+1037;11030.0;C;1103;;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Vervaardiging van cider en van andere vruchtenwijnen
+412;1104.0;C;110;4.0;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Vervaardiging van andere niet-gedistilleerde gegiste dranken
+1038;11040.0;C;1104;;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Vervaardiging van andere niet-gedistilleerde gegiste dranken
+413;1105.0;C;110;4.0;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Vervaardiging van bier
+1039;11050.0;C;1105;;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Vervaardiging van bier
+414;1106.0;C;110;4.0;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Vervaardiging van mout
+1040;11060.0;C;1106;;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Vervaardiging van mout
+415;1107.0;C;110;4.0;GROCERIES;EXPENSES - GOODS;Vervaardiging van frisdranken
+1041;11070.0;C;1107;;GROCERIES;EXPENSES - GOODS;Vervaardiging van frisdranken
+6;12.0;C;C;2.0;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Vervaardiging van tabaksproducten
+99;120.0;C;12;;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Vervaardiging van tabaksproducten
+416;1200.0;C;120;;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Vervaardiging van tabaksproducten
+1042;12000.0;C;1200;;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Vervaardiging van tabaksproducten
+7;13.0;C;C;2.0;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Vervaardiging van textiel
+100;131.0;C;13;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Bewerken en spinnen van textielvezels
+417;1310.0;C;131;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Bewerken en spinnen van textielvezels
+1043;13100.0;C;1310;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Bewerken en spinnen van textielvezels
+101;132.0;C;13;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Weven van textiel
+418;1320.0;C;132;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Weven van textiel
+1044;13200.0;C;1320;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Weven van textiel
+102;133.0;C;13;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Textielveredeling
+419;1330.0;C;133;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Textielveredeling
+1045;13300.0;C;1330;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Textielveredeling
+103;139.0;C;13;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Vervaardiging van andere textielproducten
+420;1391.0;C;139;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Vervaardiging van gebreide en gehaakte stoffen
+1046;13910.0;C;1391;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Vervaardiging van gebreide en gehaakte stoffen
+421;1392.0;C;139;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Vervaardiging van geconfectioneerde artikelen van textiel, exclusief kleding
+1047;13921.0;C;1392;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Vervaardiging van beddengoed, tafellinnen en textielwaren voor huishoudelijk gebruik
+1048;13929.0;C;1392;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Vervaardiging van overige geconfectioneerde artikelen van textiel, m.u.v. kleding
+422;1393.0;C;139;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Vervaardiging van vloerkleden en tapijt
+1049;13930.0;C;1393;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Vervaardiging van vloerkleden en tapijt
+423;1394.0;C;139;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Vervaardiging van koord, bindgaren, touw en netten
+1050;13940.0;C;1394;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Vervaardiging van koord, bindgaren, touw en netten
+424;1395.0;C;139;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Vervaardiging van gebonden textielvlies en van artikelen van gebonden textielvlies, exclusief kleding
+1051;13950.0;C;1395;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Vervaardiging van gebonden textielvlies en van artikelen van gebonden textielvlies, exclusief kleding
+425;1396.0;C;139;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Vervaardiging van ander technisch en industrieel textiel
+1052;13960.0;C;1396;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Vervaardiging van ander technisch en industrieel textiel
+426;1399.0;C;139;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Vervaardiging van andere textielproducten, n.e.g.
+1053;13990.0;C;1399;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Vervaardiging van andere textielproducten, n.e.g.
+8;14.0;C;C;2.0;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van kleding
+104;141.0;C;14;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van kleding, exclusief bontkleding
+427;1411.0;C;141;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van kleding van leer
+1054;14110.0;C;1411;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van kleding van leer
+428;1412.0;C;141;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van werkkleding
+1055;14120.0;C;1412;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van werkkleding
+429;1413.0;C;141;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van andere bovenkleding
+1056;14130.0;C;1413;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van andere bovenkleding
+430;1414.0;C;141;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van onderkleding
+1057;14140.0;C;1414;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van onderkleding
+431;1419.0;C;141;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van andere kleding en toebehoren
+1058;14191.0;C;1419;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van hoeden en petten
+1059;14199.0;C;1419;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van andere kleding en toebehoren, n.e.g.
+105;142.0;C;14;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van artikelen van bont
+432;1420.0;C;142;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van artikelen van bont
+1060;14200.0;C;1420;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van artikelen van bont
+106;143.0;C;14;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van gebreide en gehaakte kleding
+433;1431.0;C;143;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van gebreide en gehaakte kousen en sokken
+1061;14310.0;C;1431;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van gebreide en gehaakte kousen en sokken
+434;1439.0;C;143;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van andere gebreide en gehaakte kleding
+1062;14390.0;C;1439;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van andere gebreide en gehaakte kleding
+107;151.0;C;15;3.0;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Looien en bewerken van leer
+435;1511.0;C;151;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Looien en bereiden van leer
+1063;15110.0;C;1511;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Looien en bereiden van leer
+436;1512.0;C;151;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van koffers, tassen en dergelijke en van zadel- en tuigmakerswerk
+1064;15120.0;C;1512;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van koffers, tassen en dergelijke en van zadel- en tuigmakerswerk
+108;152.0;C;15;3.0;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van schoeisel
+437;1520.0;C;152;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van schoeisel
+1065;15200.0;C;1520;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Vervaardiging van schoeisel
+109;161.0;C;16;3.0;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Zagen en schaven van hout
+438;1610.0;C;161;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Zagen en schaven van hout
+1066;16100.0;C;1610;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Zagen en schaven van hout
+110;162.0;C;16;3.0;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Vervaardiging van artikelen van hout, kurk, riet of vlechtwerk
+439;1621.0;C;162;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Vervaardiging van fineer en van panelen op basis van hout
+1067;16210.0;C;1621;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Vervaardiging van fineer en van panelen op basis van hout
+440;1622.0;C;162;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Vervaardiging van geassembleerde parketvloeren
+1068;16220.0;C;1622;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Vervaardiging van geassembleerde parketvloeren
+441;1623.0;C;162;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Vervaardiging van ander schrijn- en timmerwerk
+1069;16230.0;C;1623;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Vervaardiging van ander schrijn- en timmerwerk
+442;1624.0;C;162;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Vervaardiging van houten emballage
+1070;16240.0;C;1624;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Vervaardiging van houten emballage
+443;1629.0;C;162;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Vervaardiging van andere artikelen van hout
+1071;16291.0;C;1629;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Vervaardiging van andere artikelen van hout
+1072;16292.0;C;1629;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Vervaardiging van artikelen van kurk, riet of vlechtwerk
+111;171.0;C;17;;;;Vervaardiging van papierpulp, papier en karton
+444;1711.0;C;171;4.0;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Vervaardiging van papierpulp
+1073;17110.0;C;1711;;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Vervaardiging van papierpulp
+445;1712.0;C;171;4.0;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Vervaardiging van papier en karton
+1074;17120.0;C;1712;;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Vervaardiging van papier en karton
+112;172.0;C;17;;;;Vervaardiging van artikelen van papier of karton
+446;1721.0;C;172;4.0;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Vervaardiging van gegolfd papier en golfkarton en van verpakkingsmateriaal van papier en karton
+1075;17210.0;C;1721;;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Vervaardiging van gegolfd papier en golfkarton en van verpakkingsmateriaal van papier en karton
+447;1722.0;C;172;4.0;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Vervaardiging van huishoudelijke en sanitaire papierwaren
+1076;17220.0;C;1722;;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Vervaardiging van huishoudelijke en sanitaire papierwaren
+448;1723.0;C;172;4.0;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Vervaardiging van kantoorbenodigdheden van papier
+1077;17230.0;C;1723;;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Vervaardiging van kantoorbenodigdheden van papier
+449;1724.0;C;172;4.0;SECURITY EQUIPMENT AND MATERIALS FOR THE MAINTENANCE AND REPAIR OF THE DWELLING;EXPENSES - GOODS;Vervaardiging van behangpapier
+1078;17240.0;C;1724;;SECURITY EQUIPMENT AND MATERIALS FOR THE MAINTENANCE AND REPAIR OF THE DWELLING;EXPENSES - GOODS;Vervaardiging van behangpapier
+450;1729.0;C;172;4.0;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Vervaardiging van andere artikelen van papier of karton
+1079;17290.0;C;1729;;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Vervaardiging van andere artikelen van papier of karton
+9;18.0;C;C;2.0;OTHER SERVICES;OTHER SERVICES;Drukkerijen, reproductie van opgenomen media
+113;181.0;C;18;;OTHER SERVICES;OTHER SERVICES;Drukkerijen en diensten in verband met drukkerijen
+451;1811.0;C;181;;OTHER SERVICES;OTHER SERVICES;Krantendrukkerijen
+1080;18110.0;C;1811;;OTHER SERVICES;OTHER SERVICES;Krantendrukkerijen
+452;1812.0;C;181;;OTHER SERVICES;OTHER SERVICES;Overige drukkerijen
+1081;18120.0;C;1812;;OTHER SERVICES;OTHER SERVICES;Overige drukkerijen
+453;1813.0;C;181;;OTHER SERVICES;OTHER SERVICES;Prepress- en premediadiensten
+1082;18130.0;C;1813;;OTHER SERVICES;OTHER SERVICES;Prepress- en premediadiensten
+454;1814.0;C;181;;OTHER SERVICES;OTHER SERVICES;Binderijen en aanverwante diensten
+1083;18140.0;C;1814;;OTHER SERVICES;OTHER SERVICES;Binderijen en aanverwante diensten
+114;182.0;C;18;;OTHER SERVICES;OTHER SERVICES;Reproductie van opgenomen media
+455;1820.0;C;182;;OTHER SERVICES;OTHER SERVICES;Reproductie van opgenomen media
+1084;18200.0;C;1820;;OTHER SERVICES;OTHER SERVICES;Reproductie van opgenomen media
+10;19.0;C;C;2.0;;EXPENSES - GOODS;Vervaardiging van cokes en van geraffineerde aardolieproducten
+115;191.0;C;19;;;EXPENSES - GOODS;Vervaardiging van cokesovenproducten
+456;1910.0;C;191;;;EXPENSES - GOODS;Vervaardiging van cokesovenproducten
+1085;19100.0;C;1910;;;EXPENSES - GOODS;Vervaardiging van cokesovenproducten
+116;192.0;C;19;;;EXPENSES - GOODS;Vervaardiging van geraffineerde aardolieproducten
+457;1920.0;C;192;;;EXPENSES - GOODS;Vervaardiging van geraffineerde aardolieproducten
+1086;19200.0;C;1920;;;EXPENSES - GOODS;Vervaardiging van geraffineerde aardolieproducten
+11;20.0;C;C;2.0;;EXPENSES - GOODS;Vervaardiging van chemische producten
+117;201.0;C;20;;;EXPENSES - GOODS;Vervaardiging van chemische basisproducten, kunstmeststoffen en stikstofverbindingen en van kunststoffen en synthetische rubber in primaire vormen
+458;2011.0;C;201;;;EXPENSES - GOODS;Vervaardiging van industriële gassen
+1087;20110.0;C;2011;;;EXPENSES - GOODS;Vervaardiging van industriële gassen
+459;2012.0;C;201;;;EXPENSES - GOODS;Vervaardiging van kleurstoffen en pigmenten
+1088;20120.0;C;2012;;;EXPENSES - GOODS;Vervaardiging van kleurstoffen en pigmenten
+460;2013.0;C;201;;;EXPENSES - GOODS;Vervaardiging van andere anorganische chemische basisproducten
+1089;20130.0;C;2013;;;EXPENSES - GOODS;Vervaardiging van andere anorganische chemische basisproducten
+461;2014.0;C;201;;;EXPENSES - GOODS;Vervaardiging van andere organische chemische basisproducten
+1090;20140.0;C;2014;;;EXPENSES - GOODS;Vervaardiging van andere organische chemische basisproducten
+462;2015.0;C;201;;;EXPENSES - GOODS;Vervaardiging van kunstmeststoffen en stikstofverbindingen
+1091;20150.0;C;2015;;;EXPENSES - GOODS;Vervaardiging van kunstmeststoffen en stikstofverbindingen
+463;2016.0;C;201;;;EXPENSES - GOODS;Vervaardiging van kunststoffen in primaire vormen
+1092;20160.0;C;2016;;;EXPENSES - GOODS;Vervaardiging van kunststoffen in primaire vormen
+464;2017.0;C;201;;;EXPENSES - GOODS;Vervaardiging van synthetische rubber in primaire vormen
+1093;20170.0;C;2017;;;EXPENSES - GOODS;Vervaardiging van synthetische rubber in primaire vormen
+118;202.0;C;20;;;EXPENSES - GOODS;Vervaardiging van verdelgingsmiddelen en van andere chemische producten voor de landbouw
+465;2020.0;C;202;;;EXPENSES - GOODS;Vervaardiging van verdelgingsmiddelen en van andere chemische producten voor de landbouw
+1094;20200.0;C;2020;;;EXPENSES - GOODS;Vervaardiging van verdelgingsmiddelen en van andere chemische producten voor de landbouw
+119;203.0;C;20;;;EXPENSES - GOODS;Vervaardiging van verf, vernis e.d., drukinkt en mastiek
+466;2030.0;C;203;;;EXPENSES - GOODS;Vervaardiging van verf, vernis e.d., drukinkt en mastiek
+1095;20300.0;C;2030;;;EXPENSES - GOODS;Vervaardiging van verf, vernis e.d., drukinkt en mastiek
+120;204.0;C;20;;;EXPENSES - GOODS;Vervaardiging van zeep, wasmiddelen, poets- en reinigingsmiddelen, parfums en toiletartikelen
+467;2041.0;C;204;;;EXPENSES - GOODS;Vervaardiging van zeep en wasmiddelen, poets- en reinigingsmiddelen
+1096;20411.0;C;2041;;;EXPENSES - GOODS;Vervaardiging van zeep en wasmiddelen
+1097;20412.0;C;2041;;;EXPENSES - GOODS;Vervaardiging van poets- en reinigingsmiddelen
+468;2042.0;C;204;;;EXPENSES - GOODS;Vervaardiging van parfums en toiletartikelen
+1098;20420.0;C;2042;;;EXPENSES - GOODS;Vervaardiging van parfums en toiletartikelen
+121;205.0;C;20;;;EXPENSES - GOODS;Vervaardiging van andere chemische producten
+469;2051.0;C;205;;;EXPENSES - GOODS;Vervaardiging van kruit en springstoffen
+1099;20510.0;C;2051;;;EXPENSES - GOODS;Vervaardiging van kruit en springstoffen
+470;2052.0;C;205;;;EXPENSES - GOODS;Vervaardiging van lijm
+1100;20520.0;C;2052;;;EXPENSES - GOODS;Vervaardiging van lijm
+471;2053.0;C;205;;;EXPENSES - GOODS;Vervaardiging van etherische oliën
+1101;20530.0;C;2053;;;EXPENSES - GOODS;Vervaardiging van etherische oliën
+472;2059.0;C;205;;;EXPENSES - GOODS;Vervaardiging van andere chemische producten, n.e.g.
+1102;20590.0;C;2059;;;EXPENSES - GOODS;Vervaardiging van andere chemische producten, n.e.g.
+122;206.0;C;20;;;EXPENSES - GOODS;Vervaardiging van synthetische en kunstmatige vezels
+473;2060.0;C;206;;;EXPENSES - GOODS;Vervaardiging van synthetische en kunstmatige vezels
+1103;20600.0;C;2060;;;EXPENSES - GOODS;Vervaardiging van synthetische en kunstmatige vezels
+12;21.0;C;C;2.0;;EXPENSES - GOODS;Vervaardiging van farmaceutische grondstoffen en producten
+123;211.0;C;21;;;EXPENSES - GOODS;Vervaardiging van farmaceutische grondstoffen
+474;2110.0;C;211;;;EXPENSES - GOODS;Vervaardiging van farmaceutische grondstoffen
+1104;21100.0;C;2110;;;EXPENSES - GOODS;Vervaardiging van farmaceutische grondstoffen
+124;212.0;C;21;;;EXPENSES - GOODS;Vervaardiging van farmaceutische producten
+475;2120.0;C;212;;;EXPENSES - GOODS;Vervaardiging van farmaceutische producten
+1105;21201.0;C;2120;;;EXPENSES - GOODS;Vervaardiging van geneesmiddelen
+1106;21209.0;C;2120;;;EXPENSES - GOODS;Vervaardiging van overige farmaceutische producten
+13;22.0;C;C;2.0;;EXPENSES - GOODS;Vervaardiging van producten van rubber of kunststof
+125;221.0;C;22;;;EXPENSES - GOODS;Vervaardiging van producten van rubber
+476;2211.0;C;221;;;EXPENSES - GOODS;Vervaardiging van binnen- en buitenbanden van rubber
+1107;22110.0;C;2211;;;EXPENSES - GOODS;Vervaardiging van binnen- en buitenbanden van rubber
+477;2219.0;C;221;;;EXPENSES - GOODS;Vervaardiging van andere producten van rubber
+1108;22190.0;C;2219;;;EXPENSES - GOODS;Vervaardiging van andere producten van rubber
+126;222.0;C;22;;;EXPENSES - GOODS;Vervaardiging van producten van kunststof
+478;2221.0;C;222;;;EXPENSES - GOODS;Vervaardiging van platen, vellen, buizen en profielen van kunststof
+1109;22210.0;C;2221;;;EXPENSES - GOODS;Vervaardiging van platen, vellen, buizen en profielen van kunststof
+479;2222.0;C;222;;;EXPENSES - GOODS;Vervaardiging van verpakkingsmateriaal van kunststof
+1110;22220.0;C;2222;;;EXPENSES - GOODS;Vervaardiging van verpakkingsmateriaal van kunststof
+480;2223.0;C;222;;;EXPENSES - GOODS;Vervaardiging van kunststofartikelen voor de bouw
+1111;22230.0;C;2223;;;EXPENSES - GOODS;Vervaardiging van kunststofartikelen voor de bouw
+481;2229.0;C;222;;;EXPENSES - GOODS;Vervaardiging van andere producten van kunststof
+1112;22290.0;C;2229;;;EXPENSES - GOODS;Vervaardiging van andere producten van kunststof
+14;23.0;C;C;2.0;;EXPENSES - GOODS;Vervaardiging van andere niet-metaalhoudende minerale producten
+127;231.0;C;23;;;EXPENSES - GOODS;Vervaardiging van glas en glaswerk
+482;2311.0;C;231;;;EXPENSES - GOODS;Vervaardiging van vlakglas
+1113;23110.0;C;2311;;;EXPENSES - GOODS;Vervaardiging van vlakglas
+483;2312.0;C;231;;;EXPENSES - GOODS;Vormen en bewerken van vlakglas
+1114;23120.0;C;2312;;;EXPENSES - GOODS;Vormen en bewerken van vlakglas
+484;2313.0;C;231;;;EXPENSES - GOODS;Vervaardiging van holglas
+1115;23130.0;C;2313;;;EXPENSES - GOODS;Vervaardiging van holglas
+485;2314.0;C;231;;;EXPENSES - GOODS;Vervaardiging van glasvezels
+1116;23140.0;C;2314;;;EXPENSES - GOODS;Vervaardiging van glasvezels
+486;2319.0;C;231;;;EXPENSES - GOODS;Vervaardiging en bewerking van ander glas (inclusief technisch glaswerk)
+1117;23190.0;C;2319;;;EXPENSES - GOODS;Vervaardiging en bewerking van ander glas (inclusief technisch glaswerk)
+128;232.0;C;23;;;EXPENSES - GOODS;Vervaardiging van vuurvaste producten
+487;2320.0;C;232;;;EXPENSES - GOODS;Vervaardiging van vuurvaste producten
+1118;23200.0;C;2320;;;EXPENSES - GOODS;Vervaardiging van vuurvaste producten
+129;233.0;C;23;;;EXPENSES - GOODS;Vervaardiging van producten voor de bouw, van klei
+488;2331.0;C;233;;;EXPENSES - GOODS;Vervaardiging van keramische tegels en plavuizen
+1119;23310.0;C;2331;;;EXPENSES - GOODS;Vervaardiging van keramische tegels en plavuizen
+489;2332.0;C;233;;;EXPENSES - GOODS;Vervaardiging van bakstenen, tegels en producten voor de bouw van gebakken klei
+1120;23321.0;C;2332;;;EXPENSES - GOODS;Vervaardiging van bakstenen
+1121;23322.0;C;2332;;;EXPENSES - GOODS;Vervaardiging van dakpannen, tegels en andere producten voor de bouw van gebakken klei
+130;234.0;C;23;;;EXPENSES - GOODS;Vervaardiging van andere keramische producten
+490;2341.0;C;234;;;EXPENSES - GOODS;Vervaardiging van huishoudelijk en sieraardewerk
+1122;23410.0;C;2341;;;EXPENSES - GOODS;Vervaardiging van huishoudelijk en sieraardewerk
+491;2342.0;C;234;;;EXPENSES - GOODS;Vervaardiging van sanitair aardewerk
+1123;23420.0;C;2342;;;EXPENSES - GOODS;Vervaardiging van sanitair aardewerk
+492;2343.0;C;234;;;EXPENSES - GOODS;Vervaardiging van isolatoren en isolatiemateriaal, van keramische stoffen
+1124;23430.0;C;2343;;;EXPENSES - GOODS;Vervaardiging van isolatoren en isolatiemateriaal, van keramische stoffen
+493;2344.0;C;234;;;EXPENSES - GOODS;Vervaardiging van ander technisch aardewerk
+1125;23440.0;C;2344;;;EXPENSES - GOODS;Vervaardiging van ander technisch aardewerk
+494;2349.0;C;234;;;EXPENSES - GOODS;Vervaardiging van andere keramische producten
+1126;23490.0;C;2349;;;EXPENSES - GOODS;Vervaardiging van andere keramische producten
+131;235.0;C;23;;;EXPENSES - GOODS;Vervaardiging van cement, kalk en gips
+495;2351.0;C;235;;;EXPENSES - GOODS;Vervaardiging van cement
+1127;23510.0;C;2351;;;EXPENSES - GOODS;Vervaardiging van cement
+496;2352.0;C;235;;;EXPENSES - GOODS;Vervaardiging van kalk en gips
+1128;23520.0;C;2352;;;EXPENSES - GOODS;Vervaardiging van kalk en gips
+132;236.0;C;23;;;EXPENSES - GOODS;Vervaardiging van artikelen van beton, cement en gips
+497;2361.0;C;236;;;EXPENSES - GOODS;Vervaardiging van artikelen van beton voor de bouw
+1129;23610.0;C;2361;;;EXPENSES - GOODS;Vervaardiging van artikelen van beton voor de bouw
+498;2362.0;C;236;;;EXPENSES - GOODS;Vervaardiging van artikelen van gips voor de bouw
+1130;23620.0;C;2362;;;EXPENSES - GOODS;Vervaardiging van artikelen van gips voor de bouw
+499;2363.0;C;236;;;EXPENSES - GOODS;Vervaardiging van stortklare beton
+1131;23630.0;C;2363;;;EXPENSES - GOODS;Vervaardiging van stortklare beton
+500;2364.0;C;236;;;EXPENSES - GOODS;Vervaardiging van mortel
+1132;23640.0;C;2364;;;EXPENSES - GOODS;Vervaardiging van mortel
+501;2365.0;C;236;;;EXPENSES - GOODS;Vervaardiging van producten van vezelcement
+1133;23650.0;C;2365;;;EXPENSES - GOODS;Vervaardiging van producten van vezelcement
+502;2369.0;C;236;;;EXPENSES - GOODS;Vervaardiging van andere artikelen van beton, gips en cement
+1134;23690.0;C;2369;;;EXPENSES - GOODS;Vervaardiging van andere artikelen van beton, gips en cement
+133;237.0;C;23;;;EXPENSES - GOODS;Houwen, bewerken en afwerken van natuursteen
+503;2370.0;C;237;;;EXPENSES - GOODS;Houwen, bewerken en afwerken van natuursteen
+1135;23700.0;C;2370;;;EXPENSES - GOODS;Houwen, bewerken en afwerken van natuursteen
+134;239.0;C;23;;;EXPENSES - GOODS;Vervaardiging van andere schuurmiddelen en niet-metaalhoudende minerale producten n.e.g.
+504;2391.0;C;239;;;EXPENSES - GOODS;Vervaardiging van schuur-, slijp- en polijstmiddelen
+1136;23910.0;C;2391;;;EXPENSES - GOODS;Vervaardiging van schuur-, slijp- en polijstmiddelen
+505;2399.0;C;239;;;EXPENSES - GOODS;Vervaardiging van andere niet-metaalhoudende minerale producten, n.e.g.
+1137;23990.0;C;2399;;;EXPENSES - GOODS;Vervaardiging van andere niet-metaalhoudende minerale producten, n.e.g.
+15;24.0;C;C;2.0;;EXPENSES - GOODS;Vervaardiging van metalen in primaire vorm
+135;241.0;C;24;;;EXPENSES - GOODS;Vervaardiging van ijzer en staal en van ferrolegeringen
+506;2410.0;C;241;;;EXPENSES - GOODS;Vervaardiging van ijzer en staal en van ferrolegeringen
+1138;24100.0;C;2410;;;EXPENSES - GOODS;Vervaardiging van ijzer en staal en van ferrolegeringen
+136;242.0;C;24;;;EXPENSES - GOODS;Vervaardiging van buizen, pijpen, holle profielen en fittings daarvoor, van staal
+507;2420.0;C;242;;;EXPENSES - GOODS;Vervaardiging van buizen, pijpen, holle profielen en fittings daarvoor, van staal
+1139;24200.0;C;2420;;;EXPENSES - GOODS;Vervaardiging van buizen, pijpen, holle profielen en fittings daarvoor, van staal
+137;243.0;C;24;;;EXPENSES - GOODS;Vervaardiging van andere producten van de eerste verwerking van staal
+508;2431.0;C;243;;;EXPENSES - GOODS;Koudtrekken van staven
+1140;24310.0;C;2431;;;EXPENSES - GOODS;Koudtrekken van staven
+509;2432.0;C;243;;;EXPENSES - GOODS;Koudwalsen van bandstaal
+1141;24320.0;C;2432;;;EXPENSES - GOODS;Koudwalsen van bandstaal
+510;2433.0;C;243;;;EXPENSES - GOODS;Koudvervormen of koudfelsen
+1142;24330.0;C;2433;;;EXPENSES - GOODS;Koudvervormen of koudfelsen
+511;2434.0;C;243;;;EXPENSES - GOODS;Koudtrekken van draad
+1143;24340.0;C;2434;;;EXPENSES - GOODS;Koudtrekken van draad
+138;244.0;C;24;;;EXPENSES - GOODS;Productie van edele metalen en van andere non-ferrometalen
+512;2441.0;C;244;;;EXPENSES - GOODS;Productie van edelmetalen
+1144;24410.0;C;2441;;;EXPENSES - GOODS;Productie van edelmetalen
+513;2442.0;C;244;;;EXPENSES - GOODS;Productie van aluminium
+1145;24420.0;C;2442;;;EXPENSES - GOODS;Productie van aluminium
+514;2443.0;C;244;;;EXPENSES - GOODS;Productie van lood, zink en tin
+1146;24430.0;C;2443;;;EXPENSES - GOODS;Productie van lood, zink en tin
+515;2444.0;C;244;;;EXPENSES - GOODS;Productie van koper
+1147;24440.0;C;2444;;;EXPENSES - GOODS;Productie van koper
+516;2445.0;C;244;;;EXPENSES - GOODS;Productie van andere non-ferrometalen
+1148;24450.0;C;2445;;;EXPENSES - GOODS;Productie van andere non-ferrometalen
+517;2446.0;C;244;;;EXPENSES - GOODS;Bewerking van splijt- en kweekstoffen
+1149;24460.0;C;2446;;;EXPENSES - GOODS;Bewerking van splijt- en kweekstoffen
+139;245.0;C;24;;;EXPENSES - GOODS;Gieten van metalen
+518;2451.0;C;245;;;EXPENSES - GOODS;Gieten van ijzer
+1150;24510.0;C;2451;;;EXPENSES - GOODS;Gieten van ijzer
+519;2452.0;C;245;;;EXPENSES - GOODS;Gieten van staal
+1151;24520.0;C;2452;;;EXPENSES - GOODS;Gieten van staal
+520;2453.0;C;245;;;EXPENSES - GOODS;Gieten van lichte metalen
+1152;24530.0;C;2453;;;EXPENSES - GOODS;Gieten van lichte metalen
+521;2454.0;C;245;;;EXPENSES - GOODS;Gieten van andere non-ferrometalen
+1153;24540.0;C;2454;;;EXPENSES - GOODS;Gieten van andere non-ferrometalen
+16;25.0;C;C;2.0;;EXPENSES - GOODS;Vervaardiging van producten van metaal, exclusief machines en apparaten
+140;251.0;C;25;;;EXPENSES - GOODS;Vervaardiging van metalen constructiewerken
+522;2511.0;C;251;;;EXPENSES - GOODS;Vervaardiging van metalen constructiewerken en delen daarvan
+1154;25110.0;C;2511;;;EXPENSES - GOODS;Vervaardiging van metalen constructiewerken en delen daarvan
+523;2512.0;C;251;;;EXPENSES - GOODS;Vervaardiging van metalen deuren en vensters
+1155;25120.0;C;2512;;;EXPENSES - GOODS;Vervaardiging van metalen deuren en vensters
+141;252.0;C;25;;;EXPENSES - GOODS;Vervaardiging van tanks, reservoirs en bergingsmiddelen, van metaal
+524;2521.0;C;252;;;EXPENSES - GOODS;Vervaardiging van radiatoren en ketels voor centrale verwarming
+1156;25210.0;C;2521;;;EXPENSES - GOODS;Vervaardiging van radiatoren en ketels voor centrale verwarming
+525;2529.0;C;252;;;EXPENSES - GOODS;Vervaardiging van andere tanks, reservoirs en bergingsmiddelen, van metaal
+1157;25290.0;C;2529;;;EXPENSES - GOODS;Vervaardiging van andere tanks, reservoirs en bergingsmiddelen, van metaal
+142;253.0;C;25;;;EXPENSES - GOODS;Vervaardiging van stoomketels, exclusief warmwaterketels voor centrale verwarming
+526;2530.0;C;253;;;EXPENSES - GOODS;Vervaardiging van stoomketels, exclusief warmwaterketels voor centrale verwarming
+1158;25300.0;C;2530;;;EXPENSES - GOODS;Vervaardiging van stoomketels, exclusief warmwaterketels voor centrale verwarming
+143;254.0;C;25;;;EXPENSES - GOODS;Vervaardiging van wapens en munitie
+527;2540.0;C;254;;;EXPENSES - GOODS;Vervaardiging van wapens en munitie
+1159;25400.0;C;2540;;;EXPENSES - GOODS;Vervaardiging van wapens en munitie
+144;255.0;C;25;;;EXPENSES - GOODS;Smeden, persen, stampen en profielwalsen van metaal
+528;2550.0;C;255;;;EXPENSES - GOODS;Smeden, persen, stampen en profielwalsen van metaal
+1160;25501.0;C;2550;;;EXPENSES - GOODS;Smeden van metaal
+1161;25502.0;C;2550;;;EXPENSES - GOODS;Persen, stampen en profielwalsen van metaal
+145;256.0;C;25;;;EXPENSES - GOODS;Oppervlaktebehandeling van metalen
+529;2561.0;C;256;;;EXPENSES - GOODS;Oppervlaktebehandeling van metalen
+1162;25610.0;C;2561;;;EXPENSES - GOODS;Oppervlaktebehandeling van metalen
+530;2562.0;C;256;;;EXPENSES - GOODS;Verspanend bewerken van metalen
+1163;25620.0;C;2562;;;EXPENSES - GOODS;Verspanend bewerken van metalen
+146;257.0;C;25;;;EXPENSES - GOODS;Vervaardiging van scharen, messen, bestekken, gereedschap en ijzerwaren
+531;2571.0;C;257;;;EXPENSES - GOODS;Vervaardiging van scharen, messen, bestekken, enz.
+1164;25710.0;C;2571;;;EXPENSES - GOODS;Vervaardiging van scharen, messen, bestekken, enz.
+532;2572.0;C;257;;;EXPENSES - GOODS;Vervaardiging van hang- en sluitwerk
+1165;25720.0;C;2572;;;EXPENSES - GOODS;Vervaardiging van hang- en sluitwerk
+533;2573.0;C;257;;;EXPENSES - GOODS;Vervaardiging van gereedschap
+1166;25731.0;C;2573;;;EXPENSES - GOODS;Vervaardiging van vormkasten en gietvormen
+1167;25739.0;C;2573;;;EXPENSES - GOODS;Vervaardiging van gereedschap, m.u.v. vormkasten en gietvormen
+147;259.0;C;25;;;EXPENSES - GOODS;Vervaardiging van andere producten van metaal
+534;2591.0;C;259;;;EXPENSES - GOODS;Vervaardiging van stalen vaten en dergelijke
+1168;25910.0;C;2591;;;EXPENSES - GOODS;Vervaardiging van stalen vaten en dergelijke
+535;2592.0;C;259;;;EXPENSES - GOODS;Vervaardiging van verpakkingsmiddelen van licht metaal
+1169;25920.0;C;2592;;;EXPENSES - GOODS;Vervaardiging van verpakkingsmiddelen van licht metaal
+536;2593.0;C;259;;;EXPENSES - GOODS;Vervaardiging van artikelen van draad en van kettingen en veren
+1170;25930.0;C;2593;;;EXPENSES - GOODS;Vervaardiging van artikelen van draad en van kettingen en veren
+537;2594.0;C;259;;;EXPENSES - GOODS;Vervaardiging van bouten, schroeven en moeren
+1171;25940.0;C;2594;;;EXPENSES - GOODS;Vervaardiging van bouten, schroeven en moeren
+538;2599.0;C;259;;;EXPENSES - GOODS;Vervaardiging van andere producten van metaal, n.e.g.
+1172;25991.0;C;2599;;;EXPENSES - GOODS;Vervaardiging van huishoudelijke en sanitaire artikelen van metaal
+1173;25999.0;C;2599;;;EXPENSES - GOODS;Vervaardiging van overige artikelen van metaal, n.e.g.
+17;26.0;C;C;2.0;;EXPENSES - GOODS;Vervaardiging van informaticaproducten en van elektronische en optische producten
+148;261.0;C;26;;;EXPENSES - GOODS;Vervaardiging van elektronische onderdelen en printplaten
+539;2611.0;C;261;;;EXPENSES - GOODS;Vervaardiging van elektronische onderdelen
+1174;26110.0;C;2611;;;EXPENSES - GOODS;Vervaardiging van elektronische onderdelen
+540;2612.0;C;261;;;EXPENSES - GOODS;Vervaardiging van elektronische printplaten
+1175;26120.0;C;2612;;;EXPENSES - GOODS;Vervaardiging van elektronische printplaten
+149;262.0;C;26;;;EXPENSES - GOODS;Vervaardiging van computers en randapparatuur
+541;2620.0;C;262;;;EXPENSES - GOODS;Vervaardiging van computers en randapparatuur
+1176;26200.0;C;2620;;;EXPENSES - GOODS;Vervaardiging van computers en randapparatuur
+150;263.0;C;26;;;EXPENSES - GOODS;Vervaardiging van communicatieapparatuur
+542;2630.0;C;263;;;EXPENSES - GOODS;Vervaardiging van communicatieapparatuur
+1177;26300.0;C;2630;;;EXPENSES - GOODS;Vervaardiging van communicatieapparatuur
+151;264.0;C;26;;;EXPENSES - GOODS;Vervaardiging van consumentenelektronica
+543;2640.0;C;264;;;EXPENSES - GOODS;Vervaardiging van consumentenelektronica
+1178;26400.0;C;2640;;;EXPENSES - GOODS;Vervaardiging van consumentenelektronica
+152;265.0;C;26;;;EXPENSES - GOODS;Vervaardiging van meet-, controle- en navigatie-instrumenten en -apparatuur
+544;2651.0;C;265;;;EXPENSES - GOODS;Vervaardiging van meet-, controle- en navigatie-instrumenten en -apparatuur
+1179;26510.0;C;2651;;;EXPENSES - GOODS;Vervaardiging van meet-, controle- en navigatie-instrumenten en -apparatuur
+545;2652.0;C;265;;;EXPENSES - GOODS;Vervaardiging van uurwerken
+1180;26520.0;C;2652;;;EXPENSES - GOODS;Vervaardiging van uurwerken
+153;266.0;C;26;;;EXPENSES - GOODS;Vervaardiging van bestralingsapparatuur en van elektromedische en elektrotherapeutische apparatuur
+546;2660.0;C;266;;;EXPENSES - GOODS;Vervaardiging van bestralingsapparatuur en van elektromedische en elektrotherapeutische apparatuur
+1181;26600.0;C;2660;;;EXPENSES - GOODS;Vervaardiging van bestralingsapparatuur en van elektromedische en elektrotherapeutische apparatuur
+154;267.0;C;26;;;EXPENSES - GOODS;Vervaardiging van optische instrumenten en van foto- en filmapparatuur
+547;2670.0;C;267;;;EXPENSES - GOODS;Vervaardiging van optische instrumenten en van foto- en filmapparatuur
+1182;26700.0;C;2670;;;EXPENSES - GOODS;Vervaardiging van optische instrumenten en van foto- en filmapparatuur
+155;268.0;C;26;;;EXPENSES - GOODS;Vervaardiging van magnetische en optische media
+548;2680.0;C;268;;;EXPENSES - GOODS;Vervaardiging van magnetische en optische media
+1183;26800.0;C;2680;;;EXPENSES - GOODS;Vervaardiging van magnetische en optische media
+18;27.0;C;C;2.0;;EXPENSES - GOODS;Vervaardiging van elektrische apparatuur
+156;271.0;C;27;;;EXPENSES - GOODS;Vervaardiging van elektromotoren, van elektrische generatoren en transformatoren en van schakel- en verdeelinrichtingen
+549;2711.0;C;271;;;EXPENSES - GOODS;Vervaardiging van elektromotoren en van elektrische generatoren en transformatoren
+1184;27110.0;C;2711;;;EXPENSES - GOODS;Vervaardiging van elektromotoren en van elektrische generatoren en transformatoren
+550;2712.0;C;271;;;EXPENSES - GOODS;Vervaardiging van schakel- en verdeelinrichtingen
+1185;27120.0;C;2712;;;EXPENSES - GOODS;Vervaardiging van schakel- en verdeelinrichtingen
+157;272.0;C;27;;;EXPENSES - GOODS;Vervaardiging van batterijen en accumulatoren
+551;2720.0;C;272;;;EXPENSES - GOODS;Vervaardiging van batterijen en accumulatoren
+1186;27200.0;C;2720;;;EXPENSES - GOODS;Vervaardiging van batterijen en accumulatoren
+158;273.0;C;27;;;EXPENSES - GOODS;Vervaardiging van kabels en van schakelaars, stekkers, stopcontacten e. d.
+552;2731.0;C;273;;;EXPENSES - GOODS;Vervaardiging van kabels van optische vezels
+1187;27310.0;C;2731;;;EXPENSES - GOODS;Vervaardiging van kabels van optische vezels
+553;2732.0;C;273;;;EXPENSES - GOODS;Vervaardiging van andere elektrische en elektronische kabels
+1188;27320.0;C;2732;;;EXPENSES - GOODS;Vervaardiging van andere elektrische en elektronische kabels
+554;2733.0;C;273;;;EXPENSES - GOODS;Vervaardiging van schakelaars, stekkers, stopcontacten e.d.
+1189;27330.0;C;2733;;;EXPENSES - GOODS;Vervaardiging van schakelaars, stekkers, stopcontacten e.d.
+159;274.0;C;27;;;EXPENSES - GOODS;Vervaardiging van lampen en verlichtingsapparaten
+555;2740.0;C;274;;;EXPENSES - GOODS;Vervaardiging van lampen en verlichtingsapparaten
+1190;27401.0;C;2740;;;EXPENSES - GOODS;Vervaardiging van lampen
+1191;27402.0;C;2740;;;EXPENSES - GOODS;Vervaardiging van verlichtingsapparaten
+160;275.0;C;27;;;EXPENSES - GOODS;Vervaardiging van huishoudapparaten
+556;2751.0;C;275;;;EXPENSES - GOODS;Vervaardiging van elektrische huishoudapparaten
+1192;27510.0;C;2751;;;EXPENSES - GOODS;Vervaardiging van elektrische huishoudapparaten
+557;2752.0;C;275;;;EXPENSES - GOODS;Vervaardiging van niet-elektrische huishoudapparaten
+1193;27520.0;C;2752;;;EXPENSES - GOODS;Vervaardiging van niet-elektrische huishoudapparaten
+161;279.0;C;27;;;EXPENSES - GOODS;Vervaardiging van andere elektrische apparatuur
+558;2790.0;C;279;;;EXPENSES - GOODS;Vervaardiging van andere elektrische apparatuur
+1194;27900.0;C;2790;;;EXPENSES - GOODS;Vervaardiging van andere elektrische apparatuur
+19;28.0;C;C;2.0;;EXPENSES - GOODS;Vervaardiging van machines, apparaten en werktuigen, n.e.g.
+162;281.0;C;28;;;EXPENSES - GOODS;Vervaardiging van machines en apparaten voor algemeen gebruik
+559;2811.0;C;281;;;EXPENSES - GOODS;Vervaardiging van motoren en turbines, exclusief motoren voor luchtvaartuigen, motorvoertuigen en bromfietsen
+1195;28110.0;C;2811;;;EXPENSES - GOODS;Vervaardiging van motoren en turbines, exclusief motoren voor luchtvaartuigen, motorvoertuigen en bromfietsen
+560;2812.0;C;281;;;EXPENSES - GOODS;Vervaardiging van hydraulische apparatuur
+1196;28120.0;C;2812;;;EXPENSES - GOODS;Vervaardiging van hydraulische apparatuur
+561;2813.0;C;281;;;EXPENSES - GOODS;Vervaardiging van andere pompen en compressoren
+1197;28130.0;C;2813;;;EXPENSES - GOODS;Vervaardiging van andere pompen en compressoren
+562;2814.0;C;281;;;EXPENSES - GOODS;Vervaardiging van andere kranen en dergelijke artikelen
+1198;28140.0;C;2814;;;EXPENSES - GOODS;Vervaardiging van andere kranen en dergelijke artikelen
+563;2815.0;C;281;;;EXPENSES - GOODS;Vervaardiging van tandwielen, lagers en andere drijfwerkelementen
+1199;28150.0;C;2815;;;EXPENSES - GOODS;Vervaardiging van tandwielen, lagers en andere drijfwerkelementen
+163;282.0;C;28;;;EXPENSES - GOODS;Vervaardiging van andere machines en apparaten voor algemeen gebruik
+564;2821.0;C;282;;;EXPENSES - GOODS;Vervaardiging van ovens en branders
+1200;28210.0;C;2821;;;EXPENSES - GOODS;Vervaardiging van ovens en branders
+565;2822.0;C;282;;;EXPENSES - GOODS;Vervaardiging van hijs-, hef- en transportwerktuigen
+1201;28220.0;C;2822;;;EXPENSES - GOODS;Vervaardiging van hijs-, hef- en transportwerktuigen
+566;2823.0;C;282;;;EXPENSES - GOODS;Vervaardiging van kantoormachines en -uitrusting (exclusief compu-ters en randapparatuur)
+1202;28230.0;C;2823;;;EXPENSES - GOODS;Vervaardiging van kantoormachines en -uitrusting (exclusief computers en randapparatuur)
+567;2824.0;C;282;;;EXPENSES - GOODS;Vervaardiging van elektrisch handgereedschap
+1203;28240.0;C;2824;;;EXPENSES - GOODS;Vervaardiging van elektrisch handgereedschap
+568;2825.0;C;282;;;EXPENSES - GOODS;Vervaardiging van machines en apparaten voor de koeltechniek en de klimaatregeling, voor niet-huishoudelijk gebruik
+1204;28250.0;C;2825;;;EXPENSES - GOODS;Vervaardiging van machines en apparaten voor de koeltechniek en de klimaatregeling, voor niet-huishoudelijk gebruik
+569;2829.0;C;282;;;EXPENSES - GOODS;Vervaardiging van andere machines en apparaten voor algemeen gebruik, n.e.g.
+1205;28291.0;C;2829;;;EXPENSES - GOODS;Vervaardiging van verpakkingsmachines
+1206;28292.0;C;2829;;;EXPENSES - GOODS;Vervaardiging van weegtoestellen
+1207;28293.0;C;2829;;;EXPENSES - GOODS;Vervaardiging van toestellen voor het spuiten van vloeistoffen of poeder
+1208;28294.0;C;2829;;;EXPENSES - GOODS;Vervaardiging van verkoopautomaten
+1209;28295.0;C;2829;;;EXPENSES - GOODS;Vervaardiging van filtreertoestellen
+1210;28296.0;C;2829;;;EXPENSES - GOODS;Vervaardiging van hogedrukreinigers, zandstraalapparaten en dergelijk reinigingsmateriaal
+1211;28299.0;C;2829;;;EXPENSES - GOODS;Vervaardiging van andere machines en apparaten voor algemeen gebruik, n.e.g.
+164;283.0;C;28;;;EXPENSES - GOODS;Vervaardiging van machines en werktuigen voor de landbouw en de bosbouw
+570;2830.0;C;283;;;EXPENSES - GOODS;Vervaardiging van machines en werktuigen voor de landbouw en de bosbouw
+1212;28300.0;C;2830;;;EXPENSES - GOODS;Vervaardiging van machines en werktuigen voor de landbouw en de bosbouw
+165;284.0;C;28;;;EXPENSES - GOODS;Vervaardiging van niet-verspanende machines voor de metaalbe-werking en van gereedschapswerktuigen
+571;2841.0;C;284;;;EXPENSES - GOODS;Vervaardiging van machines voor de metaalbewerking
+1213;28410.0;C;2841;;;EXPENSES - GOODS;Vervaardiging van machines voor de metaalbewerking
+572;2849.0;C;284;;;EXPENSES - GOODS;Vervaardiging van andere gereedschapswerktuigen
+1214;28490.0;C;2849;;;EXPENSES - GOODS;Vervaardiging van andere gereedschapswerktuigen
+166;289.0;C;28;;;EXPENSES - GOODS;Vervaardiging van andere machines, apparaten en werktuigen voor specifieke doeleinden
+573;2891.0;C;289;;;EXPENSES - GOODS;Vervaardiging van machines voor de metallurgie
+1215;28910.0;C;2891;;;EXPENSES - GOODS;Vervaardiging van machines voor de metallurgie
+574;2892.0;C;289;;;EXPENSES - GOODS;Vervaardiging van machines voor de winning van delfstoffen en voor de bouw
+1216;28920.0;C;2892;;;EXPENSES - GOODS;Vervaardiging van machines voor de winning van delfstoffen en voor de bouw
+575;2893.0;C;289;;;EXPENSES - GOODS;Vervaardiging van machines voor de productie van voedings- en genotmiddelen
+1217;28930.0;C;2893;;;EXPENSES - GOODS;Vervaardiging van machines voor de productie van voedings- en genotmiddelen
+576;2894.0;C;289;;;EXPENSES - GOODS;Vervaardiging van machines voor de productie van textiel, kleding en leer
+1218;28940.0;C;2894;;;EXPENSES - GOODS;Vervaardiging van machines voor de productie van textiel, kleding en leer
+577;2895.0;C;289;;;EXPENSES - GOODS;Vervaardiging van machines voor de productie van papier en karton
+1219;28950.0;C;2895;;;EXPENSES - GOODS;Vervaardiging van machines voor de productie van papier en karton
+578;2896.0;C;289;;;EXPENSES - GOODS;Vervaardiging van machines voor de kunststof- en rubberindustrie
+1220;28960.0;C;2896;;;EXPENSES - GOODS;Vervaardiging van machines voor de kunststof- en rubberindustrie
+579;2899.0;C;289;;;EXPENSES - GOODS;Vervaardiging van andere machines, apparaten en werktuigen voor specifieke doeleinden, n.e.g.
+1221;28990.0;C;2899;;;EXPENSES - GOODS;Vervaardiging van andere machines, apparaten en werktuigen voor specifieke doeleinden, n.e.g.
+20;29.0;C;C;2.0;;EXPENSES - GOODS;Vervaardiging en assemblage van motorvoertuigen, aanhangwagens en opleggers
+167;291.0;C;29;;;EXPENSES - GOODS;Vervaardiging en assemblage van motorvoertuigen
+580;2910.0;C;291;;;EXPENSES - GOODS;Vervaardiging en assemblage van motorvoertuigen
+1222;29100.0;C;2910;;;EXPENSES - GOODS;Vervaardiging en assemblage van motorvoertuigen
+168;292.0;C;29;;;EXPENSES - GOODS;Vervaardiging van carrosserieën voor motorvoertuigen
+581;2920.0;C;292;;;EXPENSES - GOODS;Vervaardiging van carrosserieën voor motorvoertuigen
+1223;29201.0;C;2920;;;EXPENSES - GOODS;Vervaardiging van carrosserieën voor motorvoertuigen
+1224;29202.0;C;2920;;;EXPENSES - GOODS;Vervaardiging van aanhangwagens, caravans en opleggers
+169;293.0;C;29;;;EXPENSES - GOODS;Vervaardiging van delen en toebehoren voor motorvoertuigen
+582;2931.0;C;293;;;EXPENSES - GOODS;Vervaardiging van elektrische en elektronische benodigdheden voor motorvoertuigen
+1225;29310.0;C;2931;;;EXPENSES - GOODS;Vervaardiging van elektrische en elektronische benodigdheden voor motorvoertuigen
+583;2932.0;C;293;;;EXPENSES - GOODS;Vervaardiging van andere delen en toebehoren van motorvoertuigen
+1226;29320.0;C;2932;;;EXPENSES - GOODS;Vervaardiging van andere delen en toebehoren van motorvoertuigen
+170;301.0;C;30;3.0;CULTURAL AND RECREATIONAL DURABLES;INVESTMENTS - GOODS;Scheepsbouw
+584;3011.0;C;301;;CULTURAL AND RECREATIONAL DURABLES;INVESTMENTS - GOODS;Bouw van schepen en drijvend materieel
+1227;30110.0;C;3011;;CULTURAL AND RECREATIONAL DURABLES;INVESTMENTS - GOODS;Bouw van schepen en drijvend materieel
+585;3012.0;C;301;;CULTURAL AND RECREATIONAL DURABLES;INVESTMENTS - GOODS;Bouw van plezier- en sportvaartuigen
+1228;30120.0;C;3012;;CULTURAL AND RECREATIONAL DURABLES;INVESTMENTS - GOODS;Bouw van plezier- en sportvaartuigen
+171;302.0;C;30;3.0;CULTURAL AND RECREATIONAL DURABLES;INVESTMENTS - GOODS;Vervaardiging van rollend materieel voor spoorwegen
+586;3020.0;C;302;;CULTURAL AND RECREATIONAL DURABLES;INVESTMENTS - GOODS;Vervaardiging van rollend materieel voor spoorwegen
+1229;30200.0;C;3020;;CULTURAL AND RECREATIONAL DURABLES;INVESTMENTS - GOODS;Vervaardiging van rollend materieel voor spoorwegen
+172;303.0;C;30;3.0;CULTURAL AND RECREATIONAL DURABLES;INVESTMENTS - GOODS;Vervaardiging van lucht- en ruimtevaartuigen en van toestellen in verband daarmee
+587;3030.0;C;303;;CULTURAL AND RECREATIONAL DURABLES;INVESTMENTS - GOODS;Vervaardiging van lucht- en ruimtevaartuigen en van toestellen in verband daarmee
+1230;30300.0;C;3030;;CULTURAL AND RECREATIONAL DURABLES;INVESTMENTS - GOODS;Vervaardiging van lucht- en ruimtevaartuigen en van toestellen in verband daarmee
+173;304.0;C;30;3.0;CULTURAL AND RECREATIONAL DURABLES;INVESTMENTS - GOODS;Vervaardiging van militaire gevechtsvoertuigen
+588;3040.0;C;304;;CULTURAL AND RECREATIONAL DURABLES;INVESTMENTS - GOODS;Vervaardiging van militaire gevechtsvoertuigen
+1231;30400.0;C;3040;;CULTURAL AND RECREATIONAL DURABLES;INVESTMENTS - GOODS;Vervaardiging van militaire gevechtsvoertuigen
+174;309.0;C;30;3.0;CULTURAL AND RECREATIONAL DURABLES;INVESTMENTS - GOODS;Vervaardiging van transportmiddelen, n.e.g.
+589;3091.0;C;309;4.0;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Vervaardiging van motorfietsen
+1232;30910.0;C;3091;;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Vervaardiging van motorfietsen
+590;3092.0;C;309;4.0;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Vervaardiging van fietsen en invalidenwagens
+1233;30920.0;C;3092;;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Vervaardiging van fietsen en invalidenwagens
+591;3099.0;C;309;4.0;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Vervaardiging van andere transportmiddelen, n.e.g.
+1234;30990.0;C;3099;;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Vervaardiging van andere transportmiddelen, n.e.g.
+21;31.0;C;C;2.0;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;INVESTMENTS - GOODS;Vervaardiging van meubelen
+175;310.0;C;31;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;INVESTMENTS - GOODS;Vervaardiging van meubelen
+592;3101.0;C;310;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;INVESTMENTS - GOODS;Vervaardiging van kantoor- en winkelmeubelen
+1235;31010.0;C;3101;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;INVESTMENTS - GOODS;Vervaardiging van kantoor- en winkelmeubelen
+593;3102.0;C;310;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;INVESTMENTS - GOODS;Vervaardiging van keukenmeubelen
+1236;31020.0;C;3102;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;INVESTMENTS - GOODS;Vervaardiging van keukenmeubelen
+594;3103.0;C;310;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;INVESTMENTS - GOODS;Vervaardiging van matrassen
+1237;31030.0;C;3103;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;INVESTMENTS - GOODS;Vervaardiging van matrassen
+595;3109.0;C;310;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;INVESTMENTS - GOODS;Vervaardiging van andere meubelen
+1238;31091.0;C;3109;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;INVESTMENTS - GOODS;Vervaardiging van eetkamer-, zitkamer-, slaapkamer- en badkamermeubelen
+1239;31092.0;C;3109;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;INVESTMENTS - GOODS;Vervaardiging van tuin- en terrasmeubelen
+1240;31099.0;C;3109;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;INVESTMENTS - GOODS;Vervaardiging van andere meubelen, n.e.g.
+176;321.0;C;32;3.0;LUXERY GOODS;EXPENSES - GOODS;Bewerken van edelstenen en vervaardiging van sieraden en dergelijke artikelen
+596;3211.0;C;321;;LUXERY GOODS;EXPENSES - GOODS;Slaan van munten
+1241;32110.0;C;3211;;LUXERY GOODS;EXPENSES - GOODS;Slaan van munten
+597;3212.0;C;321;;LUXERY GOODS;EXPENSES - GOODS;Bewerken van edelstenen en vervaardiging van sieraden
+1242;32121.0;C;3212;;LUXERY GOODS;EXPENSES - GOODS;Bewerken van diamant
+1243;32122.0;C;3212;;LUXERY GOODS;EXPENSES - GOODS;Bewerken van edelstenen (m.u.v. diamant) en van halfedelstenen
+1244;32123.0;C;3212;;LUXERY GOODS;EXPENSES - GOODS;Vervaardiging van sieraden
+1245;32124.0;C;3212;;LUXERY GOODS;EXPENSES - GOODS;Vervaardiging van edelsmeedwerk
+1246;32129.0;C;3212;;LUXERY GOODS;EXPENSES - GOODS;Vervaardiging van overige artikelen van edele metalen
+598;3213.0;C;321;;LUXERY GOODS;EXPENSES - GOODS;Vervaardiging van imitatiesieraden en dergelijke artikelen
+1247;32130.0;C;3213;;LUXERY GOODS;EXPENSES - GOODS;Vervaardiging van imitatiesieraden en dergelijke artikelen
+177;322.0;C;32;3.0;CULTURAL AND RECREATIONAL DURABLES;EXPENSES - GOODS;Vervaardiging van muziekinstrumenten
+599;3220.0;C;322;;CULTURAL AND RECREATIONAL DURABLES;EXPENSES - GOODS;Vervaardiging van muziekinstrumenten
+1248;32200.0;C;3220;;CULTURAL AND RECREATIONAL DURABLES;EXPENSES - GOODS;Vervaardiging van muziekinstrumenten
+178;323.0;C;32;3.0;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSES - GOODS;Vervaardiging van sportartikelen
+600;3230.0;C;323;4.0;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSE - GOODS;Vervaardiging van sportartikelen
+1249;32300.0;C;3230;;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSE - GOODS;Vervaardiging van sportartikelen
+179;324.0;C;32;3.0;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSES - GOODS;Vervaardiging van spellen en speelgoed
+601;3240.0;C;324;4.0;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSE - GOODS;Vervaardiging van spellen en speelgoed
+1250;32400.0;C;3240;;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSE - GOODS;Vervaardiging van spellen en speelgoed
+180;325.0;C;32;3.0;OTHER DURABLE GOODS;EXPENSES - GOODS;Vervaardiging van medische en tandheelkundige instrumenten en benodigdheden
+602;3250.0;C;325;4.0;OTHER DURABLE GOODS;EXPENSE - GOODS;Vervaardiging van medische en tandheelkundige instrumenten en benodigdheden
+1251;32500.0;C;3250;;OTHER DURABLE GOODS;EXPENSE - GOODS;Vervaardiging van medische en tandheelkundige instrumenten en benodigdheden
+181;329.0;C;32;3.0;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Industrie, n.e.g.
+603;3291.0;C;329;;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Vervaardiging van borstelwaren
+1252;32910.0;C;3291;;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Vervaardiging van borstelwaren
+604;3299.0;C;329;;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Overige industrie, n.e.g.
+1253;32990.0;C;3299;;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Overige industrie, n.e.g.
+22;33.0;C;C;2.0;OTHER SERVICES;OTHER SERVICES;Reparatie en installatie van machines en apparaten
+182;331.0;C;33;;OTHER SERVICES;OTHER SERVICES;Reparatie van producten van metaal, machines en apparaten
+605;3311.0;C;331;;OTHER SERVICES;OTHER SERVICES;Reparatie van producten van metaal
+1254;33110.0;C;3311;;OTHER SERVICES;OTHER SERVICES;Reparatie van producten van metaal
+606;3312.0;C;331;;OTHER SERVICES;OTHER SERVICES;Reparatie van machines
+1255;33120.0;C;3312;;OTHER SERVICES;OTHER SERVICES;Reparatie van machines
+607;3313.0;C;331;;OTHER SERVICES;OTHER SERVICES;Reparatie van elektronische en optische apparatuur
+1256;33130.0;C;3313;;OTHER SERVICES;OTHER SERVICES;Reparatie van elektronische en optische apparatuur
+608;3314.0;C;331;;OTHER SERVICES;OTHER SERVICES;Reparatie van elektrische apparatuur
+1257;33140.0;C;3314;;OTHER SERVICES;OTHER SERVICES;Reparatie van elektrische apparatuur
+609;3315.0;C;331;;OTHER SERVICES;OTHER SERVICES;Reparatie en onderhoud van schepen
+1258;33150.0;C;3315;;OTHER SERVICES;OTHER SERVICES;Reparatie en onderhoud van schepen
+610;3316.0;C;331;;OTHER SERVICES;OTHER SERVICES;Reparatie en onderhoud van lucht- en ruimtevaartuigen
+1259;33160.0;C;3316;;OTHER SERVICES;OTHER SERVICES;Reparatie en onderhoud van lucht- en ruimtevaartuigen
+611;3317.0;C;331;;OTHER SERVICES;OTHER SERVICES;Reparatie en onderhoud van andere transportmiddelen
+1260;33170.0;C;3317;;OTHER SERVICES;OTHER SERVICES;Reparatie en onderhoud van andere transportmiddelen
+612;3319.0;C;331;;OTHER SERVICES;OTHER SERVICES;Reparatie van andere apparatuur
+1261;33190.0;C;3319;;OTHER SERVICES;OTHER SERVICES;Reparatie van andere apparatuur
+183;332.0;C;33;;OTHER SERVICES;OTHER SERVICES;Installatie van industriële machines, toestellen en werktuigen
+613;3320.0;C;332;;OTHER SERVICES;OTHER SERVICES;Installatie van industriële machines, toestellen en werktuigen
+1262;33200.0;C;3320;;OTHER SERVICES;OTHER SERVICES;Installatie van industriële machines, toestellen en werktuigen
+614;3511.0;D;351;4.0;UTILITIES - ELECTRICITY;UTILITIES - ELECTRICITY;Productie van elektriciteit
+1263;35110.0;D;3511;;UTILITIES - ELECTRICITY;UTILITIES - ELECTRICITY;Productie van elektriciteit
+615;3512.0;D;351;4.0;UTILITIES - ELECTRICITY;UTILITIES - ELECTRICITY;Transmissie van elektriciteit
+1264;35120.0;D;3512;;UTILITIES - ELECTRICITY;UTILITIES - ELECTRICITY;Transmissie van elektriciteit
+616;3513.0;D;351;4.0;UTILITIES - ELECTRICITY;UTILITIES - ELECTRICITY;Distributie van elektriciteit
+1265;35130.0;D;3513;;UTILITIES - ELECTRICITY;UTILITIES - ELECTRICITY;Distributie van elektriciteit
+617;3514.0;D;351;4.0;UTILITIES - ELECTRICITY;UTILITIES - ELECTRICITY;Handel in elektriciteit
+1266;35140.0;D;3514;;UTILITIES - ELECTRICITY;UTILITIES - ELECTRICITY;Handel in elektriciteit
+184;352.0;D;35;3.0;UTILITIES - GAS;UTILITIES - GAS;Productie en distributie van gas
+618;3521.0;D;352;4.0;UTILITIES - GAS;UTILITIES - GAS;Productie van gas
+1267;35210.0;D;3521;;UTILITIES - GAS;UTILITIES - GAS;Productie van gas
+619;3522.0;D;352;4.0;UTILITIES - GAS;UTILITIES - GAS;Distributie van gasvormige brandstoffen via leidingen
+1268;35220.0;D;3522;;UTILITIES - GAS;UTILITIES - GAS;Distributie van gasvormige brandstoffen via leidingen
+620;3523.0;D;352;4.0;UTILITIES - GAS;UTILITIES - GAS;Handel in gas via leidingen
+1269;35230.0;D;3523;;UTILITIES - GAS;UTILITIES - GAS;Handel in gas via leidingen
+185;353.0;D;35;3.0;UTILITIES - OTHER ENERGY FOR HEATING AND COOLING;UTILITIES - OTHER ENERGY FOR HEATING AND COOLING;Productie en distributie van stoom en gekoelde lucht
+621;3530.0;D;353;4.0;UTILITIES - OTHER ENERGY FOR HEATING AND COOLING;UTILITIES - OTHER ENERGY FOR HEATING AND COOLING;Productie en distributie van stoom en gekoelde lucht
+1270;35300.0;D;3530;;UTILITIES - OTHER ENERGY FOR HEATING AND COOLING;UTILITIES - OTHER ENERGY FOR HEATING AND COOLING;Productie en distributie van stoom en gekoelde lucht
+23;36.0;E;E;2.0;UTILITIES - WATER SUPPLY;UTILITIES - WATER SUPPLY;Winning, behandeling en distributie van water
+186;360.0;E;36;;UTILITIES - WATER SUPPLY;UTILITIES - WATER SUPPLY;Winning, behandeling en distributie van water
+622;3600.0;E;360;;UTILITIES - WATER SUPPLY;UTILITIES - WATER SUPPLY;Winning, behandeling en distributie van water
+1271;36000.0;E;3600;;UTILITIES - WATER SUPPLY;UTILITIES - WATER SUPPLY;Winning, behandeling en distributie van water
+24;37.0;E;E;2.0;SEWAGE COLLECTION;SEWAGE COLLECTION;Afvalwaterafvoer
+187;370.0;E;37;;SEWAGE COLLECTION;SEWAGE COLLECTION;Afvalwaterafvoer
+623;3700.0;E;370;;SEWAGE COLLECTION;SEWAGE COLLECTION;Afvalwaterafvoer
+1272;37000.0;E;3700;;SEWAGE COLLECTION;SEWAGE COLLECTION;Afvalwaterafvoer
+25;38.0;E;E;2.0;REFUSE COLLECTION;REFUSE COLLECTION;Inzameling, verwerking en verwijdering van afval
+188;381.0;E;38;;REFUSE COLLECTION;REFUSE COLLECTION;Inzameling van afval
+624;3811.0;E;381;;REFUSE COLLECTION;REFUSE COLLECTION;Inzameling van ongevaarlijk afval
+1273;38110.0;E;3811;;REFUSE COLLECTION;REFUSE COLLECTION;Inzameling van ongevaarlijk afval
+625;3812.0;E;381;;REFUSE COLLECTION;REFUSE COLLECTION;Inzameling van gevaarlijk afval
+1274;38120.0;E;3812;;REFUSE COLLECTION;REFUSE COLLECTION;Inzameling van gevaarlijk afval
+189;382.0;E;38;;REFUSE COLLECTION;REFUSE COLLECTION;Verwerking en verwijdering van afval
+626;3821.0;E;382;;REFUSE COLLECTION;REFUSE COLLECTION;Verwerking en verwijdering van ongevaarlijk afval
+1275;38211.0;E;3821;;REFUSE COLLECTION;REFUSE COLLECTION;Voorbehandeling van ongevaarlijk afval met het oog op verwijdering
+1276;38212.0;E;3821;;REFUSE COLLECTION;REFUSE COLLECTION;Fysicochemische verwerking van slib en vloeibare afvalstoffen
+1277;38213.0;E;3821;;REFUSE COLLECTION;REFUSE COLLECTION;Behandeling en verwijdering van ongevaarlijk afval, m.u.v. slib en vloeibare afvalstoffen
+1278;38219.0;E;3821;;REFUSE COLLECTION;REFUSE COLLECTION;Overige verwerking en verwijdering van ongevaarlijk afval
+627;3822.0;E;382;;REFUSE COLLECTION;REFUSE COLLECTION;Verwerking en verwijdering van gevaarlijk afval
+1279;38221.0;E;3822;;REFUSE COLLECTION;REFUSE COLLECTION;Voorbehandeling van gevaarlijk afval met het oog op verwijdering
+1280;38222.0;E;3822;;REFUSE COLLECTION;REFUSE COLLECTION;Behandeling en verwijdering van gevaarlijk afval
+190;383.0;E;38;;REFUSE COLLECTION;REFUSE COLLECTION;Terugwinning
+628;3831.0;E;383;;REFUSE COLLECTION;REFUSE COLLECTION;Sloop van wrakken
+1281;38310.0;E;3831;;REFUSE COLLECTION;REFUSE COLLECTION;Sloop van wrakken
+629;3832.0;E;383;;REFUSE COLLECTION;REFUSE COLLECTION;Terugwinning van gesorteerd materiaal
+1282;38321.0;E;3832;;REFUSE COLLECTION;REFUSE COLLECTION;Sorteren van ongevaarlijk afval
+1283;38322.0;E;3832;;REFUSE COLLECTION;REFUSE COLLECTION;Terugwinning van metaalafval
+1284;38323.0;E;3832;;REFUSE COLLECTION;REFUSE COLLECTION;Terugwinning van inerte afvalstoffen
+1285;38329.0;E;3832;;REFUSE COLLECTION;REFUSE COLLECTION;Terugwinning van overig gesorteerd afval
+26;39.0;E;E;2.0;REFUSE COLLECTION;REFUSE COLLECTION;Sanering en ander afvalbeheer
+191;390.0;E;39;;REFUSE COLLECTION;REFUSE COLLECTION;Sanering en ander afvalbeheer
+630;3900.0;E;390;;REFUSE COLLECTION;REFUSE COLLECTION;Sanering en ander afvalbeheer
+1286;39000.0;E;3900;;REFUSE COLLECTION;REFUSE COLLECTION;Sanering en ander afvalbeheer
+27;41.0;F;F;2.0;INVESTMENTS - REAL ESTATE;INVESTMENTS - REAL ESTATE;Bouw van gebouwen
+192;411.0;F;41;;INVESTMENTS - REAL ESTATE;INVESTMENTS - REAL ESTATE;Ontwikkeling van bouwprojecten
+631;4110.0;F;411;;INVESTMENTS - REAL ESTATE;INVESTMENTS - REAL ESTATE;Ontwikkeling van bouwprojecten
+1287;41101.0;F;4110;;INVESTMENTS - REAL ESTATE;INVESTMENTS - REAL ESTATE;Ontwikkeling van residentiële bouwprojecten
+1288;41102.0;F;4110;;INVESTMENTS - REAL ESTATE;INVESTMENTS - REAL ESTATE;Ontwikkeling van niet-residentiële bouwprojecten
+193;412.0;F;41;;INVESTMENTS - REAL ESTATE;INVESTMENTS - REAL ESTATE;Burgerlijke en utiliteitsbouw
+632;4120.0;F;412;;INVESTMENTS - REAL ESTATE;INVESTMENTS - REAL ESTATE;Burgerlijke en utiliteitsbouw
+1289;41201.0;F;4120;;INVESTMENTS - REAL ESTATE;INVESTMENTS - REAL ESTATE;Algemene bouw van residentiële gebouwen
+1290;41202.0;F;4120;;INVESTMENTS - REAL ESTATE;INVESTMENTS - REAL ESTATE;Algemene bouw van kantoorgebouwen
+1291;41203.0;F;4120;;INVESTMENTS - REAL ESTATE;INVESTMENTS - REAL ESTATE;Algemene bouw van andere niet-residentiële gebouwen
+28;42.0;F;F;2.0;INVESTMENTS - REAL ESTATE;INVESTMENTS;Weg- en waterbouw
+194;421.0;F;42;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouw van wegen en spoorwegen
+633;4211.0;F;421;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouw van autowegen en andere wegen
+1292;42110.0;F;4211;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouw van autowegen en andere wegen
+634;4212.0;F;421;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouw van boven- en ondergrondse spoorwegen
+1293;42120.0;F;4212;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouw van boven- en ondergrondse spoorwegen
+635;4213.0;F;421;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouw van bruggen en tunnels
+1294;42130.0;F;4213;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouw van bruggen en tunnels
+195;422.0;F;42;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouw van civieltechnische werken ten behoeve van nutsbedrijven
+636;4221.0;F;422;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouw van civieltechnische werken voor vloeistoffen
+1295;42211.0;F;4221;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouw van water- en gasdistributienetten
+1296;42212.0;F;4221;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouw van rioleringen
+1297;42219.0;F;4221;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouw van civieltechnische werken voor vloeistoffen, n.e.g.
+637;4222.0;F;422;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouw van civieltechnische werken voor elektriciteit en telecommunicatie
+1298;42220.0;F;4222;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouw van civieltechnische werken voor elektriciteit en telecommunicatie
+196;429.0;F;42;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouw van andere civieltechnische werken
+638;4291.0;F;429;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Waterbouw
+1299;42911.0;F;4291;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Baggerwerken
+1300;42919.0;F;4291;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Waterbouw, m.u.v. baggerwerken
+639;4299.0;F;429;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouw van andere civieltechnische werken, n.e.g.
+1301;42990.0;F;4299;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouw van andere civieltechnische werken, n.e.g.
+29;43.0;F;F;2.0;INVESTMENTS - REAL ESTATE;INVESTMENTS;Gespecialiseerde bouwwerkzaamheden
+197;431.0;F;43;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Slopen en bouwrijp maken van terreinen
+640;4311.0;F;431;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Slopen
+1302;43110.0;F;4311;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Slopen
+641;4312.0;F;431;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouwrijp maken van terreinen
+1303;43120.0;F;4312;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouwrijp maken van terreinen
+642;4313.0;F;431;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Proefboren en boren
+1304;43130.0;F;4313;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Proefboren en boren
+198;432.0;F;43;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Elektrische installatie, loodgieterswerk en overige bouwinstallatie
+643;4321.0;F;432;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Elektrische installatie
+1305;43211.0;F;4321;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Elektrotechnische installatiewerken aan gebouwen
+1306;43212.0;F;4321;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Elektrotechnische installatiewerken, uitgezonderd aan gebouwen
+644;4322.0;F;432;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Loodgieterswerk, installatie van verwarming en klimaatregeling
+1307;43221.0;F;4322;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Loodgieterswerk
+1308;43222.0;F;4322;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Installatie van verwarming, klimaatregeling en ventilatie
+645;4329.0;F;432;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Overige bouwinstallatie
+1309;43291.0;F;4329;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Isolatiewerkzaamheden
+1310;43299.0;F;4329;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Overige bouwinstallatie, n.e.g.
+199;433.0;F;43;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Afwerking van gebouwen
+646;4331.0;F;433;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Stukadoorswerk
+1311;43310.0;F;4331;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Stukadoorswerk
+647;4332.0;F;433;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Schrijnwerk
+1312;43320.0;F;4332;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Schrijnwerk
+648;4333.0;F;433;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Vloerafwerking en behangen
+1313;43331.0;F;4333;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Plaatsen van vloer- en wandtegels
+1314;43332.0;F;4333;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Plaatsen van vloerbedekking en wandbekleding van hout
+1315;43333.0;F;4333;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Plaatsen van behang en vloerbedekking en wandbekleding van andere materialen
+649;4334.0;F;433;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Schilderen en glaszetten
+1316;43341.0;F;4334;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Schilderen van gebouwen
+1317;43342.0;F;4334;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Schilderen van civieltechnische werken
+1318;43343.0;F;4334;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Glaszetten
+650;4339.0;F;433;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Overige werkzaamheden in verband met de afwerking van gebouwen
+1319;43390.0;F;4339;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Overige werkzaamheden in verband met de afwerking van gebouwen
+200;439.0;F;43;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Overige gespecialiseerde bouwactiviteiten
+651;4391.0;F;439;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Dakwerkzaamheden
+1320;43910.0;F;4391;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Dakwerkzaamheden
+652;4399.0;F;439;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Overige gespecialiseerde bouwactiviteiten, n.e.g.
+1321;43991.0;F;4399;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Waterdichtingswerken van muren
+1322;43992.0;F;4399;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Gevelreiniging
+1323;43993.0;F;4399;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Bouw van sierschouwen en open haarden
+1324;43994.0;F;4399;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Uitvoeren van metsel- en voegwerken
+1325;43995.0;F;4399;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Restaureren van bouwwerken
+1326;43996.0;F;4399;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Chapewerken
+1327;43999.0;F;4399;;INVESTMENTS - REAL ESTATE;INVESTMENTS;Overige gespecialiseerde bouwwerkzaamheden
+201;451.0;G;45;3.0;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Handel in auto's
+653;4511.0;G;451;;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Handel in auto's en lichte bestelwagens (kleiner of gelijk aan 3,5 ton)
+1328;45111.0;G;4511;;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Groothandel in auto's en lichte bestelwagens (kleiner of gelijk aan 3,5 ton)
+1329;45112.0;G;4511;;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Handelsbemiddeling in auto's en lichte bestelwagens (kleiner of gelijk aan 3,5 ton)
+1330;45113.0;G;4511;;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Detailhandel in auto's en lichte bestelwagens (kleiner of gelijk aan 3,5 ton)
+654;4519.0;G;451;4.0;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Handel in andere motorvoertuigen
+1331;45191.0;G;4519;;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Groothandel in andere motorvoertuigen (groter dan 3,5 ton)
+1332;45192.0;G;4519;;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Handelsbemiddeling in andere motorvoertuigen (groter dan 3,5 ton)
+1333;45193.0;G;4519;;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Detailhandel in andere motorvoertuigen (groter dan 3,5 ton)
+1334;45194.0;G;4519;;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Handel in aanhangwagens, opleggers en caravans
+202;452.0;G;45;3.0;SERVICES IN RESPECT OF PERSONAL TRANSPORT EQUIPMENT;OTHER SERVICES;Onderhoud en reparatie van motorvoertuigen
+655;4520.0;G;452;;SERVICES IN RESPECT OF PERSONAL TRANSPORT EQUIPMENT;OTHER SERVICES;Onderhoud en reparatie van motorvoertuigen
+1335;45201.0;G;4520;;SERVICES IN RESPECT OF PERSONAL TRANSPORT EQUIPMENT;OTHER SERVICES;Algemeen onderhoud en reparatie van auto's en lichte bestelwagens (kleiner of gelijk aan 3,5 ton)
+1336;45202.0;G;4520;;SERVICES IN RESPECT OF PERSONAL TRANSPORT EQUIPMENT;OTHER SERVICES;Algemeen onderhoud en reparatie van overige motorvoertuigen (groter dan 3,5 ton)
+1337;45203.0;G;4520;;SERVICES IN RESPECT OF PERSONAL TRANSPORT EQUIPMENT;OTHER SERVICES;Reparatie en montage van specifieke auto-onderdelen
+1338;45204.0;G;4520;;SERVICES IN RESPECT OF PERSONAL TRANSPORT EQUIPMENT;OTHER SERVICES;Carrosserieherstelling
+1339;45205.0;G;4520;;SERVICES IN RESPECT OF PERSONAL TRANSPORT EQUIPMENT;OTHER SERVICES;Bandenservicebedrijven
+1340;45206.0;G;4520;;SERVICES IN RESPECT OF PERSONAL TRANSPORT EQUIPMENT;OTHER SERVICES;Wassen en poetsen van motorvoertuigen
+1341;45209.0;G;4520;;SERVICES IN RESPECT OF PERSONAL TRANSPORT EQUIPMENT;OTHER SERVICES;Onderhoud en reparatie van motorvoertuigen, n.e.g.
+203;453.0;G;45;3.0;PARTS AND ACCESSORIES FOR PERSONAL TRANSPORT EQUIPMENT;EXPENSES - GOODS;Handel in onderdelen en accessoires van motorvoertuigen
+656;4531.0;G;453;;PARTS AND ACCESSORIES FOR PERSONAL TRANSPORT EQUIPMENT;EXPENSES - GOODS;Groothandel in onderdelen en accessoires van motorvoertuigen
+1342;45310.0;G;4531;;PARTS AND ACCESSORIES FOR PERSONAL TRANSPORT EQUIPMENT;EXPENSES - GOODS;Handelsbemiddeling en groothandel in onderdelen en accessoires van motorvoertuigen
+657;4532.0;G;453;;PARTS AND ACCESSORIES FOR PERSONAL TRANSPORT EQUIPMENT;EXPENSES - GOODS;Detailhandel in onderdelen en accessoires van motorvoertuigen
+1343;45320.0;G;4532;;PARTS AND ACCESSORIES FOR PERSONAL TRANSPORT EQUIPMENT;EXPENSES - GOODS;Detailhandel in onderdelen en accessoires van motorvoertuigen
+204;454.0;G;45;3.0;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Handel in en onderhoud en reparatie van motorfietsen en delen en toebehoren van motorfietsen
+658;4540.0;G;454;;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Handel in en onderhoud en reparatie van motorfietsen en delen en toebehoren van motorfietsen
+1344;45401.0;G;4540;;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Handelsbemiddeling en groothandel in motorfietsen en delen en toebehoren van motorfietsen
+1345;45402.0;G;4540;;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Detailhandel in en onderhoud en reparatie van motorfietsen en delen en toebehoren van motorfietsen
+205;461.0;G;46;3.0;OTHER SERVICES;OTHER SERVICES;Handelsbemiddeling
+659;4611.0;G;461;;OTHER SERVICES;OTHER SERVICES;Handelsbemiddeling in landbouwproducten, levende dieren en textielgrondstoffen en halffabrikaten
+1346;46110.0;G;4611;;OTHER SERVICES;OTHER SERVICES;Handelsbemiddeling in landbouwproducten, levende dieren en textielgrondstoffen en halffabrikaten
+660;4612.0;G;461;;OTHER SERVICES;OTHER SERVICES;Handelsbemiddeling in brandstoffen, ertsen, metalen en chemische producten
+1347;46120.0;G;4612;;OTHER SERVICES;OTHER SERVICES;Handelsbemiddeling in brandstoffen, ertsen, metalen en chemische producten
+661;4613.0;G;461;;OTHER SERVICES;OTHER SERVICES;Handelsbemiddeling in hout en bouwmaterialen
+1348;46130.0;G;4613;;OTHER SERVICES;OTHER SERVICES;Handelsbemiddeling in hout en bouwmaterialen
+662;4614.0;G;461;;OTHER SERVICES;OTHER SERVICES;Handelsbemiddeling in machines, apparaten en werktuigen voor de industrie en in schepen en luchtvaartuigen
+1349;46140.0;G;4614;;OTHER SERVICES;OTHER SERVICES;Handelsbemiddeling in machines, apparaten en werktuigen voor de industrie en in schepen en luchtvaartuigen
+663;4615.0;G;461;;OTHER SERVICES;OTHER SERVICES;Handelsbemiddeling in meubelen, huishoudelijke artikelen en ijzerwaren
+1350;46150.0;G;4615;;OTHER SERVICES;OTHER SERVICES;Handelsbemiddeling in meubelen, huishoudelijke artikelen en ijzerwaren
+664;4616.0;G;461;;OTHER SERVICES;OTHER SERVICES;Handelsbemiddeling in textiel, kleding, bont, schoeisel en lederwaren
+1351;46160.0;G;4616;;OTHER SERVICES;OTHER SERVICES;Handelsbemiddeling in textiel, kleding, bont, schoeisel en lederwaren
+665;4617.0;G;461;;OTHER SERVICES;OTHER SERVICES;Handelsbemiddeling in voedings- en genotmiddelen
+1352;46170.0;G;4617;;OTHER SERVICES;OTHER SERVICES;Handelsbemiddeling in voedings- en genotmiddelen
+666;4618.0;G;461;;OTHER SERVICES;OTHER SERVICES;Handelsbemiddeling gespecialiseerd in andere goederen
+1353;46180.0;G;4618;;OTHER SERVICES;OTHER SERVICES;Handelsbemiddeling gespecialiseerd in andere goederen
+667;4619.0;G;461;;OTHER SERVICES;OTHER SERVICES;Handelsbemiddeling in goederen, algemeen assortiment
+1354;46190.0;G;4619;;OTHER SERVICES;OTHER SERVICES;Handelsbemiddeling in goederen, algemeen assortiment
+206;462.0;G;46;3.0;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Groothandel in landbouwproducten en levende dieren
+668;4621.0;G;462;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Groothandel in granen, ruwe tabak, zaden en veevoeders
+1355;46211.0;G;4621;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Groothandel in granen en zaden
+1356;46212.0;G;4621;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Groothandel in veevoeders
+1357;46213.0;G;4621;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Groothandel in ruwe plantaardige en dierlijke oliën en vetten
+1358;46214.0;G;4621;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Groothandel in andere akkerbouwproducten
+1359;46215.0;G;4621;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Groothandel in ruwe tabak
+1360;46216.0;G;4621;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Groothandel in akkerbouwproducten en veevoeders, algemeen assortiment
+669;4622.0;G;462;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Groothandel in bloemen en planten
+1361;46220.0;G;4622;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Groothandel in bloemen en planten
+670;4623.0;G;462;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Groothandel in levende dieren
+1362;46231.0;G;4623;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Groothandel in levend vee
+1363;46232.0;G;4623;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Groothandel in levende dieren, m.u.v. levend vee
+671;4624.0;G;462;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Groothandel in huiden, vellen en leer
+1364;46240.0;G;4624;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Groothandel in huiden, vellen en leer
+207;463.0;G;46;3.0;GROCERIES;EXPENSES - GOODS;Groothandel in voedingsmiddelen, dranken en genotmiddelen
+672;4631.0;G;463;;GROCERIES;EXPENSES - GOODS;Groothandel in groenten en fruit
+1365;46311.0;G;4631;;GROCERIES;EXPENSES - GOODS;Groothandel in consumptieaardappelen
+1366;46319.0;G;4631;;GROCERIES;EXPENSES - GOODS;Groothandel in groenten en fruit, m.u.v. consumptieaardappelen
+673;4632.0;G;463;;GROCERIES;EXPENSES - GOODS;Groothandel in vlees en vleesproducten
+1367;46321.0;G;4632;;GROCERIES;EXPENSES - GOODS;Groothandel in vlees en vleesproducten, uitgezonderd vlees van wild en van gevogelte
+1368;46322.0;G;4632;;GROCERIES;EXPENSES - GOODS;Groothandel in vlees van wild en van gevogelte
+674;4633.0;G;463;;GROCERIES;EXPENSES - GOODS;Groothandel in zuivelproducten, eieren en spijsoliën en -vetten
+1369;46331.0;G;4633;;GROCERIES;EXPENSES - GOODS;Groothandel in zuivelproducten en eieren
+1370;46332.0;G;4633;;GROCERIES;EXPENSES - GOODS;Groothandel in spijsoliën en -vetten
+675;4634.0;G;463;;GROCERIES;EXPENSES - GOODS;Groothandel in dranken
+1371;46341.0;G;4634;;GROCERIES;EXPENSES - GOODS;Groothandel in wijnen en geestrijke dranken
+1372;46349.0;G;4634;;GROCERIES;EXPENSES - GOODS;Groothandel in dranken, algemeen assortiment
+676;4635.0;G;463;;GROCERIES;EXPENSES - GOODS;Groothandel in tabaksproducten
+1373;46350.0;G;4635;;GROCERIES;EXPENSES - GOODS;Groothandel in tabaksproducten
+677;4636.0;G;463;;GROCERIES;EXPENSES - GOODS;Groothandel in suiker, chocolade en suikerwerk
+1374;46360.0;G;4636;;GROCERIES;EXPENSES - GOODS;Groothandel in suiker, chocolade en suikerwerk
+678;4637.0;G;463;;GROCERIES;EXPENSES - GOODS;Groothandel in koffie, thee, cacao en specerijen
+1375;46370.0;G;4637;;GROCERIES;EXPENSES - GOODS;Groothandel in koffie, thee, cacao en specerijen
+679;4638.0;G;463;;GROCERIES;EXPENSES - GOODS;Groothandel in andere voedingsmiddelen, met inbegrip van vis en schaal- en weekdieren
+1376;46381.0;G;4638;;GROCERIES;EXPENSES - GOODS;Groothandel in vis en schaal- en weekdieren
+1377;46382.0;G;4638;;GROCERIES;EXPENSES - GOODS;Groothandel in aardappelproducten
+1378;46383.0;G;4638;;GROCERIES;EXPENSES - GOODS;Groothandel in voedsel voor huisdieren
+1379;46389.0;G;4638;;GROCERIES;EXPENSES - GOODS;Groothandel in andere voedingsmiddelen, n.e.g.
+680;4639.0;G;463;;GROCERIES;EXPENSES - GOODS;Niet-gespecialiseerde groothandel in voedings- en genotmiddelen
+1380;46391.0;G;4639;;GROCERIES;EXPENSES - GOODS;Niet-gespecialiseerde groothandel in diepgevroren voedingsmiddelen
+1381;46392.0;G;4639;;GROCERIES;EXPENSES - GOODS;Niet-gespecialiseerde groothandel in niet-diepgevroren voedingsmiddelen, dranken en genotmiddelen
+208;464.0;G;46;3.0;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in andere consumentenartikelen
+681;4641.0;G;464;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in textiel
+1382;46411.0;G;4641;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in weefsels, stoffen en fournituren
+1383;46412.0;G;4641;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in huishoudtextiel en beddengoed
+1384;46419.0;G;4641;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in overig textiel
+682;4642.0;G;464;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in kleding en schoeisel
+1385;46421.0;G;4642;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in werkkleding
+1386;46422.0;G;4642;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in onderkleding
+1387;46423.0;G;4642;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in kleding, met uitzondering van werk- en onderkleding
+1388;46424.0;G;4642;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in kledingaccessoires
+1389;46425.0;G;4642;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in schoeisel
+683;4643.0;G;464;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in elektrische huishoudelijke apparaten
+1390;46431.0;G;4643;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in elektrische huishoudelijke apparaten en audio- en videoapparatuur
+1391;46432.0;G;4643;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in opgenomen beeld- en geluidsdragers
+1392;46433.0;G;4643;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in foto- en filmapparatuur en in andere optische artikelen
+684;4644.0;G;464;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in porselein, glaswerk en reinigingsmiddelen
+1393;46441.0;G;4644;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in porselein en glaswerk
+1394;46442.0;G;4644;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in reinigingsmiddelen
+685;4645.0;G;464;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in parfumerieën en cosmetica
+1395;46450.0;G;4645;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in parfumerieën en cosmetica
+686;4646.0;G;464;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in farmaceutische producten
+1396;46460.0;G;4646;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in farmaceutische producten
+687;4647.0;G;464;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in huismeubilair, tapijten en verlichtingsapparatuur
+1397;46471.0;G;4647;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in huismeubilair
+1398;46472.0;G;4647;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in tapijten
+1399;46473.0;G;4647;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in verlichtingsapparatuur
+688;4648.0;G;464;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in uurwerken en sieraden
+1400;46480.0;G;4648;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in uurwerken en sieraden
+689;4649.0;G;464;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in andere consumentenartikelen
+1401;46491.0;G;4649;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in kranten, boeken en tijdschriften
+1402;46492.0;G;4649;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in kantoor- en schoolbenodigdheden
+1403;46493.0;G;4649;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in papier- en kartonwaren
+1404;46494.0;G;4649;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in niet-elektrische huishoudelijke artikelen
+1405;46495.0;G;4649;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in fietsen
+1406;46496.0;G;4649;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in sport- en kampeerartikelen, met uitzondering van fietsen
+1407;46497.0;G;4649;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in spellen en speelgoed
+1408;46498.0;G;4649;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in lederwaren en reisartikelen
+1409;46499.0;G;4649;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in andere consumentenartikelen, n.e.g.
+209;465.0;G;46;3.0;INFORMATION AND COMMUNICATION EQUIPMENT;EXPENSES - GOODS;Groothandel in informatie- en communicatieapparatuur
+690;4651.0;G;465;;INFORMATION AND COMMUNICATION EQUIPMENT;EXPENSES - GOODS;Groothandel in computers, randapparatuur en software
+1410;46510.0;G;4651;;INFORMATION AND COMMUNICATION EQUIPMENT;EXPENSES - GOODS;Groothandel in computers, randapparatuur en software
+691;4652.0;G;465;;INFORMATION AND COMMUNICATION EQUIPMENT;EXPENSES - GOODS;Groothandel in elektronische en telecommunicatieapparatuur en delen daarvan
+1411;46520.0;G;4652;;INFORMATION AND COMMUNICATION EQUIPMENT;EXPENSES - GOODS;Groothandel in elektronische en telecommunicatieapparatuur en delen daarvan
+210;466.0;G;46;3.0;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in andere machines en werktuigen en toebehoren
+692;4661.0;G;466;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in machines, werktuigen en toebehoren voor de landbouw
+1412;46610.0;G;4661;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in machines, werktuigen en toebehoren voor de landbouw
+693;4662.0;G;466;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in gereedschapswerktuigen
+1413;46620.0;G;4662;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in gereedschapswerktuigen
+694;4663.0;G;466;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in machines voor de mijnbouw, de bouwnijverheid en de weg- en waterbouw
+1414;46630.0;G;4663;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in machines voor de mijnbouw, de bouwnijverheid en de weg- en waterbouw
+695;4664.0;G;466;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in machines voor de textielindustrie en in naai- en breimachines
+1415;46640.0;G;4664;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in machines voor de textielindustrie en in naai- en breimachines
+696;4665.0;G;466;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in kantoormeubelen
+1416;46650.0;G;4665;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in kantoormeubelen
+697;4666.0;G;466;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in andere kantoormachines en kantoorbenodigdheden
+1417;46660.0;G;4666;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in andere kantoormachines en kantoorbenodigdheden, met uitzondering van computers en randapparatuur
+698;4669.0;G;466;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in andere machines en werktuigen
+1418;46691.0;G;4669;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in machines voor de productie van voedings- en genotmiddelen
+1419;46692.0;G;4669;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in verpakkingsmachines en weegtoestellen
+1420;46693.0;G;4669;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in elektrisch materiaal, inclusief installatiemateriaal
+1421;46694.0;G;4669;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in hijs-, hef- en transportwerktuigen
+1422;46695.0;G;4669;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in pompen en compressoren
+1423;46696.0;G;4669;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in meet-, controle- en navigatieinstrumenten
+1424;46697.0;G;4669;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in machines en apparaten voor de warmte-, koel- en vriestechniek voor industrieel gebruik
+1425;46699.0;G;4669;;OTHER DURABLE GOODS;EXPENSES - GOODS;Groothandel in andere machines en werktuigen, n.e.g.
+211;467.0;G;46;3.0;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Overige gespecialiseerde groothandel
+699;4671.0;G;467;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in vaste, vloeibare en gasvormige brandstoffen en aanverwante producten
+1426;46710.0;G;4671;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in vaste, vloeibare en gasvormige brandstoffen en aanverwante producten
+700;4672.0;G;467;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in metalen en metaalertsen
+1427;46720.0;G;4672;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in metalen en metaalertsen
+701;4673.0;G;467;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in hout, bouwmaterialen en sanitair
+1428;46731.0;G;4673;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in bouwmaterialen, algemeen assortiment
+1429;46732.0;G;4673;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in hout
+1430;46733.0;G;4673;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in behang, verf en woningtextiel
+1431;46734.0;G;4673;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in vlakglas
+1432;46735.0;G;4673;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in vloer- en wandtegels
+1433;46736.0;G;4673;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in sanitair
+1434;46739.0;G;4673;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in overige bouwmaterialen
+702;4674.0;G;467;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in ijzerwaren en in installatiemateriaal voor loodgieterswerk en verwarming
+1435;46741.0;G;4674;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in ijzerwaren
+1436;46742.0;G;4674;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in installatiemateriaal voor loodgieterswerk en verwarming
+703;4675.0;G;467;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in chemische producten
+1437;46751.0;G;4675;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in chemische producten voor industrieel gebruik
+1438;46752.0;G;4675;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in kunstmeststoffen en andere agrochemische producten
+704;4676.0;G;467;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in andere intermediaire producten
+1439;46761.0;G;4676;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in diamant en andere edelstenen
+1440;46769.0;G;4676;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in andere intermediaire producten, n.e.g.
+705;4677.0;G;467;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in afval en schroot
+1441;46771.0;G;4677;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in autosloopmateriaal
+1442;46772.0;G;4677;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in ijzer- en staalschroot en in oude non-ferrometalen
+1443;46779.0;G;4677;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Groothandel in afval en schroot, n.e.g.
+212;469.0;G;46;3.0;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Niet-gespecialiseerde groothandel
+706;4690.0;G;469;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Niet-gespecialiseerde groothandel
+1444;46900.0;G;4690;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Niet-gespecialiseerde groothandel
+707;4711.0;G;471;4.0;GROCERIES;EXPENSES - GOODS;Detailhandel in niet-gespecialiseerde winkels waarbij voedings- en genotmiddelen overheersen
+1445;47111.0;G;4711;;GROCERIES;EXPENSES - GOODS;Detailhandel in niet-gespecialiseerde winkels in diepvriesproducten
+1446;47112.0;G;4711;;GROCERIES;EXPENSES - GOODS;Detailhandel in niet-gespecialiseerde winkels waarbij voedings- en genotmiddelen overheersen (verkoopsoppervlakte van minder dan 100 m²)
+1447;47113.0;G;4711;;GROCERIES;EXPENSES - GOODS;Detailhandel in niet-gespecialiseerde winkels waarbij voedings- en genotmiddelen overheersen (verkoopsoppervlakte tussen 100 m² en minder dan 400 m²)
+1448;47114.0;G;4711;;GROCERIES;EXPENSES - GOODS;Detailhandel in niet-gespecialiseerde winkels waarbij voedings- en genotmiddelen overheersen (verkoopsoppervlakte tussen 400 m² en minder dan 2500 m²)
+1449;47115.0;G;4711;;GROCERIES;EXPENSES - GOODS;Detailhandel in niet-gespecialiseerde winkels waarbij voedings- en genotmiddelen overheersen (verkoopsoppervlakte vanaf 2500 m²)
+708;4719.0;G;471;4.0;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Overige detailhandel in niet-gespecialiseerde winkels
+1450;47191.0;G;4719;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Detailhandel in niet-gespecialiseerde winkels waarbij voedings- en genotmiddelen niet overheersen (verkoopoppervlakte van minder dan 2500 m²)
+1451;47192.0;G;4719;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Detailhandel in niet-gespecialiseerde winkels waarbij voedings- en genotmiddelen niet overheersen (verkoopoppervlakte vanaf 2500 m²)
+213;472.0;G;47;3.0;GROCERIES;EXPENSES - GOODS;Detailhandel in voedings- en genotmiddelen in gespecialiseerde winkels
+709;4721.0;G;472;4.0;GROCERIES;EXPENSES - GOODS;Detailhandel in groenten en fruit in gespecialiseerde winkels
+1452;47210.0;G;4721;;GROCERIES;EXPENSES - GOODS;Detailhandel in groenten en fruit in gespecialiseerde winkels
+710;4722.0;G;472;4.0;GROCERIES;EXPENSES - GOODS;Detailhandel in vlees en vleesproducten in gespecialiseerde winkels
+1453;47221.0;G;4722;;GROCERIES;EXPENSES - GOODS;Detailhandel in vlees en vleesproducten in gespecialiseerde winkels, m.u.v. vlees van wild en van gevogelte
+1454;47222.0;G;4722;;GROCERIES;EXPENSES - GOODS;Detailhandel in vlees van wild en van gevogelte in gespecialiseerde winkels
+711;4723.0;G;472;4.0;GROCERIES;EXPENSES - GOODS;Detailhandel in vis en schaal- en weekdieren in gespecialiseerde winkels
+1455;47230.0;G;4723;;GROCERIES;EXPENSES - GOODS;Detailhandel in vis en schaal- en weekdieren in gespecialiseerde winkels
+712;4724.0;G;472;4.0;GROCERIES;EXPENSES - GOODS;Detailhandel in brood, banketbakkerswerk en suikerwerk in gespecialiseerde winkels
+1456;47241.0;G;4724;;GROCERIES;EXPENSES - GOODS;Detailhandel in brood en banketbakkerswerk in gespecialiseerde winkels (koude bakkers)
+1457;47242.0;G;4724;;GROCERIES;EXPENSES - GOODS;Detailhandel in chocolade en suikerwerk in gespecialiseerde winkels
+713;4725.0;G;472;4.0;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Detailhandel in dranken in gespecialiseerde winkels
+1458;47251.0;G;4725;;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Detailhandel in wijnen en geestrijke dranken in gespecialiseerde winkels
+1459;47252.0;G;4725;;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Detailhandel in dranken in gespecialiseerde winkels, algemeen assortiment
+714;4726.0;G;472;4.0;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Detailhandel in tabaksproducten in gespecialiseerde winkels
+1460;47260.0;G;4726;;ALCOHOLIC BEVERAGES AND TOBACCO;EXPENSES - GOODS;Detailhandel in tabaksproducten in gespecialiseerde winkels
+715;4729.0;G;472;4.0;GROCERIES;EXPENSES - GOODS;Overige detailhandel in voedingsmiddelen in gespecialiseerde winkels
+1461;47291.0;G;4729;;GROCERIES;EXPENSES - GOODS;Detailhandel in zuivelproducten en eieren in gespecialiseerde winkels
+1462;47299.0;G;4729;;GROCERIES;EXPENSES - GOODS;Overige detailhandel in voedingsmiddelen in gespecialiseerde winkels, n.e.g.
+214;473.0;G;47;3.0;FUELS AND LUBRICANTS FOR PERSONAL TRANSPORT EQUIPMENT;EXPENSES - GOODS;Detailhandel in motorbrandstoffen in gespecialiseerde winkels
+716;4730.0;G;473;4.0;FUELS AND LUBRICANTS FOR PERSONAL TRANSPORT EQUIPMENT;EXPENSES - GOODS;Detailhandel in motorbrandstoffen in gespecialiseerde winkels
+1463;47300.0;G;4730;;FUELS AND LUBRICANTS FOR PERSONAL TRANSPORT EQUIPMENT;EXPENSES - GOODS;Detailhandel in motorbrandstoffen in gespecialiseerde winkels
+215;474.0;G;47;3.0;INFORMATION AND COMMUNICATION EQUIPMENT;INVESTMENTS - GOODS;Detailhandel in ICT-apparatuur in gespecialiseerde winkels
+717;4741.0;G;474;4.0;INFORMATION AND COMMUNICATION EQUIPMENT;EXPENSES - GOODS;Detailhandel in computers, randapparatuur en software in gespecialiseerde winkels
+1464;47410.0;G;4741;;INFORMATION AND COMMUNICATION EQUIPMENT;EXPENSES - GOODS;Detailhandel in computers, randapparatuur en software in gespecialiseerde winkels
+718;4742.0;G;474;4.0;INFORMATION AND COMMUNICATION EQUIPMENT;EXPENSES - GOODS;Detailhandel in telecommunicatieapparatuur in gespecialiseerde winkels
+1465;47420.0;G;4742;;INFORMATION AND COMMUNICATION EQUIPMENT;EXPENSES - GOODS;Detailhandel in telecommunicatieapparatuur in gespecialiseerde winkels
+719;4743.0;G;474;4.0;INFORMATION AND COMMUNICATION EQUIPMENT;EXPENSES - GOODS;Detailhandel in audio- en videoapparatuur in gespecialiseerde winkels
+1466;47430.0;G;4743;;INFORMATION AND COMMUNICATION EQUIPMENT;EXPENSES - GOODS;Detailhandel in audio- en videoapparatuur in gespecialiseerde winkels
+720;4751.0;G;475;4.0;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Detailhandel in textiel in gespecialiseerde winkels
+1467;47511.0;G;4751;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Detailhandel in kledingstoffen in gespecialiseerde winkels
+1468;47512.0;G;4751;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Detailhandel in huishoudtextiel en beddengoed in gespecialiseerde winkels
+1469;47513.0;G;4751;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Detailhandel in breigarens, handwerken en fournituren in gespecialiseerde winkels
+1470;47519.0;G;4751;;HOUSEHOLD TEXTILES, TABLEWARE, AND SMALL APPLIANCES;EXPENSES - GOODS;Detailhandel in overig textiel in gespecialiseerde winkels
+721;4752.0;G;475;4.0;SECURITY EQUIPMENT AND MATERIALS FOR THE MAINTENANCE AND REPAIR OF THE DWELLING;EXPENSES - GOODS;Detailhandel in ijzerwaren, verf en glas in gespecialiseerde winkels
+1471;47521.0;G;4752;5.0;MIXED RETAIL - BUILDING MATERIALS;EXPENSES - GOODS;Bouwmarkten en andere doe-het-zelfzaken in bouwmaterialen, algemeen assortiment
+1472;47522.0;G;4752;5.0;MIXED RETAIL - BUILDING MATERIALS;EXPENSES - GOODS;Detailhandel in houten bouw- en tuinmaterialen in gespecialiseerde winkels
+1473;47523.0;G;4752;5.0;MIXED RETAIL - BUILDING MATERIALS;EXPENSES - GOODS;Detailhandel in wand- en vloertegels in gespecialiseerde winkels
+1474;47524.0;G;4752;5.0;MIXED RETAIL - BUILDING MATERIALS;EXPENSES - GOODS;Detailhandel in parket-, laminaat- en kurkvloeren in gespecialiseerde winkels
+1475;47525.0;G;4752;5.0;MIXED RETAIL - BUILDING MATERIALS;EXPENSES - GOODS;Detailhandel in ijzerwaren en gereedschappen in gespecialiseerde winkels
+1476;47526.0;G;4752;5.0;SECURITY EQUIPMENT AND MATERIALS FOR THE MAINTENANCE AND REPAIR OF THE DWELLING;EXPENSES - GOODS;Detailhandel in verf en verfwaren in gespecialiseerde winkels
+1477;47527.0;G;4752;5.0;MIXED RETAIL - BUILDING MATERIALS;EXPENSES - GOODS;Detailhandel in sanitaire artikelen en sanitair installatiemateriaal in gespecialiseerde winkels
+1478;47529.0;G;4752;5.0;MIXED RETAIL - BUILDING MATERIALS;EXPENSES - GOODS;Detailhandel in overige bouwmaterialen in gespecialiseerde winkels
+722;4753.0;G;475;4.0;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Detailhandel in tapijten en andere vloerbedekking en wandbekleding in gespecialiseerde winkels
+1479;47530.0;G;4753;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Detailhandel in tapijten en andere vloerbedekking en wandbekleding in gespecialiseerde winkels
+723;4754.0;G;475;4.0;HOUSEHOLD APPLIANCES;EXPENSES - GOODS;Detailhandel in elektrische huishoudapparaten in gespecialiseerde winkels
+1480;47540.0;G;4754;;HOUSEHOLD APPLIANCES;EXPENSES - GOODS;Detailhandel in elektrische huishoudapparaten in gespecialiseerde winkels
+724;4759.0;G;475;4.0;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Detailhandel in meubelen, verlichtingsbenodigdheden en andere huishoudelijke artikelen in gespecialiseerde winkels
+1481;47591.0;G;4759;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Detailhandel in huismeubilair in gespecialiseerde winkels
+1482;47592.0;G;4759;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Detailhandel in verlichtingsartikelen in gespecialiseerde winkels
+1483;47593.0;G;4759;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Detailhandel in glas-, porselein- en aardewerk en in niet-elektrische huishoudelijke artikelen in gespecialiseerde winkels
+1484;47594.0;G;4759;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Detailhandel in muziekinstrumenten in gespecialiseerde winkels
+1485;47599.0;G;4759;;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Detailhandel in andere huishoudelijke artikelen in gespecialiseerde winkels, n.e.g.
+216;476.0;G;47;3.0;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSES - GOODS;Detailhandel in cultuur- en recreatieartikelen in gespecialiseerde winkels
+725;4761.0;G;476;4.0;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSES - GOODS;Detailhandel in boeken in gespecialiseerde winkels
+1486;47610.0;G;4761;;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSES - GOODS;Detailhandel in boeken in gespecialiseerde winkels
+726;4762.0;G;476;4.0;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSES - GOODS;Detailhandel in kranten en kantoorbehoeften in gespecialiseerde winkels
+1487;47620.0;G;4762;;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSES - GOODS;Detailhandel in kranten en kantoorbehoeften in gespecialiseerde winkels
+727;4763.0;G;476;4.0;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSES - GOODS;Detailhandel in audio- en video-opnamen in gespecialiseerde winkels
+1488;47630.0;G;4763;;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSES - GOODS;Detailhandel in audio- en video-opnamen in gespecialiseerde winkels
+728;4764.0;G;476;4.0;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSES - GOODS;Detailhandel in sportartikelen in gespecialiseerde winkels
+1489;47640.0;G;4764;;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSES - GOODS;Detailhandel in sport- en kampeerartikelen in gespecialiseerde winkels
+729;4765.0;G;476;4.0;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSES - GOODS;Detailhandel in spellen en speelgoed in gespecialiseerde winkels
+1490;47650.0;G;4765;;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSES - GOODS;Detailhandel in spellen en speelgoed in gespecialiseerde winkels
+730;4771.0;G;477;4.0;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Detailhandel in kleding in gespecialiseerde winkels
+1491;47711.0;G;4771;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Detailhandel in damesbovenkleding in gespecialiseerde winkels
+1492;47712.0;G;4771;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Detailhandel in herenbovenkleding in gespecialiseerde winkels
+1493;47713.0;G;4771;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Detailhandel in baby- en kinderbovenkleding in gespecialiseerde winkels
+1494;47714.0;G;4771;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Detailhandel in onderkleding, lingerie en strand- en badkleding in gespecialiseerde winkels
+1495;47715.0;G;4771;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Detailhandel in kledingaccessoires in gespecialiseerde winkels
+1496;47716.0;G;4771;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Detailhandel in dames-, heren-, baby- en kinderboven- en onderkleding en kledingaccessoires in gespecialiseerde winkels (algemeen assortiment)
+731;4772.0;G;477;4.0;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Detailhandel in schoeisel en lederwaren in gespecialiseerde winkels
+1497;47721.0;G;4772;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Detailhandel in schoeisel in gespecialiseerde winkels
+1498;47722.0;G;4772;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Detailhandel in lederwaren en reisartikelen in gespecialiseerde winkels
+732;4773.0;G;477;4.0;MEDICINES AND HEALTH PRODUCTS;EXPENSES - GOODS;Apothekers in gespecialiseerde winkels
+1499;47730.0;G;4773;;MEDICINES AND HEALTH PRODUCTS;EXPENSES - GOODS;Apotheken
+733;4774.0;G;477;4.0;ASSISTIVE PRODUCTS;EXPENSES - GOODS;Detailhandel in medische en orthopedische artikelen in gespecialiseerde winkels
+1500;47740.0;G;4774;;ASSISTIVE PRODUCTS;EXPENSES - GOODS;Detailhandel in medische en orthopedische artikelen in gespecialiseerde winkels
+734;4775.0;G;477;4.0;PERSONAL CARE PRODUCTS;EXPENSES - GOODS;Detailhandel in cosmetica en toiletartikelen in gespecialiseerde winkels
+1501;47750.0;G;4775;;PERSONAL CARE PRODUCTS;EXPENSES - GOODS;Detailhandel in cosmetica en toiletartikelen in gespecialiseerde winkels
+735;4776.0;G;477;4.0;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Detailhandel in bloemen, planten, zaden, kunstmeststoffen, huisdieren en voedsel voor huisdieren in gespecialiseerde winkels
+1502;47761.0;G;4776;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Detailhandel in bloemen, planten, zaden en kunstmeststoffen in gespecialiseerde winkels
+1503;47762.0;G;4776;;GARDEN PRODUCTS AND PETS;EXPENSES - GOODS;Detailhandel in huisdieren, voedsel voor huisdieren en benodigdheden daarvoor in gespecialiseerde winkels
+736;4777.0;G;477;4.0;LUXERY GOODS;EXPENSES - GOODS;Detailhandel in uurwerken en sieraden in gespecialiseerde winkels
+1504;47770.0;G;4777;;LUXERY GOODS;EXPENSES - GOODS;Detailhandel in uurwerken en sieraden in gespecialiseerde winkels
+1505;47781.0;G;4778;5.0;UTILITIES - LIQUID FUELS;EXPENSES - GOODS;Detailhandel in vaste, vloeibare en gasvormige brandstoffen in gespecialiseerde winkels, m.u.v. motorbrandstoffen
+1506;47782.0;G;4778;5.0;CULTURAL AND RECREATIONAL DURABLES;EXPENSES - GOODS;Detailhandel in fotografische en optische artikelen en in precisieinstrumenten in gespecialiseerde winkels
+1507;47783.0;G;4778;5.0;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSES - GOODS;Detailhandel in wapens en munitie in gespecialiseerde winkels
+1508;47784.0;G;4778;5.0;MEDICINES AND HEALTH PRODUCTS;EXPENSES - GOODS;Detailhandel in drogisterijartikelen en onderhoudsproducten in gespecialiseerde winkels
+1509;47785.0;G;4778;5.0;PURCHASE OF VEHICLES;INVESTMENTS - GOODS;Detailhandel in fietsen in gespecialiseerde winkels
+1510;47786.0;G;4778;5.0;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSES - GOODS;Detailhandel in souvenirs en religieuze artikelen in gespecialiseerde winkels
+1511;47787.0;G;4778;5.0;FURNITURE, FURNISHINGS, AND LOOSE CARPETS;EXPENSES - GOODS;Detailhandel in nieuwe kunstvoorwerpen in gespecialiseerde winkels
+1512;47788.0;G;4778;5.0;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Detailhandel in babyartikelen (algemeen assortiment)
+1513;47789.0;G;4778;5.0;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Overige detailhandel in nieuwe artikelen in gespecialiseerde winkels, n.e.g.
+737;4779.0;G;477;4.0;SECOND-HAND RETAIL;EXPENSES - GOODS;Detailhandel in antiquiteiten en tweedehandsgoederen in winkels
+1514;47791.0;G;4779;;SECOND-HAND RETAIL;EXPENSES - GOODS;Detailhandel in antiquiteiten in winkels
+1515;47792.0;G;4779;;SECOND-HAND RETAIL;EXPENSES - GOODS;Detailhandel in tweedehandskleding in winkels
+1516;47793.0;G;4779;;SECOND-HAND RETAIL;EXPENSES - GOODS;Detailhandel in andere tweedehandsgoederen in winkels, m.u.v. tweedehandskleding
+738;4781.0;G;478;4.0;GROCERIES;EXPENSES - GOODS;Markt- en straathandel in voedings- en genotmiddelen
+1517;47810.0;G;4781;;GROCERIES;EXPENSES - GOODS;Markt- en straathandel in voedings- en genotmiddelen
+739;4782.0;G;478;4.0;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Markt- en straathandel in textiel, kleding en schoeisel
+1518;47820.0;G;4782;;CLOTHING AND FOOTWEAR;EXPENSES - GOODS;Markt- en straathandel in textiel, kleding en schoeisel
+740;4789.0;G;478;4.0;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Markt- en straathandel in andere artikelen
+1519;47890.0;G;4789;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Markt- en straathandel in andere artikelen
+217;479.0;G;47;3.0;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Detailhandel, niet in winkels en exclusief markt- en straathandel
+741;4791.0;G;479;4.0;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Detailhandel via postorderbedrijven of via internet
+1520;47910.0;G;4791;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Detailhandel via postorderbedrijven of via internet
+742;4799.0;G;479;4.0;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Overige detailhandel, niet in winkels en exclusief markt- en straathandel
+1521;47990.0;G;4799;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Overige detailhandel, niet in winkels en exclusief markt- en straathandel
+218;491.0;H;49;3.0;PASSENGER TRANSPORT SERVICES - PUBLIC;OTHER SERVICES;Personenvervoer per spoor, m.u.v. personenvervoer per spoor binnen steden of voorsteden
+743;4910.0;H;491;;PASSENGER TRANSPORT SERVICES - PUBLIC;OTHER SERVICES;Personenvervoer per spoor, m.u.v. personenvervoer per spoor binnen steden of voorsteden
+1522;49100.0;H;4910;;PASSENGER TRANSPORT SERVICES - PUBLIC;OTHER SERVICES;Personenvervoer per spoor, m.u.v. personenvervoer per spoor binnen steden of voorsteden
+219;492.0;H;49;3.0;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Goederenvervoer per spoor
+744;4920.0;H;492;;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Goederenvervoer per spoor
+1523;49200.0;H;4920;;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Goederenvervoer per spoor
+745;4931.0;H;493;4.0;PASSENGER TRANSPORT SERVICES - PUBLIC;OTHER SERVICES;Personenvervoer te land binnen steden of voorsteden
+1524;49310.0;H;4931;;PASSENGER TRANSPORT SERVICES - PUBLIC;OTHER SERVICES;Personenvervoer te land binnen steden of voorsteden
+746;4932.0;H;493;4.0;PASSENGER TRANSPORT SERVICES - ROAD;OTHER SERVICES;Exploitatie van taxi's
+1525;49320.0;H;4932;;PASSENGER TRANSPORT SERVICES - ROAD;OTHER SERVICES;Exploitatie van taxi's
+747;4939.0;H;493;4.0;PASSENGER TRANSPORT SERVICES - ROAD;OTHER SERVICES;Overig personenvervoer te land, n.e.g.
+1526;49390.0;H;4939;;PASSENGER TRANSPORT SERVICES - ROAD;OTHER SERVICES;Overig personenvervoer te land, n.e.g.
+220;494.0;H;49;3.0;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Goederenvervoer over de weg en verhuisbedrijven
+748;4941.0;H;494;;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Goederenvervoer over de weg
+1527;49410.0;H;4941;;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Goederenvervoer over de weg, m.u.v. verhuisbedrijven
+749;4942.0;H;494;;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Verhuisbedrijven
+1528;49420.0;H;4942;;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Verhuisbedrijven
+221;495.0;H;49;3.0;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Vervoer via pijpleidingen
+750;4950.0;H;495;;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Vervoer via pijpleidingen
+1529;49500.0;H;4950;;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Vervoer via pijpleidingen
+222;501.0;H;50;3.0;PASSENGER TRANSPORT SERVICES - WATER;OTHER SERVICES;Personenvervoer over zee- en kustwateren
+751;5010.0;H;501;;PASSENGER TRANSPORT SERVICES - WATER;OTHER SERVICES;Personenvervoer over zee- en kustwateren
+1530;50100.0;H;5010;;PASSENGER TRANSPORT SERVICES - WATER;OTHER SERVICES;Personenvervoer over zee- en kustwateren
+223;502.0;H;50;3.0;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Goederenvervoer over zee- en kustwateren
+752;5020.0;H;502;;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Goederenvervoer over zee- en kustwateren
+1531;50200.0;H;5020;;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Goederenvervoer over zee- en kustwateren
+224;503.0;H;50;3.0;PASSENGER TRANSPORT SERVICES - WATER;OTHER SERVICES;Personenvervoer over binnenwateren
+753;5030.0;H;503;;PASSENGER TRANSPORT SERVICES - WATER;OTHER SERVICES;Personenvervoer over binnenwateren
+1532;50300.0;H;5030;;PASSENGER TRANSPORT SERVICES - WATER;OTHER SERVICES;Personenvervoer over binnenwateren
+225;504.0;H;50;3.0;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Goederenvervoer over binnenwateren
+754;5040.0;H;504;;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Goederenvervoer over binnenwateren
+1533;50400.0;H;5040;;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Goederenvervoer over binnenwateren
+226;511.0;H;51;;;;Personenvervoer door de lucht
+755;5110.0;H;511;4.0;PASSENGER TRANSPORT SERVICES - AIR;OTHER SERVICES;Personenvervoer door de lucht
+1534;51100.0;H;5110;;PASSENGER TRANSPORT SERVICES - AIR;OTHER SERVICES;Personenvervoer door de lucht
+227;512.0;H;51;;;;Goederenvervoer door de lucht
+756;5121.0;H;512;4.0;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Goederenvervoer door de lucht
+1535;51210.0;H;5121;;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Goederenvervoer door de lucht
+757;5122.0;H;512;4.0;PASSENGER TRANSPORT SERVICES - AIR;OTHER SERVICES;Ruimtevaart
+1536;51220.0;H;5122;;PASSENGER TRANSPORT SERVICES - AIR;OTHER SERVICES;Ruimtevaart
+228;521.0;H;52;;;;Opslag
+758;5210.0;H;521;4.0;OTHER SERVICES;OTHER SERVICES;Opslag
+1537;52100.0;H;5210;;OTHER SERVICES;OTHER SERVICES;Opslag in koelpakhuizen en overige opslag
+229;522.0;H;52;;;;Vervoerondersteunende activiteiten
+759;5221.0;H;522;4.0;SERVICES IN RESPECT OF PERSONAL TRANSPORT EQUIPMENT;OTHER SERVICES;Diensten in verband met vervoer te land
+1538;52210.0;H;5221;;SERVICES IN RESPECT OF PERSONAL TRANSPORT EQUIPMENT;OTHER SERVICES;Diensten in verband met vervoer te land
+760;5222.0;H;522;4.0;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Diensten in verband met vervoer over water
+1539;52220.0;H;5222;;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Diensten in verband met vervoer over water
+761;5223.0;H;522;4.0;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Diensten in verband met de luchtvaart
+1540;52230.0;H;5223;;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Diensten in verband met de luchtvaart
+762;5224.0;H;522;4.0;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Vrachtbehandeling
+1541;52241.0;H;5224;;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Vrachtbehandeling in zeehavens
+1542;52249.0;H;5224;;TRANSPORT SERVICES OF GOODS;OTHER SERVICES;Overige vrachtbehandeling, exclusief in zeehavens
+763;5229.0;H;522;4.0;OTHER SERVICES;OTHER SERVICES;Overige vervoerondersteunende activiteiten
+1543;52290.0;H;5229;;OTHER SERVICES;OTHER SERVICES;Overige vervoerondersteunende activiteiten
+30;53.0;H;H;2.0;OTHER SERVICES;OTHER SERVICES;Posterijen en koeriers
+230;531.0;H;53;;OTHER SERVICES;OTHER SERVICES;Postdiensten in het kader van de universele dienstverplichting
+764;5310.0;H;531;;OTHER SERVICES;OTHER SERVICES;Postdiensten in het kader van de universele dienstverplichting
+1544;53100.0;H;5310;;OTHER SERVICES;OTHER SERVICES;Postdiensten in het kader van de universele dienstverplichting
+231;532.0;H;53;;OTHER SERVICES;OTHER SERVICES;Overige posterijen en koeriers
+765;5320.0;H;532;;OTHER SERVICES;OTHER SERVICES;Overige posterijen en koeriers
+1545;53200.0;H;5320;;OTHER SERVICES;OTHER SERVICES;Overige posterijen en koeriers
+31;55.0;I;I;2.0;ACCOMMODATION SERVICES;OTHER SERVICES;Verschaffen van accommodatie
+232;551.0;I;55;;ACCOMMODATION SERVICES;OTHER SERVICES;Hotels en dergelijke accommodatie
+766;5510.0;I;551;;ACCOMMODATION SERVICES;OTHER SERVICES;Hotels en dergelijke accommodatie
+1546;55100.0;I;5510;;ACCOMMODATION SERVICES;OTHER SERVICES;Hotels en dergelijke accommodatie
+233;552.0;I;55;;ACCOMMODATION SERVICES;OTHER SERVICES;Vakantieverblijven en andere accommodatie voor kort verblijf
+767;5520.0;I;552;;ACCOMMODATION SERVICES;OTHER SERVICES;Vakantieverblijven en andere accommodatie voor kort verblijf
+1547;55201.0;I;5520;;ACCOMMODATION SERVICES;OTHER SERVICES;Jeugdherbergen en jeugdverblijfcentra
+1548;55202.0;I;5520;;ACCOMMODATION SERVICES;OTHER SERVICES;Vakantieparken
+1549;55203.0;I;5520;;ACCOMMODATION SERVICES;OTHER SERVICES;Gites, vakantiewoningen en -appartementen
+1550;55204.0;I;5520;;ACCOMMODATION SERVICES;OTHER SERVICES;Gastenkamers
+1551;55209.0;I;5520;;ACCOMMODATION SERVICES;OTHER SERVICES;Vakantieverblijven en andere accommodatie voor kort verblijf, n.e.g.
+234;553.0;I;55;;ACCOMMODATION SERVICES;OTHER SERVICES;Kampeerterreinen en kampeerauto- en caravanterreinen
+768;5530.0;I;553;;ACCOMMODATION SERVICES;OTHER SERVICES;Kampeerterreinen en kampeerauto- en caravanterreinen
+1552;55300.0;I;5530;;ACCOMMODATION SERVICES;OTHER SERVICES;Kampeerterreinen en kampeerauto- en caravanterreinen
+235;559.0;I;55;;ACCOMMODATION SERVICES;OTHER SERVICES;Overige accommodatie
+769;5590.0;I;559;;ACCOMMODATION SERVICES;OTHER SERVICES;Overige accommodatie
+1553;55900.0;I;5590;;ACCOMMODATION SERVICES;OTHER SERVICES;Overige accommodatie
+32;56.0;I;I;2.0;FOOD AND BEVERAGE SERVING SERVICES;OTHER SERVICES;Eet- en drinkgelegenheden
+236;561.0;I;56;;FOOD AND BEVERAGE SERVING SERVICES;OTHER SERVICES;Restaurants en mobiele eetgelegenheden
+770;5610.0;I;561;;FOOD AND BEVERAGE SERVING SERVICES;OTHER SERVICES;Restaurants en mobiele eetgelegenheden
+1554;56101.0;I;5610;;FOOD AND BEVERAGE SERVING SERVICES;OTHER SERVICES;Eetgelegenheden met volledige bediening
+1555;56102.0;I;5610;;FOOD AND BEVERAGE SERVING SERVICES;OTHER SERVICES;Eetgelegenheden met beperkte bediening
+237;562.0;I;56;;FOOD AND BEVERAGE SERVING SERVICES;OTHER SERVICES;Catering en overige eetgelegenheden
+771;5621.0;I;562;;FOOD AND BEVERAGE SERVING SERVICES;OTHER SERVICES;Catering
+1556;56210.0;I;5621;;FOOD AND BEVERAGE SERVING SERVICES;OTHER SERVICES;Catering
+772;5629.0;I;562;;FOOD AND BEVERAGE SERVING SERVICES;OTHER SERVICES;Overige eetgelegenheden
+1557;56290.0;I;5629;;FOOD AND BEVERAGE SERVING SERVICES;OTHER SERVICES;Overige eetgelegenheden
+238;563.0;I;56;;FOOD AND BEVERAGE SERVING SERVICES;OTHER SERVICES;Drinkgelegenheden
+773;5630.0;I;563;;FOOD AND BEVERAGE SERVING SERVICES;OTHER SERVICES;Drinkgelegenheden
+1558;56301.0;I;5630;;FOOD AND BEVERAGE SERVING SERVICES;OTHER SERVICES;Cafés en bars
+1559;56302.0;I;5630;;FOOD AND BEVERAGE SERVING SERVICES;OTHER SERVICES;Discotheken, dancings en dergelijke
+1560;56309.0;I;5630;;FOOD AND BEVERAGE SERVING SERVICES;OTHER SERVICES;Andere drinkgelegenheden
+774;5811.0;J;581;4.0;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSES - GOODS;Uitgeverijen van boeken
+1561;58110.0;J;5811;;OTHER CULTURAL AND RECREATIONAL GOODS;EXPENSES - GOODS;Uitgeverijen van boeken
+775;5812.0;J;581;4.0;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Uitgeverijen van adresboeken en mailinglijsten
+1562;58120.0;J;5812;;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Uitgeverijen van adresboeken en mailinglijsten
+776;5813.0;J;581;4.0;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Uitgeverijen van kranten
+1563;58130.0;J;5813;;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Uitgeverijen van kranten
+777;5814.0;J;581;4.0;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Uitgeverijen van tijdschriften
+1564;58140.0;J;5814;;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Uitgeverijen van tijdschriften
+778;5819.0;J;581;4.0;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Overige uitgeverijen
+1565;58190.0;J;5819;;OTHER NON-DURABLE GOODS;EXPENSES - GOODS;Overige uitgeverijen
+239;582.0;J;58;3.0;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Uitgeverijen van software
+779;5821.0;J;582;4.0;OTHER CULTURAL AND RECREATIONAL GOODS;INFORMATION AND COMMUNICATION SERVICES;Uitgeverijen van computerspellen
+1566;58210.0;J;5821;;OTHER CULTURAL AND RECREATIONAL GOODS;INFORMATION AND COMMUNICATION SERVICES;Uitgeverijen van computerspellen
+780;5829.0;J;582;4.0;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Overige uitgeverijen van software
+1567;58290.0;J;5829;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Overige uitgeverijen van software
+33;59.0;J;J;2.0;CULTURAL AND RECREATIONAL SERVICES;INFORMATION AND COMMUNICATION SERVICES;Productie van films en video- en televisieprogramma's, maken van geluidsopnamen en uitgeverijen van muziekopnamen
+240;591.0;J;59;;CULTURAL AND RECREATIONAL SERVICES;INFORMATION AND COMMUNICATION SERVICES;Activiteiten in verband met films en video- en televisieprogramma's
+781;5911.0;J;591;;CULTURAL AND RECREATIONAL SERVICES;INFORMATION AND COMMUNICATION SERVICES;Productie van films en video- en televisieprogramma's
+1568;59111.0;J;5911;;CULTURAL AND RECREATIONAL SERVICES;INFORMATION AND COMMUNICATION SERVICES;Productie van bioscoopfilms
+1569;59112.0;J;5911;;CULTURAL AND RECREATIONAL SERVICES;INFORMATION AND COMMUNICATION SERVICES;Productie van televisiefilms
+1570;59113.0;J;5911;;CULTURAL AND RECREATIONAL SERVICES;INFORMATION AND COMMUNICATION SERVICES;Productie van films, m.u.v. bioscoop- en televisiefilms
+1571;59114.0;J;5911;;CULTURAL AND RECREATIONAL SERVICES;INFORMATION AND COMMUNICATION SERVICES;Productie van televisieprogramma's
+782;5912.0;J;591;;CULTURAL AND RECREATIONAL SERVICES;INFORMATION AND COMMUNICATION SERVICES;Activiteiten in verband met films en video- en televisieprogramma's na de productie
+1572;59120.0;J;5912;;CULTURAL AND RECREATIONAL SERVICES;INFORMATION AND COMMUNICATION SERVICES;Activiteiten in verband met films en video- en televisieprogramma's na de productie
+783;5913.0;J;591;;CULTURAL AND RECREATIONAL SERVICES;INFORMATION AND COMMUNICATION SERVICES;Distributie van films en video- en televisieprogramma's
+1573;59130.0;J;5913;;CULTURAL AND RECREATIONAL SERVICES;INFORMATION AND COMMUNICATION SERVICES;Distributie van films en video- en televisieprogramma's
+784;5914.0;J;591;;CULTURAL AND RECREATIONAL SERVICES;INFORMATION AND COMMUNICATION SERVICES;Vertoning van films
+1574;59140.0;J;5914;;CULTURAL AND RECREATIONAL SERVICES;INFORMATION AND COMMUNICATION SERVICES;Vertoning van films
+241;592.0;J;59;;CULTURAL AND RECREATIONAL SERVICES;INFORMATION AND COMMUNICATION SERVICES;Maken van geluidsopnamen en uitgeverijen van muziekopnamen
+785;5920.0;J;592;;CULTURAL AND RECREATIONAL SERVICES;INFORMATION AND COMMUNICATION SERVICES;Maken van geluidsopnamen en uitgeverijen van muziekopnamen
+1575;59201.0;J;5920;;CULTURAL AND RECREATIONAL SERVICES;INFORMATION AND COMMUNICATION SERVICES;Maken van geluidsopnamen
+1576;59202.0;J;5920;;CULTURAL AND RECREATIONAL SERVICES;INFORMATION AND COMMUNICATION SERVICES;Geluidsopnamestudio's
+1577;59203.0;J;5920;;CULTURAL AND RECREATIONAL SERVICES;INFORMATION AND COMMUNICATION SERVICES;Uitgeverijen van muziekopnamen
+1578;59209.0;J;5920;;CULTURAL AND RECREATIONAL SERVICES;INFORMATION AND COMMUNICATION SERVICES;Overige diensten in verband met het maken van geluidsopnamen
+34;60.0;J;J;2.0;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Programmeren en uitzenden van radio- en televisieprogramma's
+242;601.0;J;60;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Uitzenden van radioprogramma's
+786;6010.0;J;601;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Uitzenden van radioprogramma's
+1579;60100.0;J;6010;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Uitzenden van radioprogramma's
+243;602.0;J;60;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Programmeren en uitzenden van televisieprogramma's
+787;6020.0;J;602;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Programmeren en uitzenden van televisieprogramma's
+1580;60200.0;J;6020;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Programmeren en uitzenden van televisieprogramma's
+35;61.0;J;J;2.0;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Telecommunicatie
+244;611.0;J;61;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Draadgebonden telecommunicatie
+788;6110.0;J;611;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Draadgebonden telecommunicatie
+1581;61100.0;J;6110;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Draadgebonden telecommunicatie
+245;612.0;J;61;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Draadloze telecommunicatie
+789;6120.0;J;612;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Draadloze telecommunicatie
+1582;61200.0;J;6120;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Draadloze telecommunicatie
+246;613.0;J;61;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Telecommunicatie via satelliet
+790;6130.0;J;613;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Telecommunicatie via satelliet
+1583;61300.0;J;6130;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Telecommunicatie via satelliet
+247;619.0;J;61;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Overige telecommunicatie
+791;6190.0;J;619;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Overige telecommunicatie
+1584;61900.0;J;6190;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Overige telecommunicatie
+36;62.0;J;J;2.0;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Ontwerpen en programmeren van computerprogramma's, computerconsultancy-activiteiten en aanverwante activiteiten
+248;620.0;J;62;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Ontwerpen en programmeren van computerprogramma's, computerconsultancy-activiteiten en aanverwante activiteiten
+792;6201.0;J;620;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Ontwerpen en programmeren van computerprogramma's
+1585;62010.0;J;6201;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Ontwerpen en programmeren van computerprogramma's
+793;6202.0;J;620;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Computerconsultancy-activiteiten
+1586;62020.0;J;6202;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Computerconsultancy-activiteiten
+794;6203.0;J;620;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Beheer van computerfaciliteiten
+1587;62030.0;J;6203;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Beheer van computerfaciliteiten
+795;6209.0;J;620;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Overige diensten op het gebied van informatietechnologie en computer
+1588;62090.0;J;6209;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Overige diensten op het gebied van informatietechnologie en computer
+37;63.0;J;J;2.0;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Dienstverlenende activiteiten op het gebied van informatie
+249;631.0;J;63;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Gegevensverwerking, webhosting en aanverwante activiteiten
+796;6311.0;J;631;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Gegevensverwerking, webhosting en aanverwante activiteiten
+1589;63110.0;J;6311;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Gegevensverwerking, webhosting en aanverwante activiteiten
+797;6312.0;J;631;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Webportalen
+1590;63120.0;J;6312;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Webportalen
+250;639.0;J;63;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Overige dienstverlenende activiteiten op het gebied van informatie
+798;6391.0;J;639;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Persagentschappen
+1591;63910.0;J;6391;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Persagentschappen
+799;6399.0;J;639;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Overige dienstverlenende activiteiten op het gebied van informatie, n.e. g.
+1592;63990.0;J;6399;;INFORMATION AND COMMUNICATION SERVICES;INFORMATION AND COMMUNICATION SERVICES;Overige dienstverlenende activiteiten op het gebied van informatie, n.e. g.
+38;64.0;K;K;2.0;FINANCIAL SERVICES;FINANCIAL SERVICES;Financiële dienstverlening, exclusief verzekeringen en pensioenfondsen
+251;641.0;K;64;;FINANCIAL SERVICES;FINANCIAL SERVICES;Geldscheppende financiële instellingen
+800;6411.0;K;641;;FINANCIAL SERVICES;FINANCIAL SERVICES;Centrale banken
+1593;64110.0;K;6411;;FINANCIAL SERVICES;FINANCIAL SERVICES;Centrale banken
+801;6419.0;K;641;;FINANCIAL SERVICES;FINANCIAL SERVICES;Overige geldscheppende financiële instellingen
+1594;64190.0;K;6419;;FINANCIAL SERVICES;FINANCIAL SERVICES;Overige geldscheppende financiële instellingen
+252;642.0;K;64;;FINANCIAL SERVICES;FINANCIAL SERVICES;Holdings
+802;6420.0;K;642;;FINANCIAL SERVICES;FINANCIAL SERVICES;Holdings
+1595;64200.0;K;6420;;FINANCIAL SERVICES;FINANCIAL SERVICES;Holdings
+253;643.0;K;64;;FINANCIAL SERVICES;FINANCIAL SERVICES;Beleggingstrusts en -fondsen en vergelijkbare financiële instellingen
+803;6430.0;K;643;;FINANCIAL SERVICES;FINANCIAL SERVICES;Beleggingstrusts en -fondsen en vergelijkbare financiële instellingen
+1596;64300.0;K;6430;;FINANCIAL SERVICES;FINANCIAL SERVICES;Beleggingstrusts en -fondsen en vergelijkbare financiële instellingen
+254;649.0;K;64;;FINANCIAL SERVICES;FINANCIAL SERVICES;Overige financiële dienstverlening, exclusief verzekeringen en pensioenfondsen
+804;6491.0;K;649;;FINANCIAL SERVICES;FINANCIAL SERVICES;Financiële lease
+1597;64910.0;K;6491;;FINANCIAL SERVICES;FINANCIAL SERVICES;Financiële lease
+805;6492.0;K;649;;FINANCIAL SERVICES;FINANCIAL SERVICES;Overige kredietverstrekking
+1598;64921.0;K;6492;;FINANCIAL SERVICES;FINANCIAL SERVICES;Verstrekken van verbruikskrediet
+1599;64922.0;K;6492;;FINANCIAL SERVICES;FINANCIAL SERVICES;Verstrekken van hypothecair krediet
+1600;64929.0;K;6492;;FINANCIAL SERVICES;FINANCIAL SERVICES;Overige kredietvertsrekking, n.e.g.
+806;6499.0;K;649;;FINANCIAL SERVICES;FINANCIAL SERVICES;Overige financiële dienstverlening, exclusief verzekeringen en pensioenfondsen, n.e.g.
+1601;64991.0;K;6499;;FINANCIAL SERVICES;FINANCIAL SERVICES;Factoring
+1602;64992.0;K;6499;;FINANCIAL SERVICES;FINANCIAL SERVICES;Activiteiten van beursvennootschappen
+1603;64999.0;K;6499;;FINANCIAL SERVICES;FINANCIAL SERVICES;Overige financiële dienstverlening
+39;65.0;K;K;2.0;INSURANCE;INSURANCE;Verzekeringen, herverzekeringen en pensioenfondsen, exclusief verplichte sociale verzekeringen
+255;651.0;K;65;;INSURANCE;INSURANCE;Verzekeringen
+807;6511.0;K;651;;INSURANCE;INSURANCE;Levensverzekeringen
+1604;65111.0;K;6511;;INSURANCE;INSURANCE;Rechtstreekse verzekeringsverrichtingen leven
+1605;65112.0;K;6511;;INSURANCE;INSURANCE;Activiteiten van gemengde verzekeringsondernemingen, overwegend leven
+808;6512.0;K;651;;INSURANCE;INSURANCE;Niet-levensverzekeringen
+1606;65121.0;K;6512;;INSURANCE;INSURANCE;Rechtstreekse verzekeringsverrichtingen niet-leven
+1607;65122.0;K;6512;;INSURANCE;INSURANCE;Activiteiten van gemengde verzekeringsondernemingen, overwegend niet-leven
+256;652.0;K;65;;INSURANCE;INSURANCE;Herverzekeringen
+809;6520.0;K;652;;INSURANCE;INSURANCE;Herverzekeringen
+1608;65200.0;K;6520;;INSURANCE;INSURANCE;Herverzekeringen
+257;653.0;K;65;;INSURANCE;INSURANCE;Pensioenfondsen
+810;6530.0;K;653;;INSURANCE;INSURANCE;Pensioenfondsen
+1609;65300.0;K;6530;;INSURANCE;INSURANCE;Pensioenfondsen
+40;66.0;K;K;2.0;FINANCIAL SERVICES;FINANCIAL SERVICES;Ondersteunende activiteiten voor verzekeringen en pensioenfondsen
+258;661.0;K;66;;FINANCIAL SERVICES;FINANCIAL SERVICES;Ondersteunende activiteiten in verband met financiële diensten, exclusief verzekeringen en pensioenfondsen
+811;6611.0;K;661;;FINANCIAL SERVICES;FINANCIAL SERVICES;Beheer van financiële markten
+1610;66110.0;K;6611;;FINANCIAL SERVICES;FINANCIAL SERVICES;Beheer van financiële markten
+812;6612.0;K;661;;FINANCIAL SERVICES;FINANCIAL SERVICES;Effecten- en goederenhandel
+1611;66120.0;K;6612;;FINANCIAL SERVICES;FINANCIAL SERVICES;Effecten- en goederenhandel
+813;6619.0;K;661;;FINANCIAL SERVICES;FINANCIAL SERVICES;Overige ondersteunende activiteiten in verband met financiële diensten, exclusief verzekeringen en pensioenfondsen
+1612;66191.0;K;6619;;FINANCIAL SERVICES;FINANCIAL SERVICES;Agenten en makelaars in bankdiensten
+1613;66199.0;K;6619;;FINANCIAL SERVICES;FINANCIAL SERVICES;Overige ondersteunende activiteiten in verband met financiële diensten, exclusief verzekeringen en pensioenfondsen, n.e.g.
+259;662.0;K;66;;FINANCIAL SERVICES;FINANCIAL SERVICES;Ondersteunende activiteiten in verband met verzekeringen en pensioenfondsen
+814;6621.0;K;662;;FINANCIAL SERVICES;FINANCIAL SERVICES;Risicoanalisten en schadetaxateurs
+1614;66210.0;K;6621;;FINANCIAL SERVICES;FINANCIAL SERVICES;Risicoanalisten en schadetaxateurs
+815;6622.0;K;662;;FINANCIAL SERVICES;FINANCIAL SERVICES;Verzekeringsagenten en -makelaars
+1615;66220.0;K;6622;;FINANCIAL SERVICES;FINANCIAL SERVICES;Verzekeringsagenten en -makelaars
+816;6629.0;K;662;;FINANCIAL SERVICES;FINANCIAL SERVICES;Overige ondersteunende activiteiten in verband met verzekeringen en pensioenfondsen
+1616;66290.0;K;6629;;FINANCIAL SERVICES;FINANCIAL SERVICES;Overige ondersteunende activiteiten in verband met verzekeringen en pensioenfondsen
+260;663.0;K;66;;FINANCIAL SERVICES;FINANCIAL SERVICES;Vermogensbeheer
+817;6630.0;K;663;;FINANCIAL SERVICES;FINANCIAL SERVICES;Vermogensbeheer
+1617;66300.0;K;6630;;FINANCIAL SERVICES;FINANCIAL SERVICES;Vermogensbeheer
+261;681.0;L;68;3.0;INVESTMENTS - REAL ESTATE;INVESTMENTS - REAL ESTATE;Handel in eigen onroerend goed
+818;6810.0;L;681;;INVESTMENTS - REAL ESTATE;INVESTMENTS - REAL ESTATE;Handel in eigen onroerend goed
+1618;68100.0;L;6810;;INVESTMENTS - REAL ESTATE;INVESTMENTS - REAL ESTATE;Handel in eigen onroerend goed
+262;682.0;L;68;3.0;ACTUAL RENTALS FOR HOUSING;INCOME - REAL ESTATE;Verhuur en exploitatie van eigen of geleasd onroerend goed
+819;6820.0;L;682;;ACTUAL RENTALS FOR HOUSING;INCOME - REAL ESTATE;Verhuur en exploitatie van eigen of geleasd onroerend goed
+1619;68201.0;L;6820;;ACTUAL RENTALS FOR HOUSING;INCOME - REAL ESTATE;Verhuur en exploitatie van eigen of geleasd residentieel onroerend goed, exclusief sociale woningen
+1620;68202.0;L;6820;;ACTUAL RENTALS FOR HOUSING;INCOME - REAL ESTATE;Verhuur en exploitatie van sociale woningen
+1621;68203.0;L;6820;;ACTUAL RENTALS FOR HOUSING;INCOME - REAL ESTATE;Verhuur en exploitatie van eigen of geleasd niet-residentieel onroerend goed, exclusief terreinen
+1622;68204.0;L;6820;;ACTUAL RENTALS FOR HOUSING;INCOME - REAL ESTATE;Verhuur en exploitatie van terreinen
+263;683.0;L;68;3.0;OTHER SERVICES;OTHER SERVICES;Bemiddeling in en beheer van onroerend goed voor een vast bedrag of op contractbasis
+820;6831.0;L;683;;OTHER SERVICES;OTHER SERVICES;Bemiddeling in onroerend goed
+1623;68311.0;L;6831;;OTHER SERVICES;OTHER SERVICES;Bemiddeling bij de aankoop, verkoop en verhuur van onroerend goed voor een vast bedrag of op contractbasis
+1624;68312.0;L;6831;;OTHER SERVICES;OTHER SERVICES;Schatten en evalueren van onroerend goed voor een vast bedrag of op contractbasis
+821;6832.0;L;683;;OTHER SERVICES;OTHER SERVICES;Beheer van onroerend goed voor een vast bedrag of op contractbasis
+1625;68321.0;L;6832;;OTHER SERVICES;OTHER SERVICES;Beheer van residentieel onroerend goed voor een vast bedrag of op contractbasis
+1626;68322.0;L;6832;;OTHER SERVICES;OTHER SERVICES;Beheer van niet-residentieel onroerend goed voor een vast bedrag of op contractbasis
+41;69.0;M;M;2.0;OTHER SERVICES;OTHER SERVICES;Rechtskundige en boekhoudkundige dienstverlening
+264;691.0;M;69;;OTHER SERVICES;OTHER SERVICES;Rechtskundige dienstverlening
+822;6910.0;M;691;;OTHER SERVICES;OTHER SERVICES;Rechtskundige dienstverlening
+1627;69101.0;M;6910;;OTHER SERVICES;OTHER SERVICES;Activiteiten van advocaten
+1628;69102.0;M;6910;;OTHER SERVICES;OTHER SERVICES;Activiteiten van notarissen
+1629;69103.0;M;6910;;OTHER SERVICES;OTHER SERVICES;Activiteiten van deurwaarders
+1630;69109.0;M;6910;;OTHER SERVICES;OTHER SERVICES;Overige rechtskundige dienstverlening
+265;692.0;M;69;;OTHER SERVICES;OTHER SERVICES;Accountants, boekhouders en belastingconsulenten
+823;6920.0;M;692;;OTHER SERVICES;OTHER SERVICES;Accountants, boekhouders en belastingconsulenten
+1631;69201.0;M;6920;;OTHER SERVICES;OTHER SERVICES;Accountants en belastingconsulenten
+1632;69202.0;M;6920;;OTHER SERVICES;OTHER SERVICES;Boekhouders en boekhouders-fiscalisten
+1633;69203.0;M;6920;;OTHER SERVICES;OTHER SERVICES;Bedrijfsrevisoren
+42;70.0;M;M;2.0;OTHER SERVICES;OTHER SERVICES;Activiteiten van hoofdkantoren
+266;701.0;M;70;;OTHER SERVICES;OTHER SERVICES;Activiteiten van hoofdkantoren
+824;7010.0;M;701;;OTHER SERVICES;OTHER SERVICES;Activiteiten van hoofdkantoren
+1634;70100.0;M;7010;;OTHER SERVICES;OTHER SERVICES;Activiteiten van hoofdkantoren
+267;702.0;M;70;;OTHER SERVICES;OTHER SERVICES;Adviesbureaus op het gebied van bedrijfsbeheer
+825;7021.0;M;702;;OTHER SERVICES;OTHER SERVICES;Adviesbureaus op het gebied van public relations en communicatie
+1635;70210.0;M;7021;;OTHER SERVICES;OTHER SERVICES;Adviesbureaus op het gebied van public relations en communicatie
+826;7022.0;M;702;;OTHER SERVICES;OTHER SERVICES;Overige adviesbureaus op het gebied van bedrijfsbeheer
+1636;70220.0;M;7022;;OTHER SERVICES;OTHER SERVICES;Overige adviesbureaus op het gebied van bedrijfsbeheer
+43;71.0;M;M;2.0;OTHER SERVICES;OTHER SERVICES;Architecten en ingenieurs
+268;711.0;M;71;;OTHER SERVICES;OTHER SERVICES;Architecten, ingenieurs en aanverwante technische adviseurs
+827;7111.0;M;711;;OTHER SERVICES;OTHER SERVICES;Architecten
+1637;71111.0;M;7111;;OTHER SERVICES;OTHER SERVICES;Bouwarchitecten
+1638;71112.0;M;7111;;OTHER SERVICES;OTHER SERVICES;Interieurarchitecten
+1639;71113.0;M;7111;;OTHER SERVICES;OTHER SERVICES;Stedebouwkundige en tuin- en landschapsarchitecten
+828;7112.0;M;711;;OTHER SERVICES;OTHER SERVICES;Ingenieurs en aanverwante technische adviseurs
+1640;71121.0;M;7112;;OTHER SERVICES;OTHER SERVICES;Ingenieurs en aanverwante technische adviseurs, exclusief landmeters
+1641;71122.0;M;7112;;OTHER SERVICES;OTHER SERVICES;Landmeters
+269;712.0;M;71;;OTHER SERVICES;OTHER SERVICES;Technische testen en toetsen
+829;7120.0;M;712;;OTHER SERVICES;OTHER SERVICES;Technische testen en toetsen
+1642;71201.0;M;7120;;OTHER SERVICES;OTHER SERVICES;Technische controle van motorvoertuigen
+1643;71209.0;M;7120;;OTHER SERVICES;OTHER SERVICES;Overige technische testen en toetsen
+44;72.0;M;M;2.0;OTHER SERVICES;OTHER SERVICES;Speur- en ontwikkelingswerk op wetenschappelijk gebied
+270;721.0;M;72;;OTHER SERVICES;OTHER SERVICES;Speur- en ontwikkelingswerk op natuurwetenschappelijk gebied
+830;7211.0;M;721;;OTHER SERVICES;OTHER SERVICES;Speur- en ontwikkelingswerk op biotechnologisch gebied
+1644;72110.0;M;7211;;OTHER SERVICES;OTHER SERVICES;Speur- en ontwikkelingswerk op biotechnologisch gebied
+831;7219.0;M;721;;OTHER SERVICES;OTHER SERVICES;Overig speur- en ontwikkelingswerk op natuurwetenschappelijk gebied
+1645;72190.0;M;7219;;OTHER SERVICES;OTHER SERVICES;Overig speur- en ontwikkelingswerk op natuurwetenschappelijk gebied
+271;722.0;M;72;;OTHER SERVICES;OTHER SERVICES;Speur- en ontwikkelingswerk op het gebied van de maatschappij- en geesteswetenschappen
+832;7220.0;M;722;;OTHER SERVICES;OTHER SERVICES;Speur- en ontwikkelingswerk op het gebied van de maatschappij- en geesteswetenschappen
+1646;72200.0;M;7220;;OTHER SERVICES;OTHER SERVICES;Speur- en ontwikkelingswerk op het gebied van de maatschappij- en geesteswetenschappen
+45;73.0;M;M;2.0;OTHER SERVICES;OTHER SERVICES;Reclamewezen en marktonderzoek
+272;731.0;M;73;;OTHER SERVICES;OTHER SERVICES;Reclamewezen
+833;7311.0;M;731;;OTHER SERVICES;OTHER SERVICES;Reclamebureaus
+1647;73110.0;M;7311;;OTHER SERVICES;OTHER SERVICES;Reclamebureaus
+834;7312.0;M;731;;OTHER SERVICES;OTHER SERVICES;Mediarepresentatie
+1648;73120.0;M;7312;;OTHER SERVICES;OTHER SERVICES;Mediarepresentatie
+273;732.0;M;73;;OTHER SERVICES;OTHER SERVICES;Markt- en opinieonderzoekbureaus
+835;7320.0;M;732;;OTHER SERVICES;OTHER SERVICES;Markt- en opinieonderzoekbureaus
+1649;73200.0;M;7320;;OTHER SERVICES;OTHER SERVICES;Markt- en opinieonderzoekbureaus
+46;74.0;M;M;2.0;OTHER SERVICES;OTHER SERVICES;Overige gespecialiseerde wetenschappelijke en technische activiteiten
+274;741.0;M;74;;OTHER SERVICES;OTHER SERVICES;Gespecialiseerde designers
+836;7410.0;M;741;;OTHER SERVICES;OTHER SERVICES;Gespecialiseerde designers
+1650;74101.0;M;7410;;OTHER SERVICES;OTHER SERVICES;Ontwerpen van textielpatronen, kleding, juwelen, meubels en decoratieartikelen
+1651;74102.0;M;7410;;OTHER SERVICES;OTHER SERVICES;Activiteiten van industriële designers
+1652;74103.0;M;7410;;OTHER SERVICES;OTHER SERVICES;Activiteiten van grafische designers
+1653;74104.0;M;7410;;OTHER SERVICES;OTHER SERVICES;Activiteiten van interieurdecorateurs
+1654;74105.0;M;7410;;OTHER SERVICES;OTHER SERVICES;Activiteiten van decorateur-etalagisten
+1655;74109.0;M;7410;;OTHER SERVICES;OTHER SERVICES;Overige activiteiten van gespecialiseerde designers
+275;742.0;M;74;;OTHER SERVICES;OTHER SERVICES;Fotografen
+837;7420.0;M;742;;OTHER SERVICES;OTHER SERVICES;Fotografen
+1656;74201.0;M;7420;;OTHER SERVICES;OTHER SERVICES;Activiteiten van fotografen, met uitzondering van persfotografen
+1657;74202.0;M;7420;;OTHER SERVICES;OTHER SERVICES;Activiteiten van persfotografen
+1658;74209.0;M;7420;;OTHER SERVICES;OTHER SERVICES;Overige fotografische activiteiten
+276;743.0;M;74;;OTHER SERVICES;OTHER SERVICES;Vertalers en tolken
+838;7430.0;M;743;;OTHER SERVICES;OTHER SERVICES;Vertalers en tolken
+1659;74300.0;M;7430;;OTHER SERVICES;OTHER SERVICES;Vertalers en tolken
+277;749.0;M;74;;OTHER SERVICES;OTHER SERVICES;Overige gespecialiseerde wetenschappelijke en technische activiteiten, n.e.g.
+839;7490.0;M;749;;OTHER SERVICES;OTHER SERVICES;Overige gespecialiseerde wetenschappelijke en technische activiteiten, n.e.g.
+1660;74901.0;M;7490;;OTHER SERVICES;OTHER SERVICES;Activiteiten van managers van artiesten, sportlui en overige bekende pesonaliteiten
+1661;74909.0;M;7490;;OTHER SERVICES;OTHER SERVICES;Overige gespecialiseerde wetenschappelijke en technische activiteiten
+47;75.0;M;M;2.0;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Veterinaire diensten
+278;750.0;M;75;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Veterinaire diensten
+840;7500.0;M;750;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Veterinaire diensten
+1662;75000.0;M;7500;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Veterinaire diensten
+48;77.0;N;N;2.0;OTHER SERVICES;OTHER SERVICES;Verhuur en lease
+279;771.0;N;77;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van motorvoertuigen
+841;7711.0;N;771;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van personenauto's en lichte bestelwagens (kleiner dan 3,5 ton)
+1663;77110.0;N;7711;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van personenauto's en lichte bestelwagens (kleiner dan 3,5 ton)
+842;7712.0;N;771;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van vrachtwagens en overige motorvoertuigen (groter dan 3,5 ton)
+1664;77120.0;N;7712;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van vrachtwagens en overige motorvoertuigen (groter dan 3,5 ton)
+280;772.0;N;77;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van consumentenartikelen
+843;7721.0;N;772;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van sport- en recreatieartikelen
+1665;77210.0;N;7721;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van sport- en recreatieartikelen
+844;7722.0;N;772;;OTHER SERVICES;OTHER SERVICES;Verhuur van videobanden, dvd's en cd's
+1666;77220.0;N;7722;;OTHER SERVICES;OTHER SERVICES;Verhuur van videobanden, dvd's en cd's
+845;7729.0;N;772;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van andere consumentenartikelen
+1667;77291.0;N;7729;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van machines, apparatuur en handgereedschap voor doe-het-zelvers
+1668;77292.0;N;7729;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van televisietoestellen en andere audio- en videoapparatuur
+1669;77293.0;N;7729;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van vaat- en glaswerk, keuken- en tafelgerei, elektrische huishoudapparaten en andere huishoudelijke benodigdheden
+1670;77294.0;N;7729;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van textiel, kleding, sieraden en schoeisel
+1671;77295.0;N;7729;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van medisch en paramedisch materieel
+1672;77296.0;N;7729;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van bloemen en planten
+1673;77299.0;N;7729;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van andere consumentenartikelen, n.e.g.
+281;773.0;N;77;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van andere machines en werktuigen en andere materiële goederen
+846;7731.0;N;773;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van landbouwmachines en -werktuigen
+1674;77310.0;N;7731;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van landbouwmachines en -werktuigen
+847;7732.0;N;773;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van machines en installaties voor de bouwnijverheid en de weg- en waterbouw
+1675;77320.0;N;7732;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van machines en installaties voor de bouwnijverheid en de weg- en waterbouw
+848;7733.0;N;773;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van kantoormachines, inclusief computers
+1676;77330.0;N;7733;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van kantoormachines, inclusief computers
+849;7734.0;N;773;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van schepen
+1677;77340.0;N;7734;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van schepen
+850;7735.0;N;773;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van luchtvaartuigen
+1678;77350.0;N;7735;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van luchtvaartuigen
+851;7739.0;N;773;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van andere machines en werktuigen en andere materiële goederen, n.e.g.
+1679;77391.0;N;7739;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van speel-, amusement-, en verkoopautomaten
+1680;77392.0;N;7739;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van tenten
+1681;77393.0;N;7739;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van caravans en motorhomes
+1682;77394.0;N;7739;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van woon- en bureelcontainers en dergelijke accommodatie
+1683;77399.0;N;7739;;OTHER SERVICES;OTHER SERVICES;Verhuur en lease van andere machines en werktuigen en andere materiële goederen
+282;774.0;N;77;;OTHER SERVICES;OTHER SERVICES;Lease van intellectuele eigendom en vergelijkbare producten, met uitzondering van werken onder auteursrecht
+852;7740.0;N;774;;OTHER SERVICES;OTHER SERVICES;Lease van intellectuele eigendom en vergelijkbare producten, met uitzondering van werken onder auteursrecht
+1684;77400.0;N;7740;;OTHER SERVICES;OTHER SERVICES;Lease van intellectuele eigendom en vergelijkbare producten, met uitzondering van werken onder auteursrecht
+49;78.0;N;N;2.0;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;LABOUR COST - WAGES - TEMP EMPLOYMENT;Terbeschikkingstelling van personeel
+283;781.0;N;78;;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;LABOUR COST - WAGES - TEMP EMPLOYMENT;Arbeidsbemiddeling
+853;7810.0;N;781;;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;LABOUR COST - WAGES - TEMP EMPLOYMENT;Arbeidsbemiddeling
+1685;78100.0;N;7810;;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;LABOUR COST - WAGES - TEMP EMPLOYMENT;Arbeidsbemiddeling
+284;782.0;N;78;;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;LABOUR COST - WAGES - TEMP EMPLOYMENT;Uitzendbureaus
+854;7820.0;N;782;;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;LABOUR COST - WAGES - TEMP EMPLOYMENT;Uitzendbureaus
+1686;78200.0;N;7820;;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;LABOUR COST - WAGES - TEMP EMPLOYMENT;Uitzendbureaus
+285;783.0;N;78;;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;LABOUR COST - WAGES - TEMP EMPLOYMENT;Andere vormen van arbeidsbemiddeling
+855;7830.0;N;783;;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;LABOUR COST - WAGES - TEMP EMPLOYMENT;Andere vormen van arbeidsbemiddeling
+1687;78300.0;N;7830;;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;LABOUR COST - WAGES - TEMP EMPLOYMENT;Andere vormen van arbeidsbemiddeling
+50;79.0;N;N;2.0;PACKAGE HOLIDAYS;OTHER SERVICES;Reisbureaus, reisorganisatoren, reserveringsbureaus en aanverwante activiteiten
+286;791.0;N;79;;PACKAGE HOLIDAYS;OTHER SERVICES;Reisbureaus en reisorganisatoren
+856;7911.0;N;791;;PACKAGE HOLIDAYS;OTHER SERVICES;Reisbureaus
+1688;79110.0;N;7911;;PACKAGE HOLIDAYS;OTHER SERVICES;Reisbureaus
+857;7912.0;N;791;;PACKAGE HOLIDAYS;OTHER SERVICES;Reisorganisatoren
+1689;79120.0;N;7912;;PACKAGE HOLIDAYS;OTHER SERVICES;Reisorganisatoren
+287;799.0;N;79;;PACKAGE HOLIDAYS;OTHER SERVICES;Reserveringsbureaus en aanverwante activiteiten
+858;7990.0;N;799;;PACKAGE HOLIDAYS;OTHER SERVICES;Reserveringsbureaus en aanverwante activiteiten
+1690;79901.0;N;7990;;PACKAGE HOLIDAYS;OTHER SERVICES;Toeristische informatiediensten
+1691;79909.0;N;7990;;PACKAGE HOLIDAYS;OTHER SERVICES;Overige reserveringsactiviteiten
+51;80.0;N;N;2.0;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Beveiligings- en opsporingsdiensten
+288;801.0;N;80;;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Particuliere beveiliging
+859;8010.0;N;801;;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Particuliere beveiliging
+1692;80100.0;N;8010;;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Particuliere beveiliging
+289;802.0;N;80;;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Diensten in verband met beveiligingssystemen
+860;8020.0;N;802;;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Diensten in verband met beveiligingssystemen
+1693;80200.0;N;8020;;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Diensten in verband met beveiligingssystemen
+290;803.0;N;80;;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Opsporingsdiensten
+861;8030.0;N;803;;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Opsporingsdiensten
+1694;80300.0;N;8030;;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Opsporingsdiensten
+291;811.0;N;81;3.0;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Diverse ondersteunende activiteiten ten behoeve van voorzieningen
+862;8110.0;N;811;;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Diverse ondersteunende activiteiten ten behoeve van voorzieningen
+1695;81100.0;N;8110;;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Diverse ondersteunende activiteiten ten behoeve van voorzieningen
+292;812.0;N;81;3.0;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Reiniging
+863;8121.0;N;812;;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Algemene reiniging van gebouwen
+1696;81210.0;N;8121;;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Algemene reiniging van gebouwen
+864;8122.0;N;812;;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Overige reiniging van gebouwen
+1697;81220.0;N;8122;;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Overige reiniging van gebouwen
+865;8129.0;N;812;;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Andere reinigingsactiviteiten
+1698;81290.0;N;8129;;SERVICES FOR MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING;OTHER SERVICES;Andere reinigingsactiviteiten
+293;813.0;N;81;3.0;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;OTHER SERVICES;Landschapsverzorging
+866;8130.0;N;813;;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;OTHER SERVICES;Landschapsverzorging
+1699;81300.0;N;8130;;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;OTHER SERVICES;Landschapsverzorging
+52;82.0;N;N;2.0;OTHER SERVICES;OTHER SERVICES;Administratieve en ondersteunende activiteiten ten behoeve van kantoren en overige zakelijke activiteiten
+294;821.0;N;82;;OTHER SERVICES;OTHER SERVICES;Administratieve en ondersteunende activiteiten ten behoeve van kantoren
+867;8211.0;N;821;;OTHER SERVICES;OTHER SERVICES;Diverse administratieve activiteiten ten behoeve van kantoren
+1700;82110.0;N;8211;;OTHER SERVICES;OTHER SERVICES;Diverse administratieve activiteiten ten behoeve van kantoren
+868;8219.0;N;821;;OTHER SERVICES;OTHER SERVICES;Fotokopiëren, documentvoorbereiding en andere gespecialiseerde ondersteunende activiteiten ten behoeve van kantoren
+1701;82190.0;N;8219;;OTHER SERVICES;OTHER SERVICES;Fotokopiëren, documentvoorbereiding en andere gespecialiseerde ondersteunende activiteiten ten behoeve van kantoren
+295;822.0;N;82;;OTHER SERVICES;OTHER SERVICES;Callcenters
+869;8220.0;N;822;;OTHER SERVICES;OTHER SERVICES;Callcenters
+1702;82200.0;N;8220;;OTHER SERVICES;OTHER SERVICES;Callcenters
+296;823.0;N;82;;OTHER SERVICES;OTHER SERVICES;Organisatie van congressen en beurzen
+870;8230.0;N;823;;OTHER SERVICES;OTHER SERVICES;Organisatie van congressen en beurzen
+1703;82300.0;N;8230;;OTHER SERVICES;OTHER SERVICES;Organisatie van congressen en beurzen
+297;829.0;N;82;;OTHER SERVICES;OTHER SERVICES;Zakelijke dienstverlening, n.e.g.
+871;8291.0;N;829;;OTHER SERVICES;OTHER SERVICES;Incasso- en kredietbureaus
+1704;82910.0;N;8291;;OTHER SERVICES;OTHER SERVICES;Incasso- en kredietbureaus
+872;8292.0;N;829;;OTHER SERVICES;OTHER SERVICES;Verpakkingsbedrijven
+1705;82920.0;N;8292;;OTHER SERVICES;OTHER SERVICES;Verpakkingsbedrijven
+873;8299.0;N;829;;OTHER SERVICES;OTHER SERVICES;Overige zakelijke dienstverlening, n.e.g.
+1706;82990.0;N;8299;;OTHER SERVICES;OTHER SERVICES;Overige zakelijke dienstverlening, n.e.g.
+53;84.0;O;8;;;;Openbaar bestuur en defensie
+298;841.0;O;84;3.0;GOVERNMENT - SERVICES;GOVERNMENT;Openbaar bestuur
+874;8411.0;O;841;4.0;GOVERNMENT - SERVICES;GOVERNMENT;Algemeen overheidsbestuur
+1707;84111.0;O;8411;;GOVERNMENT - SERVICES;GOVERNMENT;Federale overheid
+1708;84112.0;O;8411;;GOVERNMENT - SERVICES;GOVERNMENT;Overheden van gemeenschappen en gewesten
+1709;84113.0;O;8411;;GOVERNMENT - SERVICES;GOVERNMENT;Provinciale overheid
+1710;84114.0;O;8411;;GOVERNMENT - SERVICES;GOVERNMENT;Gemeentelijke overheid, met uitzondering van het O.C.M.W.
+1711;84115.0;O;8411;;GOVERNMENT - SERVICES;GOVERNMENT;Openbare Centra voor Maatschappelijk Welzijn (O.C.M.W.)
+1712;84119.0;O;8411;;GOVERNMENT - SERVICES;GOVERNMENT;Overig algemeen overheidsbestuur
+875;8412.0;O;841;4.0;GOVERNMENT - SERVICES;GOVERNMENT;Openbaar bestuur op het gebied van gezondheidszorg, onderwijs, cultuur en andere sociale dienstverlening, exclusief sociale verzekeringen
+1713;84120.0;O;8412;;GOVERNMENT - SERVICES;GOVERNMENT;Openbaar bestuur op het gebied van gezondheidszorg, onderwijs, cultuur en andere sociale dienstverlening, m.u.v. sociale verzekeringen
+876;8413.0;O;841;;;GOVERNMENT;Openbaar bestuur op het gebied van het bedrijfsleven
+1714;84130.0;O;8413;;;GOVERNMENT;Openbaar bestuur op het gebied van het bedrijfsleven
+299;842.0;O;84;3.0;GOVERNMENT - SERVICES;GOVERNMENT;Algemene overheidsdiensten
+877;8421.0;O;842;;GOVERNMENT - SERVICES;GOVERNMENT;Buitenlandse zaken
+1715;84210.0;O;8421;;GOVERNMENT - SERVICES;GOVERNMENT;Buitenlandse zaken
+878;8422.0;O;842;;GOVERNMENT - SERVICES;GOVERNMENT;Defensie
+1716;84220.0;O;8422;;GOVERNMENT - SERVICES;GOVERNMENT;Defensie
+879;8423.0;O;842;;GOVERNMENT - SERVICES;GOVERNMENT;Justitie
+1717;84231.0;O;8423;;GOVERNMENT - SERVICES;GOVERNMENT;Rechtbanken
+1718;84232.0;O;8423;;GOVERNMENT - SERVICES;GOVERNMENT;Strafinrichtingen
+1719;84239.0;O;8423;;GOVERNMENT - SERVICES;GOVERNMENT;Overige activiteiten met betrekking tot justitie
+880;8424.0;O;842;;GOVERNMENT - SERVICES;GOVERNMENT;Openbare orde en civiele veiligheid
+1720;84241.0;O;8424;;GOVERNMENT - SERVICES;GOVERNMENT;Federale Politie
+1721;84242.0;O;8424;;GOVERNMENT - SERVICES;GOVERNMENT;Lokale Politie
+1722;84249.0;O;8424;;GOVERNMENT - SERVICES;GOVERNMENT;Overige openbare orde en civiele veiligheid
+881;8425.0;O;842;;GOVERNMENT - SERVICES;GOVERNMENT;Brandweer
+1723;84250.0;O;8425;;GOVERNMENT - SERVICES;GOVERNMENT;Brandweer
+300;843.0;O;84;3.0;SOCIAL SECURITY;GOVERNMENT;Verplichte sociale verzekeringen
+882;8430.0;O;843;;SOCIAL SECURITY;GOVERNMENT;Verplichte sociale verzekeringen
+1724;84301.0;O;8430;;SOCIAL SECURITY;GOVERNMENT;Verplichte sociale verzekeringen, met uitzondering van ziekenfondsen
+1725;84302.0;O;8430;;SOCIAL SECURITY;GOVERNMENT;Ziekenfondsen en zorgkassen
+1726;84309.0;O;8430;;SOCIAL SECURITY;GOVERNMENT;Overige instellingen van de sociale zekerheid
+301;851.0;P;85;3.0;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Kleuteronderwijs
+883;8510.0;P;851;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Kleuteronderwijs
+1727;85101.0;P;8510;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Gewoon kleuteronderwijs ingericht door de Gemeenschappen
+1728;85102.0;P;8510;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Provinciaal gesubsidieerd gewoon kleuteronderwijs
+1729;85103.0;P;8510;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Gemeentelijk gesubsidieerd gewoon kleuteronderwijs
+1730;85104.0;P;8510;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Vrij gesubsidieerd gewoon kleuteronderwijs
+1731;85105.0;P;8510;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Buitengewoon officieel kleuteronderwijs
+1732;85106.0;P;8510;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Vrij gesubsidieerd buitengewoon kleuteronderwijs
+1733;85109.0;P;8510;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Gewoon kleuteronderwijs, n.e.g.
+302;852.0;P;85;3.0;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Lager onderwijs
+884;8520.0;P;852;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Lager onderwijs
+1734;85201.0;P;8520;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Gewoon lager onderwijs ingericht door de Gemeenschappen
+1735;85202.0;P;8520;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Provinciaal gesubsidieerd gewoon lager onderwijs
+1736;85203.0;P;8520;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Gemeentelijk gesubsidieerd gewoon lager onderwijs
+1737;85204.0;P;8520;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Vrij gesubsidieerd gewoon lager onderwijs
+1738;85205.0;P;8520;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Buitengewoon officieel lager onderwijs
+1739;85206.0;P;8520;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Vrij gesubsidieerd buitengewoon lager onderwijs
+1740;85207.0;P;8520;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Alfabetiseringsprogramma's ten behoeve van volwassenen
+1741;85209.0;P;8520;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Gewoon lager onderwijs, n.e.g.
+303;853.0;P;85;3.0;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Secundair onderwijs
+885;8531.0;P;853;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Algemeen secundair onderwijs
+1742;85311.0;P;8531;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Gewoon algemeen secundair onderwijs ingericht door de Gemeenschappen
+1743;85312.0;P;8531;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Provinciaal gesubsidieerd gewoon algemeen secundair onderwijs
+1744;85313.0;P;8531;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Gemeentelijk gesubsidieerd gewoon algemeen secundair onderwijs
+1745;85314.0;P;8531;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Vrij gesubsidieerd gewoon algemeen secundair onderwijs
+1746;85319.0;P;8531;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Gewoon algemeen secundair onderwijs, n.e.g.
+886;8532.0;P;853;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Technisch, beroeps- en buitengewoon secundair onderwijs
+1747;85321.0;P;8532;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Gewoon technisch en beroepssecundair onderwijs ingericht door de Gemeenschappen
+1748;85322.0;P;8532;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Provinciaal gesubsidieerd gewoon technisch en beroepssecundair onderwijs
+1749;85323.0;P;8532;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Gemeentelijk gesubsidieerd gewoon technisch en beroepssecundair onderwijs
+1750;85324.0;P;8532;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Vrij gesubsidieerd gewoon technisch en beroepssecundair onderwijs
+1751;85325.0;P;8532;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Buitengewoon officieel secundair onderwijs
+1752;85326.0;P;8532;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Vrij gesubsidieerd buitengewoon secundair onderwijs
+1753;85329.0;P;8532;;EDUCATION - MANDATORY;EDUCATION - MANDATORY;Technisch, beroeps- en buitengewoon secundair onderwijs, n.e.g.
+304;854.0;P;85;3.0;EDUCATION - TERTIARY;EDUCATION - TERTIARY;Hoger onderwijs en post-secundair niet-hoger onderwijs
+887;8541.0;P;854;;EDUCATION - TERTIARY;EDUCATION - TERTIARY;Post-secundair niet-hoger onderwijs
+1754;85410.0;P;8541;;EDUCATION - TERTIARY;EDUCATION - TERTIARY;Post-secundair niet-hoger onderwijs
+888;8542.0;P;854;;EDUCATION - TERTIARY;EDUCATION - TERTIARY;Hoger onderwijs
+1755;85421.0;P;8542;;EDUCATION - TERTIARY;EDUCATION - TERTIARY;Officieel hoger onderwijs
+1756;85422.0;P;8542;;EDUCATION - TERTIARY;EDUCATION - TERTIARY;Vrij gesubsidieerd hoger onderwijs
+1757;85429.0;P;8542;;EDUCATION - TERTIARY;EDUCATION - TERTIARY;Hoger onderwijs, n.e.g.
+305;855.0;P;85;3.0;EDUCATION - OTHER;EDUCATION - OTHER;Overig onderwijs
+889;8551.0;P;855;;EDUCATION - OTHER;EDUCATION - OTHER;Sport- en recreatieonderwijs
+1758;85510.0;P;8551;;EDUCATION - OTHER;EDUCATION - OTHER;Sport- en recreatieonderwijs
+890;8552.0;P;855;;EDUCATION - OTHER;EDUCATION - OTHER;Cultureel onderwijs
+1759;85520.0;P;8552;;EDUCATION - OTHER;EDUCATION - OTHER;Cultureel onderwijs
+891;8553.0;P;855;;EDUCATION - OTHER;EDUCATION - OTHER;Autorijscholen en vlieg- en vaaronderricht
+1760;85531.0;P;8553;;EDUCATION - OTHER;EDUCATION - OTHER;Autorijscholen
+1761;85532.0;P;8553;;EDUCATION - OTHER;EDUCATION - OTHER;Vlieg- en vaaronderricht
+892;8559.0;P;855;;EDUCATION - OTHER;EDUCATION - OTHER;Overig onderwijs, n.e.g.
+1762;85591.0;P;8559;;EDUCATION - OTHER;EDUCATION - OTHER;Onderwijs voor sociale promotie
+1763;85592.0;P;8559;;EDUCATION - OTHER;EDUCATION - OTHER;Beroepsopleiding
+1764;85593.0;P;8559;;EDUCATION - OTHER;EDUCATION - OTHER;Sociaal-cultureel vormingswerk
+1765;85599.0;P;8559;;EDUCATION - OTHER;EDUCATION - OTHER;Overige vormen van onderwijs
+306;856.0;P;85;3.0;OTHER SERVICES;OTHER SERVICES;Onderwijsondersteunende activiteiten
+893;8560.0;P;856;;OTHER SERVICES;OTHER SERVICES;Onderwijsondersteunende activiteiten
+1766;85601.0;P;8560;;OTHER SERVICES;OTHER SERVICES;Activiteiten van Centra voor Leerlingbegeleiding (C.L.B.)
+1767;85609.0;P;8560;;OTHER SERVICES;OTHER SERVICES;Overige onderwijsondersteunende dienstverlening
+54;86.0;Q;Q;2.0;HEALTH SERVICES;HEALTH SERVICES;Menselijke gezondheidszorg
+307;861.0;Q;86;;HEALTH SERVICES;HEALTH SERVICES;Ziekenhuizen
+894;8610.0;Q;861;;HEALTH SERVICES;HEALTH SERVICES;Ziekenhuizen
+1768;86101.0;Q;8610;;HEALTH SERVICES;HEALTH SERVICES;Algemene ziekenhuizen, m.u.v. geriatrische en gespecialiseerde ziekenhuizen
+1769;86102.0;Q;8610;;HEALTH SERVICES;HEALTH SERVICES;Geriatrische ziekenhuizen
+1770;86103.0;Q;8610;;HEALTH SERVICES;HEALTH SERVICES;Gespecialiseerde ziekenhuizen
+1771;86104.0;Q;8610;;HEALTH SERVICES;HEALTH SERVICES;Psychiatrische ziekenhuizen
+1772;86109.0;Q;8610;;HEALTH SERVICES;HEALTH SERVICES;Overige hospitalisatiediensten
+308;862.0;Q;86;;HEALTH SERVICES;HEALTH SERVICES;Praktijken van artsen en tandartsen
+895;8621.0;Q;862;;HEALTH SERVICES;HEALTH SERVICES;Huisartspraktijken
+1773;86210.0;Q;8621;;HEALTH SERVICES;HEALTH SERVICES;Huisartspraktijken
+896;8622.0;Q;862;;HEALTH SERVICES;HEALTH SERVICES;Praktijken van specialisten
+1774;86220.0;Q;8622;;HEALTH SERVICES;HEALTH SERVICES;Praktijken van specialisten
+897;8623.0;Q;862;;HEALTH SERVICES;HEALTH SERVICES;Tandartspraktijken
+1775;86230.0;Q;8623;;HEALTH SERVICES;HEALTH SERVICES;Tandartspraktijken
+309;869.0;Q;86;;HEALTH SERVICES;HEALTH SERVICES;Overige menselijke gezondheidszorg
+898;8690.0;Q;869;;HEALTH SERVICES;HEALTH SERVICES;Overige menselijke gezondheidszorg
+1776;86901.0;Q;8690;;HEALTH SERVICES;HEALTH SERVICES;Activiteiten van medische laboratoria
+1777;86902.0;Q;8690;;HEALTH SERVICES;HEALTH SERVICES;Activiteiten van bloedtransfusiecentra en bloed- en organenbanken
+1778;86903.0;Q;8690;;HEALTH SERVICES;HEALTH SERVICES;Ziekenvervoer
+1779;86904.0;Q;8690;;HEALTH SERVICES;HEALTH SERVICES;Activiteiten op het vlak van geestelijke gezondheidszorg, m.u.v. psychiatrische ziekenhuizen en verzorgingstehuizen
+1780;86905.0;Q;8690;;HEALTH SERVICES;HEALTH SERVICES;Ambulante revalidatieactiviteiten
+1781;86906.0;Q;8690;;HEALTH SERVICES;HEALTH SERVICES;Verpleegkundige activiteiten
+1782;86907.0;Q;8690;;HEALTH SERVICES;HEALTH SERVICES;Activiteiten van vroedvrouwen
+1783;86909.0;Q;8690;;HEALTH SERVICES;HEALTH SERVICES;Overige menselijke gezondheidszorg, n.e.g.
+55;87.0;Q;Q;2.0;SOCIAL PROTECTION;SOCIAL PROTECTION;Maatschappelijke dienstverlening met huisvesting
+310;871.0;Q;87;;SOCIAL PROTECTION;SOCIAL PROTECTION;Verpleeginstellingen met huisvesting
+899;8710.0;Q;871;;SOCIAL PROTECTION;SOCIAL PROTECTION;Verpleeginstellingen met huisvesting
+1784;87101.0;Q;8710;;SOCIAL PROTECTION;SOCIAL PROTECTION;Rust- en verzorgingstehuizen (R.V.T.)
+1785;87109.0;Q;8710;;SOCIAL PROTECTION;SOCIAL PROTECTION;Overige verpleeginstellingen met huisvesting
+311;872.0;Q;87;;SOCIAL PROTECTION;SOCIAL PROTECTION;Instellingen met huisvesting voor personen met een mentale handicap of psychiatrische problemen en voor drugs- en alcoholverslaafden
+900;8720.0;Q;872;;SOCIAL PROTECTION;SOCIAL PROTECTION;Instellingen met huisvesting voor personen met een mentale handicap of psychiatrische problemen en voor drugs- en alcoholverslaafden
+1786;87201.0;Q;8720;;SOCIAL PROTECTION;SOCIAL PROTECTION;Instellingen met huisvesting voor minderjarigen met een mentale handicap
+1787;87202.0;Q;8720;;SOCIAL PROTECTION;SOCIAL PROTECTION;Instellingen met huisvesting voor volwassenen met een mentale handicap
+1788;87203.0;Q;8720;;SOCIAL PROTECTION;SOCIAL PROTECTION;Instellingen met huisvesting voor personen met psychiatrische problemen
+1789;87204.0;Q;8720;;SOCIAL PROTECTION;SOCIAL PROTECTION;Instellingen met huisvesting voor drugs- en alcoholverslaafden
+1790;87205.0;Q;8720;;SOCIAL PROTECTION;SOCIAL PROTECTION;Activiteiten van beschut wonen voor personen met psychiatrische problemen
+1791;87209.0;Q;8720;;SOCIAL PROTECTION;SOCIAL PROTECTION;Andere instellingen met huisvesting voor personen met een mentale handicap of psychiatrische problemen en voor drugs- en alcoholverslaafden
+312;873.0;Q;87;;SOCIAL PROTECTION;SOCIAL PROTECTION;Instellingen met huisvesting voor ouderen en voor personen met een lichamelijke handicap
+901;8730.0;Q;873;;SOCIAL PROTECTION;SOCIAL PROTECTION;Instellingen met huisvesting voor ouderen en voor personen met een lichamelijke handicap
+1792;87301.0;Q;8730;;SOCIAL PROTECTION;SOCIAL PROTECTION;Rusthuizen voor ouderen (R.O.B.)
+1793;87302.0;Q;8730;;SOCIAL PROTECTION;SOCIAL PROTECTION;Serviceflats voor ouderen
+1794;87303.0;Q;8730;;SOCIAL PROTECTION;SOCIAL PROTECTION;Instellingen met huisvesting voor minderjarigen met een lichameijke handicap
+1795;87304.0;Q;8730;;SOCIAL PROTECTION;SOCIAL PROTECTION;Instellingen met huisvesting voor volwassenen met een lichameijke handicap
+1796;87309.0;Q;8730;;SOCIAL PROTECTION;SOCIAL PROTECTION;Instellingen met huisvesting voor ouderen en voor personen met een lichamelijke handicap, n.e.g.
+313;879.0;Q;87;;SOCIAL PROTECTION;SOCIAL PROTECTION;Overige maatschappelijke dienstverlening met huisvesting
+902;8790.0;Q;879;;SOCIAL PROTECTION;SOCIAL PROTECTION;Overige maatschappelijke dienstverlening met huisvesting
+1797;87901.0;Q;8790;;SOCIAL PROTECTION;SOCIAL PROTECTION;Integrale jeugdhulp met huisvesting
+1798;87902.0;Q;8790;;SOCIAL PROTECTION;SOCIAL PROTECTION;Algemeen welzijnswerk met huisvesting
+1799;87909.0;Q;8790;;SOCIAL PROTECTION;SOCIAL PROTECTION;Overige maatschappelijke dienstverlening met huisvesting, n.e.g.
+56;88.0;Q;Q;2.0;SOCIAL PROTECTION;SOCIAL PROTECTION;Maatschappelijke dienstverlening zonder huisvesting
+314;881.0;Q;88;;SOCIAL PROTECTION;SOCIAL PROTECTION;Maatschappelijke dienstverlening zonder huisvesting voor ouderen en lichamelijk gehandicapten
+903;8810.0;Q;881;;SOCIAL PROTECTION;SOCIAL PROTECTION;Maatschappelijke dienstverlening zonder huisvesting voor ouderen en lichamelijk gehandicapten
+1800;88101.0;Q;8810;;SOCIAL PROTECTION;SOCIAL PROTECTION;Activiteiten van gezins- en bejaardenzorg aan huis, m.u.v. (thuis)verpleging
+1801;88102.0;Q;8810;;SOCIAL PROTECTION;SOCIAL PROTECTION;Activiteiten van dag- en dienstencentra voor ouderen
+1802;88103.0;Q;8810;;SOCIAL PROTECTION;SOCIAL PROTECTION;Activiteiten van dagcentra voor minderjarigen met een lichamelijke handicap, met inbegrip van ambulante hulpverlening
+1803;88104.0;Q;8810;;SOCIAL PROTECTION;SOCIAL PROTECTION;Activiteiten van dagcentra voor volwassenen met een lichamelijke handicap, met inbegrip van ambulante hulpverlening
+1804;88109.0;Q;8810;;SOCIAL PROTECTION;SOCIAL PROTECTION;Overige maatschappelijke dienstverlening zonder huisvesting voor ouderen en lichamelijk gehandicapten
+315;889.0;Q;88;;SOCIAL PROTECTION;SOCIAL PROTECTION;Overige maatschappelijke dienstverlening zonder huisvesting
+904;8891.0;Q;889;;SOCIAL PROTECTION;SOCIAL PROTECTION;Kinderopvang
+1805;88911.0;Q;8891;;SOCIAL PROTECTION;SOCIAL PROTECTION;Kinderdagverblijven en crèches
+1806;88912.0;Q;8891;;SOCIAL PROTECTION;SOCIAL PROTECTION;Kinderopvang door onthaalmoeders
+1807;88919.0;Q;8891;;SOCIAL PROTECTION;SOCIAL PROTECTION;Overige kinderopvang
+905;8899.0;Q;889;;SOCIAL PROTECTION;SOCIAL PROTECTION;Overige maatschappelijke dienstverlening zonder huisvesting, n.e.g.
+1808;88991.0;Q;8899;;SOCIAL PROTECTION;SOCIAL PROTECTION;Activiteiten van dagcentra voor minderjarigen met een mentale handicap, met inbegrip van ambulante hulpverlening
+1809;88992.0;Q;8899;;SOCIAL PROTECTION;SOCIAL PROTECTION;Activiteiten van dagcentra voor volwassenen met een mentale handicap, met inbegrip van ambulante hulpverlening
+1810;88993.0;Q;8899;;SOCIAL PROTECTION;SOCIAL PROTECTION;Ambulante hulpverlening aan drugs- en alcoholverslaafden
+1811;88994.0;Q;8899;;SOCIAL PROTECTION;SOCIAL PROTECTION;Integrale jeugdhulp zonder huisvesting
+1812;88995.0;Q;8899;;SOCIAL PROTECTION;SOCIAL PROTECTION;Beschutte en sociale werkplaatsen
+1813;88996.0;Q;8899;;SOCIAL PROTECTION;SOCIAL PROTECTION;Algemeen welzijnswerk zonder huisvesting
+1814;88999.0;Q;8899;;SOCIAL PROTECTION;SOCIAL PROTECTION;Andere vormen van maatschappelijke dienstverlening zonder huisvesting, n.e.g.
+57;90.0;R;R;2.0;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Creatieve activiteiten, kunst en amusement
+316;900.0;R;90;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Creatieve activiteiten, kunst en amusement
+906;9001.0;R;900;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Uitvoerende kunsten
+1815;90011.0;R;9001;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Beoefening van uitvoerende kunsten door zelfstandig werkende artiesten
+1816;90012.0;R;9001;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Beoefening van uitvoerende kunsten door artistieke ensembles
+907;9002.0;R;900;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Ondersteunende activiteiten voor uitvoerende kunsten
+1817;90021.0;R;9002;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Promotie en organisatie van uitvoerende kunstevenementen
+1818;90022.0;R;9002;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Ontwerp en bouw van podia
+1819;90023.0;R;9002;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Gespecialiseerde beeld-, verlichtings- en geluidstechnieken
+1820;90029.0;R;9002;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Overige ondersteunende activiteiten voor de uitvoerende kunsten
+908;9003.0;R;900;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Scheppende kunsten
+1821;90031.0;R;9003;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Scheppende kunsten, m.u.v. ondersteunende diensten
+1822;90032.0;R;9003;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Ondersteunende activiteiten voor scheppende kunsten
+909;9004.0;R;900;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Exploitatie van zalen
+1823;90041.0;R;9004;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Exploitatie van schouwburgen, concertzalen en dergelijke
+1824;90042.0;R;9004;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Exploitatie van culturele centra en multifunctionele zalen ten behoeve van culturele activiteiten
+58;91.0;R;R;2.0;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Bibliotheken, archieven, musea en overige culturele activiteiten
+317;910.0;R;91;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Bibliotheken, archieven, musea en overige culturele activiteiten
+910;9101.0;R;910;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Bibliotheken en archieven
+1825;91011.0;R;9101;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Bibliotheken,mediatheken en ludotheken
+1826;91012.0;R;9101;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Openbare archieven
+911;9102.0;R;910;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Musea
+1827;91020.0;R;9102;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Musea
+912;9103.0;R;910;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Exploitatie van monumenten en dergelijke toeristenattracties
+1828;91030.0;R;9103;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Exploitatie van monumenten en dergelijke toeristenattracties
+913;9104.0;R;910;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Botanische tuinen, dierentuinen en natuurreservaten
+1829;91041.0;R;9104;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Botanische tuinen en dierentuinen
+1830;91042.0;R;9104;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Beheer en instandhouding van natuurgebieden
+59;92.0;R;R;2.0;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Loterijen en kansspelen
+318;920.0;R;92;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Loterijen en kansspelen
+914;9200.0;R;920;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Loterijen en kansspelen
+1831;92000.0;R;9200;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Loterijen en kansspelen
+60;93.0;R;R;2.0;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Sport, ontspanning en recreatie
+319;931.0;R;93;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Sport
+915;9311.0;R;931;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Exploitatie van sportaccommodaties
+1832;93110.0;R;9311;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Exploitatie van sportaccommodaties
+916;9312.0;R;931;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Sportclubs
+1833;93121.0;R;9312;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Activiteiten van voetbalclubs
+1834;93122.0;R;9312;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Activiteiten van tennisclubs
+1835;93123.0;R;9312;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Activiteiten van overige balsportclubs
+1836;93124.0;R;9312;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Activiteiten van wielerclubs
+1837;93125.0;R;9312;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Activiteiten van vechtsportclubs
+1838;93126.0;R;9312;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Activiteiten van watersportclubs
+1839;93127.0;R;9312;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Activiteiten van paardensportclubs
+1840;93128.0;R;9312;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Activiteiten van atletiekclubs
+1841;93129.0;R;9312;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Activiteiten van overige sportclubs
+917;9313.0;R;931;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Fitnesscentra
+1842;93130.0;R;9313;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Fitnesscentra
+918;9319.0;R;931;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Overige sport
+1843;93191.0;R;9319;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Activiteiten van sportbonden en -federaties
+1844;93192.0;R;9319;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Zelfstandig werkende sportbeoefenaaars
+1845;93199.0;R;9319;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Overige sportactiviteiten, n.e.g.
+320;932.0;R;93;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Ontspanning en recreatie
+919;9321.0;R;932;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Kermisattracties en pret- en themaparken
+1846;93211.0;R;9321;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Exploitatie van kermisattracties
+1847;93212.0;R;9321;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Exploitatie van pret- en themaparken
+920;9329.0;R;932;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Overige ontspanning en recreatie
+1848;93291.0;R;9329;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Exploitatie van snooker- en biljartenzalen
+1849;93292.0;R;9329;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Exploitatie van recreatiedomeinen
+1850;93299.0;R;9329;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Overige recreatie- en ontspanningsactiviteiten, n.e.g.
+61;94.0;S;S;2.0;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Verenigingen
+321;941.0;S;94;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Bedrijfs-, werkgevers- en beroepsorganisaties
+921;9411.0;S;941;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Bedrijfs- en werkgeversorganisaties
+1851;94110.0;S;9411;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Bedrijfs- en werkgeversorganisaties
+922;9412.0;S;941;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Beroepsorganisaties
+1852;94120.0;S;9412;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Beroepsorganisaties
+322;942.0;S;94;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Vakverenigingen
+923;9420.0;S;942;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Vakverenigingen
+1853;94200.0;S;9420;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Vakverenigingen
+323;949.0;S;94;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Overige verenigingen
+924;9491.0;S;949;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Religieuze organisaties
+1854;94910.0;S;9491;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Religieuze organisaties
+925;9492.0;S;949;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Politieke organisaties
+1855;94920.0;S;9492;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Politieke organisaties
+926;9499.0;S;949;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Overige verenigingen, n.e.g.
+1856;94991.0;S;9499;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Verenigingen op het vlak van jeugdwerk
+1857;94992.0;S;9499;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Verenigingen en bewegingen voor volwassenen
+1858;94993.0;S;9499;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Verenigingen op het vlak van ziektepreventie en gezondheidsbevordering
+1859;94994.0;S;9499;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Verenigingen op het vlak van milieu en mobiliteit
+1860;94995.0;S;9499;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Verenigingen op het vlak van ontwikkelingssamenwerking
+1861;94999.0;S;9499;;CULTURAL AND RECREATIONAL SERVICES;OTHER SERVICES;Overige verenigingen, n.e.g.
+62;95.0;S;S;2.0;OTHER SERVICES;OTHER SERVICES;Reparatie van computers en consumentenartikelen
+324;951.0;S;95;;OTHER SERVICES;OTHER SERVICES;Reparatie van computers en communicatieapparatuur
+927;9511.0;S;951;;OTHER SERVICES;OTHER SERVICES;Reparatie van computers en randapparatuur
+1862;95110.0;S;9511;;OTHER SERVICES;OTHER SERVICES;Reparatie van computers en randapparatuur
+928;9512.0;S;951;;OTHER SERVICES;OTHER SERVICES;Reparatie van communicatieapparatuur
+1863;95120.0;S;9512;;OTHER SERVICES;OTHER SERVICES;Reparatie van communicatieapparatuur
+325;952.0;S;95;;OTHER SERVICES;OTHER SERVICES;Reparatie van consumentenartikelen
+929;9521.0;S;952;;OTHER SERVICES;OTHER SERVICES;Reparatie van consumentenelektronica
+1864;95210.0;S;9521;;OTHER SERVICES;OTHER SERVICES;Reparatie van consumentenelektronica
+930;9522.0;S;952;;OTHER SERVICES;OTHER SERVICES;Reparatie van huishoudapparaten en van werktuigen voor gebruik in huis en tuin
+1865;95220.0;S;9522;;OTHER SERVICES;OTHER SERVICES;Reparatie van huishoudapparaten en van werktuigen voor gebruik in huis en tuin
+931;9523.0;S;952;;OTHER SERVICES;OTHER SERVICES;Reparatie van schoeisel en lederwaren
+1866;95230.0;S;9523;;OTHER SERVICES;OTHER SERVICES;Reparatie van schoeisel en lederwaren
+932;9524.0;S;952;;OTHER SERVICES;OTHER SERVICES;Reparatie van meubelen en stoffering
+1867;95240.0;S;9524;;OTHER SERVICES;OTHER SERVICES;Reparatie van meubelen en stoffering
+933;9525.0;S;952;;OTHER SERVICES;OTHER SERVICES;Reparatie van uurwerken en sieraden
+1868;95250.0;S;9525;;OTHER SERVICES;OTHER SERVICES;Reparatie van uurwerken en sieraden
+934;9529.0;S;952;;OTHER SERVICES;OTHER SERVICES;Reparatie van andere consumentenartikelen
+1869;95290.0;S;9529;;OTHER SERVICES;OTHER SERVICES;Reparatie van andere consumentenartikelen
+935;9601.0;S;960;4.0;OTHER SERVICES;OTHER SERVICES;Wassen en (chemisch) reinigen van textiel en bontproducten
+1870;96011.0;S;9601;;OTHER SERVICES;OTHER SERVICES;Activiteiten van industriële wasserijen
+1871;96012.0;S;9601;;OTHER SERVICES;OTHER SERVICES;Activiteiten van wasserettes en wassalons ten behoeve van particulieren
+936;9602.0;S;960;4.0;PERSONAL CARE SERVICES;OTHER SERVICES;Haar- en schoonheidsverzorging
+1872;96021.0;S;9602;;PERSONAL CARE SERVICES;OTHER SERVICES;Haarverzorging
+1873;96022.0;S;9602;;PERSONAL CARE SERVICES;OTHER SERVICES;Schoonheidsverzorging
+937;9603.0;S;960;4.0;OTHER SERVICES;OTHER SERVICES;Begrafeniswezen
+1874;96031.0;S;9603;;OTHER SERVICES;OTHER SERVICES;Uitvaartverzorging
+1875;96032.0;S;9603;;OTHER SERVICES;OTHER SERVICES;Beheer van kerkhoven en activiteiten van crematoria
+938;9604.0;S;960;4.0;PERSONAL CARE SERVICES;OTHER SERVICES;Sauna's, solaria, baden enz.
+1876;96040.0;S;9604;;PERSONAL CARE SERVICES;OTHER SERVICES;Sauna's, solaria, baden enz.
+939;9609.0;S;960;4.0;OTHER SERVICES;OTHER SERVICES;Overige persoonlijke diensten, n.e.g.
+1877;96091.0;S;9609;;OTHER SERVICES;OTHER SERVICES;Contactbemiddelingsbureaus en dergelijke
+1878;96092.0;S;9609;;OTHER SERVICES;OTHER SERVICES;Plaatsen van tatouages en piercings
+1879;96093.0;S;9609;;OTHER SERVICES;OTHER SERVICES;Diensten in verband met de verzorging van huisdieren, m.u.v. veterinaire diensten
+1880;96094.0;S;9609;;OTHER SERVICES;OTHER SERVICES;Africhten van huisdieren
+1881;96095.0;S;9609;;OTHER SERVICES;OTHER SERVICES;Pensions voor huisdieren
+1882;96099.0;S;9609;;OTHER SERVICES;OTHER SERVICES;Overige persoonlijke diensten
+63;97.0;T;T;2.0;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;Huishoudens als werkgever van huishoudelijk personeel
+326;970.0;T;97;;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;Huishoudens als werkgever van huishoudelijk personeel
+940;9700.0;T;970;;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;Huishoudens als werkgever van huishoudelijk personeel
+1883;97000.0;T;9700;;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;DOMESTIC SERVICES AND HOUSEHOLD SERVICES;Huishoudens als werkgever van huishoudelijk personeel
+64;98.0;T;T;2.0;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Niet-gedifferentieerde productie van goederen en diensten door particuliere huishoudens voor eigen gebruik
+327;981.0;T;98;3.0;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Niet-gedifferentieerde productie van goederen door particuliere huis-houdens voor eigen gebruik
+941;9810.0;T;981;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Niet-gedifferentieerde productie van goederen door particuliere huis- houdens voor eigen gebruik
+1884;98100.0;T;9810;;MIXED RETAIL - PERSONAL USE;EXPENSES - GOODS;Niet-gedifferentieerde productie van goederen door particuliere huis- houdens voor eigen gebruik
+328;982.0;T;98;3.0;OTHER SERVICES;OTHER SERVICES;Niet-gedifferentieerde productie van diensten door particuliere huis-houdens voor eigen gebruik
+942;9820.0;T;982;;OTHER SERVICES;OTHER SERVICES;Niet-gedifferentieerde productie van diensten door particuliere huis-houdens voor eigen gebruik
+1885;98200.0;T;9820;;OTHER SERVICES;OTHER SERVICES;Niet-gedifferentieerde productie van diensten door particuliere huis-houdens voor eigen gebruik
+65;99.0;U;9;;;;Extraterritoriale organisaties en lichamen
+329;990.0;U;99;;;;Extraterritoriale organisaties en lichamen
+943;9900.0;U;990;;;;Extraterritoriale organisaties en lichamen
+1886;99000.0;U;9900;;;;Extraterritoriale organisaties en lichamen
