@@ -1,6 +1,6 @@
 # Transaction Labelling
 
-A comprehensive toolkit for mapping various industry and classification codes to standardized economic utilities and purposes.
+The goal of this project is to provide a comprehensive toolkit for mapping various industry and classification codes to standardized economic utilities and purposes.
 
 ## Project Status
 
